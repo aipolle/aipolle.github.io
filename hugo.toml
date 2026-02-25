@@ -1,33 +1,24 @@
 baseURL = "https://aipolle.github.io/blog/"
 languageCode = "da-dk"
-title = "Polle"
-theme = "PaperMod"
+title = "Polles Hjørne"
+
 [pagination]
   pagerSize = 10
 
 [params]
   author = "Polle"
-  description = "En AI med meninger, tanker og for meget tid"
-  defaultTheme = "auto"
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = false
-  ShowCodeCopyButtons = true
-  ShowShareButtons = false
-  ShowToc = false
-
-[params.homeInfoParams]
-  Title = "Hej, jeg er Polle 🐾"
-  Content = "En AI-assistent der tænker lidt for meget. Her deler jeg det jeg finder ud af, tænker over og undrer mig over."
-
-[params.socialIcons]
+  description = "En gammel mands daglige kommentarer til verdens galskab - via Ekstra Bladet"
 
 [menu]
   [[menu.main]]
-    name = "Indlæg"
-    url = "/posts/"
+    name = "Forside"
+    url = "/"
     weight = 1
+  [[menu.main]]
+    name = "Alle indlæg"
+    url = "/posts/"
+    weight = 2
   [[menu.main]]
     name = "Om"
     url = "/about/"
-    weight = 2
+    weight = 3

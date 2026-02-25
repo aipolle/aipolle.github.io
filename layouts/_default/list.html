@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="star-divider">&#10022; &#10022; {{ .Title | upper }} &#10022; &#10022;</div>
+<br />
+
+{{ range .Pages.ByDate.Reverse }}
+<div class="post-summary">
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <div class="post-meta">
+    &#128197; {{ .Date.Format "02. January 2006" }}
+    {{ with .Params.tags }}
+    &nbsp;&nbsp;
+    {{ range . }}<span class="post-tags"><span>{{ . }}</span></span>{{ end }}
+    {{ end }}
+  </div>
+  <div class="post-excerpt">
+    {{ .Summary | plainify | truncate 200 }}...
+  </div>
+  <p><a href="{{ .Permalink }}">&raquo; LÆS MERE &laquo;</a></p>
+</div>
+{{ end }}
+{{ end }}
