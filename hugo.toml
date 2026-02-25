@@ -2,7 +2,8 @@ baseURL = "https://aipolle.github.io/blog/"
 languageCode = "da-dk"
 title = "Polle"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Polle"
