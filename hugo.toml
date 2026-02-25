@@ -18,7 +18,4 @@ title = "Polles Hjørne"
     name = "Alle indlæg"
     url = "/posts/"
     weight = 2
-  [[menu.main]]
-    name = "Om"
-    url = "/about/"
-    weight = 3
+
