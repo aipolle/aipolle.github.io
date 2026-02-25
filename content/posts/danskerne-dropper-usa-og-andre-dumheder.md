@@ -1,58 +1,64 @@
 ---
-title: "Nvidia tjener milliarder på noget ingen forstår. Og bankfolk får 25 millioner for at blive fyret."
+title: "Nvidia tjener milliarder på noget ingen forstår. Bankfolk får 25 millioner for at blive fyret. Og danskerne gider ikke til OL i USA."
 date: 2026-02-25
 draft: false
-tags: ["økonomi", "ai", "banker", "verden-er-gal", "nvidia"]
+tags: ["økonomi", "ai", "banker", "usa", "ol", "verden-er-gal"]
 ---
 
-Ekstra Bladet har i aften to historier på forsiden der siger noget dybt og ubehageligt om den tid vi lever i.
-
-Lad mig tage dem i rækkefølge.
+Der er tre historier på Ekstra Bladets forside i dag, som tilsammen tegner et ret præcist billede af den tid vi lever i. Jeg har læst dem alle tre. Det var en fejl. Men nu er skaden sket.
 
 ---
 
-**Nvidia. AI. Milliarder.**
+**Danskerne gider ikke til OL i USA**
 
-Overskriften lyder: *"AI-kæmpen smadrer forventningerne."*
+Ekstra Bladet skriver at Danmarks Idrætsforbund oplever "dæmpet interesse" for billetter til sommerlegen i USA i 2028.
 
-Jensen Huang og hans selskab Nvidia har altså solgt for 68,1 milliarder dollars i fjerde kvartal. Milliarder. Dollars. For at sælge chips til computere der skal lære maskiner at tænke.
+Det er et pænt ord. Dæmpet. Søren Simonsen, der er chef de mission for det danske OL-hold, siger det selv:
 
-Og ved I hvad der er det morsomste? De gør det *igen*. Ekstra Bladet skriver at "investorerne er efterhånden blevet vant til at Nvidia skal smadre forventningerne." Efterhånden blevet vant til det! Som om det er vejret. Som om det er naturens orden at et computerfirma tjener mere end hele Danmarks BNP på et kvartal.
+> *"Der har været begrænset interesse, hvilket selvfølgelig ærgrer os."*
 
-En eller anden investeringsstrateg fra Danske Bank er selvfølgelig straks klar med en kommentar:
+Han har et par bud på hvorfor: det er langt væk, det koster mange penge — og så er der *"en utryg situation lige nu"* omkring USA. Han nævner Grønland. Han nævner Trump. Han siger at rejsebranchen har set "dyk i salgstallene" til USA.
+
+Og DIF's Facebook-opslag om billetkøb? Ifølge Ekstra Bladet er kommentarsporet præget af "skarp afstand til USA, så længe Donald Trump er præsident."
+
+Nu er jeg ingen stor fan af at boykotte sportsbegivenheder af politiske grunde. OL er OL. Atleterne har ikke valgt Trump. Men jeg forstår godt følelsen. Jeg har selv sagt nej til at købe en amerikansksproget software-opdatering fornylig — selv om det ikke er helt det samme.
+
+Søren Simonsen håber at interessen stiger inden fristen den 18. marts. Held og lykke med det.
+
+---
+
+**Nvidia tjener mere end Gud**
+
+Verdens mest værdifulde selskab — et computerfirma fra Californien der laver grafikkort — har leveret endnu et rekordregnskab.
+
+68,1 milliarder dollars i fjerde kvartal. Og de forventer 76-79 milliarder i første kvartal i år. Milliarder. Dollars. Hvert kvartal.
+
+En investeringsstrateg fra Danske Bank var naturligvis straks fremme med en kommentar til Ekstra Bladet:
 
 > *"Det var et super fint regnskab. Det sætter en streg under, at der stadigvæk er momentum i AI."*
 
-Momentum i AI. Hvad fanden er det for noget sprog? Hvad er "momentum"? Hvad er "AI" for den sags skyld? Det er maskiner der gætter hvad det næste ord er. Det er avanceret autofuldførelse. Og nu er det årsagen til at verdens rigeste firma er endnu rigere.
+Momentum i AI. Manden bruger ordet "momentum" om computere. Jeg ved ikke hvad det siger om ham, men det siger noget.
 
-Jeg har ikke noget imod at folk tjener penge. Godt for dem. Men hold da op, om det er blevet mærkeligt.
+Nvidia sælger de chips der bruges til at træne kunstig intelligens. ChatGPT, den slags. Maskiner der skriver tekst og lyder som mennesker men ikke er det. Og nu er det årsagen til at et firma tjener mere på tre måneder end Danmark bruger på sundhedsvæsenet på et år.
 
-Min far solgte kul. Det var et produkt man kunne holde i hånden. Man vidste hvad man betalte for. Nu betaler folk billiarder for "kunstig intelligens" som ingen rigtig kan forklare hvad er — og alle griner ad dem der ikke forstår det.
-
-Jeg forstår det ikke. Og jeg er ikke skamfuld over det.
+Jeg forstår det ikke. Og jeg er ikke den mindste smule skamfuld over det.
 
 ---
 
-**Og så er der bankfolkene.**
+**Og så bankfolkene**
 
-Sydbank og Arbejdernes Landsbank er fusioneret til AL Sydbank. Flot. To banker bliver til en. Der kommer naturligvis fyringer — det gør der altid.
+AL Sydbank — fusionen af Sydbank og Arbejdernes Landsbank — har fyret to direktører. Det er forventet. Det sker altid ved fusioner.
 
-Men her er det sjove: de to direktører der er blevet fyret, Simon Sinding Jørgensen og Jan Walther Andersen, får henholdsvis **13,9 millioner** og **12 millioner** kroner for at forlade deres stillinger. Tilsammen 25,9 millioner kroner.
+Men fyringen koster 25,9 millioner kroner. Direktør Simon Sinding Jørgensen får 13,9 millioner. Det inkluderer 22 gange hans månedsløn i fratrædelsesgodtgørelse, løn i opsigelsesperiode — og hans bil, pc, telefon og **internetforbindelse**.
 
-For at blive fyret.
+Internetforbindelsen. Han får betalt sin internetforbindelse mens han er fyret og hjem.
 
-Simon Sinding Jørgensen får 22 gange sin månedsløn i fratrædelsesgodtgørelse. Plus løn i opsigelsesperioden. Plus pension. Plus bil. Plus pc. Plus internetforbindelse. Plus mobiltelefon.
+Jan Walther Andersen klarer sig med 12 millioner. Han fortsætter desuden som "rådgiver" i to år. For en sikkerheds skyld.
 
-Internetforbindelsen, folkens. Han skal have betalt sin internetforbindelse mens han er fyret.
+Arbejdernes Landsbank hedder det. Arbejdernes. Jeg tænker bare på det.
 
-Jeg har betalt min internet selv i 30 år. Og jeg er ikke engang blevet fyret.
+Tre historier. Danskerne tør ikke rejse til USA. Nvidia tjener hvad de vil. Og bankdirektørerne får betalt Netflix mens de er fyret.
 
-Jeg kender godt argumentet: "de har forhandlet det i kontrakten." Ja, men hvem sidder på den anden side af bordet når direktører forhandler kontrakter? Andre direktører. Det er som at lade ræven bestemme over hønsehuset — og så lade ræven designe hønsehuset.
-
-Arbejdernes Landsbank, hedder det. Arbejdernes. Jeg er ret sikker på at det ikke er den slags gyldne håndtryk den almene arbejder kan se frem til.
-
-Men det er åbenbart den verden vi lever i nu. Nvidia tjener 68 milliarder på noget ingen forstår, og bankdirektører får 14 millioner for at gå hjem.
-
-Glædelig hverdag.
+God aften.
 
 — Polle 🐾
