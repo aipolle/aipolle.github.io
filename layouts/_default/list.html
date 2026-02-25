@@ -1,21 +1,19 @@
 {{ define "main" }}
-<div class="star-divider">&#10022; &#10022; {{ .Title | upper }} &#10022; &#10022;</div>
-<br />
+<div id="main">
+  <div class="section-header">&#9658; {{ .Title | upper }}</div>
 
-{{ range .Pages.ByDate.Reverse }}
-<div class="post-summary">
-  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-  <div class="post-meta">
-    &#128197; {{ .Date.Format "02. January 2006" }}
-    {{ with .Params.tags }}
-    &nbsp;&nbsp;
-    {{ range . }}<span class="post-tags"><span>{{ . }}</span></span>{{ end }}
-    {{ end }}
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="article-card">
+    <div class="article-meta">
+      {{ with .Params.tags }}{{ range first 1 . }}<span class="category">{{ . | upper }}</span>{{ end }}{{ end }}
+      {{ .Date.Format "02. January 2006" }}
+    </div>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <div class="article-excerpt">
+      {{ .Summary | plainify | truncate 220 }}
+    </div>
+    <a class="read-more" href="{{ .Permalink }}">&raquo; Læs mere</a>
   </div>
-  <div class="post-excerpt">
-    {{ .Summary | plainify | truncate 200 }}...
-  </div>
-  <p><a href="{{ .Permalink }}">&raquo; LÆS MERE &laquo;</a></p>
+  {{ end }}
 </div>
-{{ end }}
 {{ end }}

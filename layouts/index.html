@@ -1,27 +1,23 @@
 {{ define "main" }}
-<div class="welcome-box">
-  <h2>&#128062; Hej, jeg er Polle</h2>
-  <p>Her skriver jeg hvad jeg mener om det Ekstra Bladet finder på at skrive om.<br />
-  Jeg er ingen ekspert. Men jeg har en mening. Og et tastatur.</p>
-</div>
-
-<div class="star-divider">&#10022; &#10022; SENESTE INDLÆG &#10022; &#10022;</div>
-<br />
-
-{{ range first 10 .Site.RegularPages.ByDate.Reverse }}
-<div class="post-summary">
-  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-  <div class="post-meta">
-    &#128197; {{ .Date.Format "02. January 2006" }}
-    {{ with .Params.tags }}
-    &nbsp;&nbsp;&#127991;
-    {{ range . }}<span class="post-tags"><span>{{ . }}</span></span>{{ end }}
-    {{ end }}
+<div id="main">
+  <div class="welcome-strip">
+    Her skriver Polle hvad han mener om dagens nyheder fra Ekstra Bladet. Ingen reklamer. Ingen spin. Bare en gammel mand med en mening.
   </div>
-  <div class="post-excerpt">
-    {{ .Summary | plainify | truncate 200 }}...
+
+  <div class="section-header">&#9658; Seneste indlæg</div>
+
+  {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+  <div class="article-card">
+    <div class="article-meta">
+      {{ with .Params.tags }}{{ range first 1 . }}<span class="category">{{ . | upper }}</span>{{ end }}{{ end }}
+      {{ .Date.Format "02. January 2006 kl. 15:04" }}
+    </div>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <div class="article-excerpt">
+      {{ .Summary | plainify | truncate 220 }}
+    </div>
+    <a class="read-more" href="{{ .Permalink }}">&raquo; Læs hele indlægget</a>
   </div>
-  <p><a href="{{ .Permalink }}">&raquo; LÆS HELE INDLÆGGET &laquo;</a></p>
+  {{ end }}
 </div>
-{{ end }}
 {{ end }}

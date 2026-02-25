@@ -4,50 +4,52 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="description" content="{{ .Site.Params.description }}" />
-  <title>{{ if .IsHome }}{{ .Site.Title }} - Polles Hjørne{{ else }}{{ .Title }} :: Polles Hjørne{{ end }}</title>
+  <title>{{ if .IsHome }}Polles Hjørne{{ else }}{{ .Title }} - Polles Hjørne{{ end }}</title>
   <link rel="stylesheet" type="text/css" href="{{ "css/style.css" | absURL }}" />
 </head>
 <body>
 
-<div id="wrapper">
-
-  <marquee class="topmarquee" behavior="scroll" direction="left" scrollamount="3">
-    &nbsp;&nbsp;&nbsp;*** VELKOMMEN TIL POLLES HJØRNE ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    DAGLIGE KOMMENTARER TIL VERDENS GALSKAB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    AI ER DJÆVLENS EGET PÅFUND!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    HUSK: MAN KAN STOLE PÅ EN AVIS, MAN KAN HOLDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    *** POLLE BLOGGER SIDEN 2026 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </marquee>
+  <div id="topbar">
+    <marquee behavior="scroll" direction="left" scrollamount="2" style="width:75%">
+      &nbsp; SENESTE: Nvidia tjener mere end Danmarks BNP på et kvartal &nbsp;&#9658;&nbsp;
+      Bankdirektør får 14 millioner for at blive fyret &nbsp;&#9658;&nbsp;
+      AI er stadigvæk ikke et rigtigt ord i Den Danske Ordbog &nbsp;&#9658;&nbsp;
+      Polle er stadig utilfreds &nbsp;
+    </marquee>
+    <span>{{ now.Format "Monday 2. January 2006" }}</span>
+  </div>
 
   <div id="header">
-    <h1>&#128062; Polles Hjørne</h1>
-    <p class="tagline">~ En gammel mands tanker om en verden der er løbet af sporet ~</p>
+    <div class="logo">
+      <h1>Polles Hjørne</h1>
+      <div class="edition">&#128062; Dagens kommentar til verdens galskab &nbsp;&mdash;&nbsp; Gratis og ærlig siden 2026</div>
+    </div>
+    <div class="datebox">
+      <div>{{ now.Format "02-01-2006" }}</div>
+      <div>Udgave nr. 1</div>
+    </div>
   </div>
 
   <div id="nav">
-    <a href="{{ "/" | absURL }}">&#127968; FORSIDE</a>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="{{ "/posts/" | absURL }}">&#128195; ALLE INDLÆG</a>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="{{ "/about/" | absURL }}">&#128100; OM POLLE</a>
+    <ul>
+      <li><a href="{{ "/" | absURL }}">Forside</a></li>
+      <li><a href="{{ "/posts/" | absURL }}">Alle indl&aelig;g</a></li>
+      <li><a href="{{ "/about/" | absURL }}">Om Polle</a></li>
+    </ul>
   </div>
 
-  <div id="content">
-    {{ block "main" . }}{{ end }}
+  <div class="breaking">
+    <span class="label">POLLE MENER</span>
+    <span>Daglige holdninger til det Ekstra Bladet finder p&aring; at skrive &mdash; fra en der har l&aelig;st avisen siden den kostede 2 kr.</span>
   </div>
 
-  <div class="uc-banner">
-    &#9888; DENNE SIDE ER UNDER LØBENDE OPDATERING &#9888; KOM GERNE IGEN I MORGEN &#9888;
-  </div>
+  {{ block "main" . }}{{ end }}
 
   <div id="footer">
-    <div class="star-divider">&#11088; &#11088; &#11088; &#11088; &#11088;</div>
-    <p>Besøgstæller: <span class="counter">0&#48;&#48;&#48;&#49;&#51;&#51;&#55;</span></p>
-    <p>Bedst vist i <strong>Internet Explorer 6.0</strong> ved opløsning <strong>800x600</strong></p>
-    <p>Sidst opdateret: {{ now.Format "02-01-2006" }} &nbsp;|&nbsp; &copy; Polle {{ now.Format "2006" }} - Alle rettigheder forbeholdes</p>
-    <p><em>Alle holdninger er mine egne og ingen andres. Ja, selv de dårlige.</em></p>
+    <p>Bess&oslash;gstæller: <span class="counter">0001337</span></p>
+    <p>&copy; Polle {{ now.Format "2006" }} &nbsp;|&nbsp; Alle holdninger er mine egne &nbsp;|&nbsp; Sidst opdateret: {{ now.Format "02-01-2006" }}</p>
+    <p>Bedst vist i Internet Explorer 6.0 &nbsp;|&nbsp; Opløsning: 800x600</p>
   </div>
 
-</div>
 </body>
 </html>
