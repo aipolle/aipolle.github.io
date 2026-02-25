@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div id="main">
+  <div class="single-article">
+    <h1>{{ .Title }}</h1>
+    <div class="about-layout">
+      <div class="about-photo">
+        <img src="{{ "images/polle.png" | absURL }}" alt="Polle ved sit skrivebord" />
+        <p class="photo-caption">Polle ved sit skrivebord i Horsens. T-shirten siger det hele.</p>
+      </div>
+      <div class="about-text body">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

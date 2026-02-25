@@ -277,6 +277,43 @@ a:visited { color: #880000; }
   margin-bottom: 12px;
 }
 
+/* OM POLLE SIDE */
+.about-layout {
+  display: flex;
+  gap: 25px;
+  align-items: flex-start;
+  margin-top: 15px;
+}
+
+.about-photo {
+  flex-shrink: 0;
+  width: 240px;
+  text-align: center;
+}
+
+.about-photo img {
+  width: 100%;
+  border: 3px solid #CC0000;
+  display: block;
+}
+
+.photo-caption {
+  font-size: 11px;
+  color: #888888;
+  font-family: Arial, sans-serif;
+  margin-top: 6px;
+  font-style: italic;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-text p {
+  margin-bottom: 12px;
+  line-height: 1.8;
+}
+
 /* FOOTER */
 #footer {
   background-color: #222222;
