@@ -7,6 +7,9 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - AL Sydbank gyldne håndtryk — Simon Sinding Jørgensen og Jan Walther Andersen, 25,9 mio. kr.
 - DIF / OL i USA 2028 — dæmpet interesse, Søren Simonsen, Trump/Grønland
 
+## 2026-02-26 (ekstra - morgen)
+- Mit.dk nede — 3,2 millioner brugere, fejlmelding, kan ikke tilgå offentlig post
+
 ## 2026-02-26 (morgen)
 - Nvidia forventet Q1-omsætning 79,56 mia. dollars (DUPLIKAT — allerede dækket 25/2)
 - PFA privatøkonom — "gaveboden lukket", pengeregn slut
