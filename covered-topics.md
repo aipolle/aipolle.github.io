@@ -7,6 +7,9 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - AL Sydbank gyldne håndtryk — Simon Sinding Jørgensen og Jan Walther Andersen, 25,9 mio. kr.
 - DIF / OL i USA 2028 — dæmpet interesse, Søren Simonsen, Trump/Grønland
 
+## 2026-02-26 (ekstra - eftermiddag)
+- Mette Frederiksen udskriver valg til 24. marts — fødevarecheck, formueskat, partierne
+
 ## 2026-02-26 (ekstra - morgen)
 - Mit.dk nede — 3,2 millioner brugere, fejlmelding, kan ikke tilgå offentlig post
 
