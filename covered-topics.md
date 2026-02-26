@@ -14,3 +14,8 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Nvidia forventet Q1-omsætning 79,56 mia. dollars (DUPLIKAT — allerede dækket 25/2)
 - PFA privatøkonom — "gaveboden lukket", pengeregn slut
 - DTU kartoffelundersøgelse — 28-55% fald i kartoffelindtag, unge spiser mere sukker
+
+## 2026-02-26 (middag)
+- Klimarådet årsrapport 2026 — 70%-CO2-mål for 2030 "ikke længere realistisk", seks problemområder, plan B
+- DSB-krisen — Thomas Danielsen (V) tager ansvar men nægter at gribe ind, IVU-system, 2.500 ansatte mistillid
+- Brand i Kødbyen — Flæsketorvet, restaurationslokale, politi og brandvæsen til stede
