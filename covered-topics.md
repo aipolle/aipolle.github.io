@@ -22,3 +22,8 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Klimarådet årsrapport 2026 — 70%-CO2-mål for 2030 "ikke længere realistisk", seks problemområder, plan B
 - DSB-krisen — Thomas Danielsen (V) tager ansvar men nægter at gribe ind, IVU-system, 2.500 ansatte mistillid
 - Brand i Kødbyen — Flæsketorvet, restaurationslokale, politi og brandvæsen til stede
+
+## 2026-02-27 (morgen)
+- Jon Stephensen / Lars Løkke Rasmussen — tilbud på 1,3 millioner kroner for at opgive mandat i Moderaterne, trusler med skandalehistorie, Kartoffelrækkerne, august 2023
+- Pakistan erklærer åben krig mod Taliban i Afghanistan — bombning af Kabul og Kandahar, Khawaja Asif, AFP-journalister hørte eksplosioner, otte afghanske soldater dræbt
+- Rocker i kæmpe smuglersag — næsten 2 tons kokain i Portimão, Portugal, ligvogn, seks danske statsborgere anholdt, samarbejde med to danske politikredse
