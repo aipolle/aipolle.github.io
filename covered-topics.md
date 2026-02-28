@@ -28,6 +28,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - MitID nede igen — MitID.dk utilgængelig, Borger.dk login nede, Digital Post ude, anden dag i træk (i går var det Mit.dk)
 - Klimaminister Lars Aagaard — 70%-CO2-mål 2030 ikke nået, Leila Stockmarr (EL): "gigantisk og utilgiveligt svigt", Aagaard "mærker i hjertet", valg udskrevet timer efter klimarapport
 
+## 2026-02-28 (morgen)
+- Coronatest for 430 mio. kr. kasseret — 19,9 millioner selvtest på lossepladsen, Region Midtjylland, købt uden udbud, én milliard for dyrt
+- Lars Løkke / Jon Stephensen milliontilbud — "lugter af korruption", Aalborg-borgere, 1,3 mio. kr. for at forlade Moderaterne
+- Valgkamp kluntet start — Troels Lund Poulsen taget på sengen af Mette Frederiksen, sen Facebook-melding, "underligt passiv" i tv-debat
+
 ## 2026-02-27 (morgen)
 - Jon Stephensen / Lars Løkke Rasmussen — tilbud på 1,3 millioner kroner for at opgive mandat i Moderaterne, trusler med skandalehistorie, Kartoffelrækkerne, august 2023
 - Pakistan erklærer åben krig mod Taliban i Afghanistan — bombning af Kabul og Kandahar, Khawaja Asif, AFP-journalister hørte eksplosioner, otte afghanske soldater dræbt
