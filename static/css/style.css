@@ -8,7 +8,10 @@ body {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 15px;
   line-height: 1.5;
+  overflow-x: hidden;
 }
+
+img { max-width: 100%; height: auto; }
 
 a { color: #CC0000; text-decoration: none; }
 a:hover { text-decoration: underline; color: #880000; }
@@ -275,6 +278,35 @@ a:visited { color: #880000; }
   background: #CC0000;
   padding: 4px 10px;
   margin-bottom: 12px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 700px) {
+  #topbar { font-size: 10px; flex-direction: column; gap: 2px; }
+  #topbar marquee { width: 100%; }
+
+  #header { flex-direction: column; gap: 8px; padding: 10px; }
+  #header .logo h1 { font-size: 32px; }
+  #header .datebox { display: none; }
+
+  #nav ul { flex-wrap: wrap; }
+  #nav ul li a { padding: 6px 10px; font-size: 12px; }
+
+  .breaking { font-size: 11px; }
+
+  #main { padding: 10px 8px; }
+
+  .article-card { padding: 10px 12px; }
+  .article-card h2 { font-size: 18px; }
+
+  .single-article { padding: 14px 12px; }
+  .single-article h1 { font-size: 22px; }
+  .single-article .body { font-size: 14px; }
+
+  .about-layout { flex-direction: column; }
+  .about-photo { width: 100%; max-width: 280px; margin: 0 auto; }
+
+  #footer { font-size: 11px; padding: 10px; }
 }
 
 /* OM POLLE SIDE */
