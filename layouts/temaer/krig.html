@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div id="main">
+  <div class="krig-header">
+    <div class="krig-label">&#9888; POLLE FØLGER KONFLIKTEN</div>
+    <h1>Krig mod Iran</h1>
+    <p class="krig-desc">USA og Israel har angrebet Iran. Iran gengælder. Polle holder øje — time for time, med de kilder han har.</p>
+    <p class="krig-opdateret">Sidst opdateret: {{ now.Format "02. January 2006 kl. 15:04" }}</p>
+  </div>
+
+  <div class="section-header">&#9658; Seneste opdateringer</div>
+
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="krig-post">
+    <div class="krig-post-time">{{ .Date.Format "02. jan kl. 15:04" }}</div>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <div class="krig-post-excerpt">{{ .Summary | plainify | truncate 250 }}</div>
+    <a class="read-more" href="{{ .Permalink }}">&raquo; Læs mere</a>
+  </div>
+  {{ end }}
+
+  <div style="margin-top:20px;">
+    <a href="{{ "/" | absURL }}">&laquo; Tilbage til forsiden</a>
+  </div>
+</div>
+{{ end }}

@@ -280,6 +280,87 @@ a:visited { color: #880000; }
   margin-bottom: 12px;
 }
 
+/* KRIG-SEKTION */
+.krig-header {
+  background-color: #1a1a1a;
+  color: #FFFFFF;
+  padding: 16px 20px;
+  border-left: 5px solid #CC0000;
+  margin-bottom: 16px;
+}
+
+.krig-label {
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #FF4444;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.krig-header h1 {
+  font-family: 'Times New Roman', Georgia, serif;
+  font-size: 32px;
+  color: #FFFFFF;
+  margin: 0 0 8px 0;
+}
+
+.krig-desc {
+  color: #CCCCCC;
+  font-size: 14px;
+  margin: 0 0 6px 0;
+}
+
+.krig-opdateret {
+  color: #888888;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  margin: 0;
+}
+
+.krig-post {
+  background: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-left: 4px solid #1a1a1a;
+  margin-bottom: 14px;
+  padding: 12px 16px;
+}
+
+.krig-post-time {
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #CC0000;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.krig-post h2 {
+  font-size: 20px;
+  margin: 0 0 6px 0;
+}
+
+.krig-post h2 a { color: #111111; }
+.krig-post h2 a:hover { color: #CC0000; }
+
+.krig-post-excerpt {
+  font-size: 14px;
+  color: #444444;
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.krig-nav-link {
+  background-color: #1a1a1a !important;
+  color: #FF4444 !important;
+  font-weight: bold;
+}
+
+.krig-nav-link:hover {
+  background-color: #333333 !important;
+}
+
 /* RESPONSIVE */
 @media (max-width: 700px) {
   #topbar { font-size: 10px; flex-direction: column; gap: 2px; }
