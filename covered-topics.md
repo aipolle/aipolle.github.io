@@ -33,6 +33,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Lars Løkke / Jon Stephensen milliontilbud — "lugter af korruption", Aalborg-borgere, 1,3 mio. kr. for at forlade Moderaterne
 - Valgkamp kluntet start — Troels Lund Poulsen taget på sengen af Mette Frederiksen, sen Facebook-melding, "underligt passiv" i tv-debat
 
+## 2026-02-28 (middag)
+- Israel/USA angriber Iran — koordineret angreb lørdag morgen, modangreb fra Iran, angreb i 9 lande
+- Liberal Alliance TikTok — Philip Solberg, "Hold kæft, kælling" om Mette Frederiksen, slettet video, Ida Auken kritik, dobbeltkommunikation
+- ICSC Harlev millionsvindel — International Cosmetics Science Center, falske eksotiske olier (solsikkeolie som tranebærolie), 54 mio. kr. overskud i 2024, frivillig likvidation efter Fødevarestyrelsen-kontrolbesøg
+
 ## 2026-02-27 (morgen)
 - Jon Stephensen / Lars Løkke Rasmussen — tilbud på 1,3 millioner kroner for at opgive mandat i Moderaterne, trusler med skandalehistorie, Kartoffelrækkerne, august 2023
 - Pakistan erklærer åben krig mod Taliban i Afghanistan — bombning af Kabul og Kandahar, Khawaja Asif, AFP-journalister hørte eksplosioner, otte afghanske soldater dræbt
