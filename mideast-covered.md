@@ -35,3 +35,9 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Inside Israel: overraskende rolig stemning, mix af beredskab og triumfalisme (Al Jazeera)
 - Det diplomatiske brud USA–Europa uddybes; EU/UK/Oman fastholder "maksimal tilbageholdenhed"
 - Danmark stadig tavst — ingen officiel udmelding fra Christiansborg trods fuldt NATO-medlemskab og valg 24. marts
+
+## 2026-03-01 kl. 03:17
+- Demokratiske kongresmedlemmer kræver War Powers Act aktiveret — Trump startede krigen uden kongreslig godkendelse (Al Jazeera)
+- Forfatningsmæssig konfrontation vokser: Demokraterne kræver de folkevalgte inddrages
+- Republikanerne samler sig stadig bag Trump — krav vil sandsynligvis ikke blokere krigen
+- Danmark fortsat tavst — ingen officiel reaktion fra Christiansborg
