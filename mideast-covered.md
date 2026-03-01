@@ -67,3 +67,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Splittet Iran: glæde i Isfahan + Karaj, sorg + Khamenei-billeder i Tehran
 - Air raid sirens lyder igen i Israel denne morgen
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
+
+## 2026-03-01 kl. 08:17
+- BBC Verify + Vantor-satellitbilleder bekræfter: Konarak-flådebase (Hormozgan) ramt — skib i brand, stor røgsøjle
+- Tel Aviv boligblok ødelagt af iransk missil — kvinden (første israelske civile dræbt) + 120 sårede (mere detalje)
+- Dubai International Airport og Jebel Ali-havn ramt — Dubais kyst ryger
+- Teheran-gader søndag morgen: pro-regime-sorgceremonier dominerer (BBC Persisk); modsætning til nattens fejring i Isfahan/Karaj
+- Rubio holder G7-opkald søndag — USA forsøger at samle allierede igen
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
