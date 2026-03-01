@@ -123,6 +123,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 19:17
+- RAF Typhoon nedskyder iransk drone fra Qatar — første britiske fly i aktionskampen
+- Trump: 9 iranske flådefartøjer sænket + Irans flådehovedkvarter ødelagt + 48 ledere dræbt
+- Trump: operation "ahead of schedule"
+- Irans UM Araghchi: US-Iran forhandlinger i Genève torsdag, Wien planlagt mandag — "spoiled" af angrebet
+- IRGC: 3 US/UK olietankere ramt og i brand — UKMTO bekræfter
+- Jordan: 101 nedfaldende objekter/shrapnel — Jordan-baser brugt i angrebet
+- UK forbereder evakuering af 76.000 registrerede statsborgere i Mellemøsten
+
 ## 2026-03-01 kl. 18:17
 - To skibe bekræftet ramt ved Hormuzstrædet (UKMTO) — international shipping stort set gået i stå
 - IRGC truer fortsat alle skibe via VHF-radio; 150+ tankskibe ankret op
