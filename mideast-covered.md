@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 23:17
+- UK + Frankrig + Tyskland fælles erklæring: fordømmer Irans angreb, truer med defensiv aktion for at ødelægge Irans missilkapacitet ved kilden (Starmer, Macron, Merz)
+- Trump Truth Social-video: opfordrer iranere til at "tage landet tilbage", lover at hævne US-tab, siger operationen fortsætter til "alle mål er nået"
+- Trump forlader Mar-a-Lago, Air Force One mod Washington
+
 ## 2026-03-01 kl. 22:17
 - Starmer: UK tillader USA at bruge britiske militærbaser til defensiv aktion mod Iran — UK nu officielt aktiv deltager på US-siden
 - US Navys 5. flådebase i Bahrain ramt af iransk drone (~19:30 GMT) — stor brand, ingen tab (evakueret)
