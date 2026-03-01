@@ -82,3 +82,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Modi og Indien: Indiens PM besøger Israel snart — Indien-Israel-relationen testes (ny geopolitisk spiller)
 - Irans UM Baghaei kalder angrebene "forræderi", hævder egne gengældelsesstrik er "legitime defensive handlinger"
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
+
+## 2026-03-01 kl. 10:17
+- Oman ramt — iransk drone rammer kommerciel havn; Oman var hidtil neutralt mæglingsland og var blevet skånet
+- Iranske jetfly bekræftet: IRNA melder at iransk luftvåben har bombet US-baser i Golflandene OG Kurdistan/Irak — eskalering fra droner/missiler til bemandede fly
+- Ny runde eksplosioner i Doha søndag morgen — røgsøjle synlig; Qatar bekræfter 65 missiler + 12 droner fra Iran lørdag
+- Khameneis datter, svigersøn og barnebarn bekræftet dræbt i angrebet (iransk statsmedia)
+- Rubio holder G7-opkald søndag — USA forsøger diplomatisk samlingsøvelse
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
