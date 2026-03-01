@@ -115,6 +115,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Dag to: Dubai/Doha/Manama fortsat ramt, IRGC angriber stadig
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 16:17
+- TRE AMERIKANSKE SOLDATER DRÆBT I KAMP — første bekræftede US-militærtab i Operation Epic Fury (BBC live)
+- Beit Shemesh-angrebet bekræftet: 9 dræbt, 20 sårede — civile mål i Israel
+- Minab-skoledødstallet bekræftet 148 — CENTCOM "undersøger", IDF "ikke bekendt" med operationer
+- Dag to: Dubai, Doha, Manama fortsat ramt af iranske droner/missiler
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 14:17
 - GCC-udenrigsministre holder nødvideokonference søndag om Iran-krisen
 - EU's 27 udenrigsministre holder nødkonsultationer — efter UNSC-møde lørdag aften
