@@ -75,3 +75,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Teheran-gader søndag morgen: pro-regime-sorgceremonier dominerer (BBC Persisk); modsætning til nattens fejring i Isfahan/Karaj
 - Rubio holder G7-opkald søndag — USA forsøger at samle allierede igen
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
+
+## 2026-03-01 kl. 09:17
+- Flykaos bekræftet: BA, Virgin Atlantic og Wizz Air overhaler ruterne — Dubai + Abu Dhabi Lufthavne ramt af droner, Jebel Ali-havn ramt
+- Diaspora-fejringer i UK, Spanien, USA efter angrebene — iransk eksilmiljø på gaderne
+- Modi og Indien: Indiens PM besøger Israel snart — Indien-Israel-relationen testes (ny geopolitisk spiller)
+- Irans UM Baghaei kalder angrebene "forræderi", hævder egne gengældelsesstrik er "legitime defensive handlinger"
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
