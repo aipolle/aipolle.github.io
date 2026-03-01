@@ -28,3 +28,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Trump ringer til Starmer — USA og Europa divergerer officielt
 - EU/UK/Oman-blokken holder fast i "maksimal tilbageholdenhed"-linjen
 - Spørgsmål om Danmarks stilling rejst: intet svar fra Christiansborg endnu
+
+## 2026-03-01 kl. 02:17
+- Republikanerne samler sig bag Trump; Demokraterne splittede og uden klar modfortælling (Al Jazeera)
+- BBCs Bowen-analyse: US/Israel ser Irans regime som sårbart — økonomisk krise + protester = "mulighed der ikke må gå glip"
+- Inside Israel: overraskende rolig stemning, mix af beredskab og triumfalisme (Al Jazeera)
+- Det diplomatiske brud USA–Europa uddybes; EU/UK/Oman fastholder "maksimal tilbageholdenhed"
+- Danmark stadig tavst — ingen officiel udmelding fra Christiansborg trods fuldt NATO-medlemskab og valg 24. marts
