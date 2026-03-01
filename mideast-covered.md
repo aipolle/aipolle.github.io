@@ -46,3 +46,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Khameneis efterfølgerspørgsmål: BBC-analyse om hvem der nu bestemmer Iran — ekspertrådet skal vælge ny øverste leder, men det sker ikke under bombetæppe
 - Modstridende civile direktiver: Iran siger "bliv indendørs", USA opfordrer til at flygte fra militære installationer, alt under næsten total internet-blackout (Al Jazeera)
 - Danmark fortsat fuldstændig tavst — ingen reaktion fra Christiansborg, 23 dage til valg
+
+## 2026-03-01 kl. 05:17
+- IRGC-chef Mohammad Pakpour og forsvarschef Ali Shamkhani bekræftet dræbt — annonceret af IRNA og IDF
+- Dubai Lufthavn og Jebel Ali-havn ramt af droner (brand, 4 sårede); Abu Dhabi Zayed Airport: 1 dræbt, 7 sårede — Iran-droner når UAE
+- Iran erklærer overgangsregering: Pezeshkian + chefjurist + Guardian Council-jurist styrer overgangen; Ekspertforsamling skal vælge ny øverste leder
+- IRGC advarer om kommende "ødelæggende offensiv"
+- UK vender kappe: Starmer siger nu UK deltager i "koordinerede regionale defensive operationer" — komplet U-vending fra tidligere udtalelse om ikke-involvering
+- Angrebene fortsætter ved daggry: IDF lancerer ny bølge (30+ mål), CENTCOM melder fortsat aktiv indsats
+- Over 130 civile dræbt iflg. Human Rights Activists News Agency (Washington-baseret)
+- Danmark fortsat tavst — 23 dage til valg
