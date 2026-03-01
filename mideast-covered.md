@@ -108,6 +108,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UK: Healey bekræfter britiske tropper "inden for hundredvis af yards" fra iransk missil i Bahrain
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 14:17
+- GCC-udenrigsministre holder nødvideokonference søndag om Iran-krisen
+- EU's 27 udenrigsministre holder nødkonsultationer — efter UNSC-møde lørdag aften
+- Kina "fordømmer stærkt" drabet på Khamenei — kræver "øjeblikkelig standsning af militære operationer"
+- Iran indleder 40-dages sørgeperiode — Pezeshkian kalder det "åben krigserklæring mod muslimer, særligt shia"
+- IRGC bekræfter angreb mod 27 amerikanske baser i Mellemøsten
+- Hormuzanalyser: 20% af verdens olie/gas i spil; oliemarkederne i fokus
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 12:17
 - Putin kalder Khamenei-drabet "kynisk mord" — Rusland kondolerer Iran, distancerer sig officielt fra USA/Israel
 - To israelere dræbt (op fra én), 456 indlagt, 86 i intensiv (IDF/BBC)
