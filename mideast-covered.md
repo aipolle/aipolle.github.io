@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 22:17
+- Starmer: UK tillader USA at bruge britiske militærbaser til defensiv aktion mod Iran — UK nu officielt aktiv deltager på US-siden
+- US Navys 5. flådebase i Bahrain ramt af iransk drone (~19:30 GMT) — stor brand, ingen tab (evakueret)
+- Golfstaternes UM holder nødkonference — diskuterer at lukke ambassader i Teheran (følge UAE)
+- Satelitbilleder bekræfter: tunneler ved Tabriz North Missile Base ødelagt, sænket skib ved Konarak-base
+
 ## 2026-03-01 kl. 21:17
 - Israel lukker Gazas Rafah-overgang midt under angrebene på Iran
 - Trump om de 3 dræbte soldater: "We expect casualties... in the end it's going to be a great deal for the world"
