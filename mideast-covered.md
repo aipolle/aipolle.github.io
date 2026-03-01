@@ -41,3 +41,8 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Forfatningsmæssig konfrontation vokser: Demokraterne kræver de folkevalgte inddrages
 - Republikanerne samler sig stadig bag Trump — krav vil sandsynligvis ikke blokere krigen
 - Danmark fortsat tavst — ingen officiel reaktion fra Christiansborg
+
+## 2026-03-01 kl. 04:17
+- Khameneis efterfølgerspørgsmål: BBC-analyse om hvem der nu bestemmer Iran — ekspertrådet skal vælge ny øverste leder, men det sker ikke under bombetæppe
+- Modstridende civile direktiver: Iran siger "bliv indendørs", USA opfordrer til at flygte fra militære installationer, alt under næsten total internet-blackout (Al Jazeera)
+- Danmark fortsat fuldstændig tavst — ingen reaktion fra Christiansborg, 23 dage til valg
