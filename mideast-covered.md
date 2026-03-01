@@ -83,6 +83,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Irans UM Baghaei kalder angrebene "forræderi", hævder egne gengældelsesstrik er "legitime defensive handlinger"
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 11:17
+- Pakistan eksploderer: 9 dræbt, 32+ sårede i pro-iranske optøjer ved US konsulat i Karachi; UN-kontor brændt i Gilgit; curfew i Gilgit-Baltistan — Pakistan (atomvåbenland) som ny aktør
+- Hormuzstrædet truet lukket: IRGC advarer alle skibe via radio — "ingen skibe må passere" — 20% af verdens olie/gas i spil
+- Nye eksplosioner i Teheran søndag morgen — IDF siger de rammer "hjertet af Teheran"
+- Ny IRGC-chef navngivet: Ahmad Vahidi afløser dræbte Pakpour
+- 300 britiske soldater var inden for 200m af iranske missiler i Bahrain; UK moddroneenhed i Irak nedskød iransk drone
+- Operation Epic Fury — USA's officielle kodenavn bekræftet
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 10:17
 - Oman ramt — iransk drone rammer kommerciel havn; Oman var hidtil neutralt mæglingsland og var blevet skånet
 - Iranske jetfly bekræftet: IRNA melder at iransk luftvåben har bombet US-baser i Golflandene OG Kurdistan/Irak — eskalering fra droner/missiler til bemandede fly
