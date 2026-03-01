@@ -21,3 +21,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - General Dan Caine advarer internt mod angrebene — Trump afviser
 - EU kræver "maksimal tilbageholdenhed", Oman advarer USA
 - Skoledrab: mindst 85 dræbt i pige-grundskole i Minab
+
+## 2026-03-01 kl. 01:17
+- Skoledødstallet steg til 108 — nu bekræftet TO skoler ramt (Minab + øst for Teheran)
+- UK distancerer sig: Starmer siger UK "hverken involveret i eller godkender" angrebene
+- Trump ringer til Starmer — USA og Europa divergerer officielt
+- EU/UK/Oman-blokken holder fast i "maksimal tilbageholdenhed"-linjen
+- Spørgsmål om Danmarks stilling rejst: intet svar fra Christiansborg endnu
