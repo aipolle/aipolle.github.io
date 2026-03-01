@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 21:17
+- Israel lukker Gazas Rafah-overgang midt under angrebene på Iran
+- Trump om de 3 dræbte soldater: "We expect casualties... in the end it's going to be a great deal for the world"
+- IDF: Iransk kamphovedkvarter "afmonteret" — IRGC-HQ, efterretnings-HQ, luftvåbens kommandocentre ramt
+- BBC-analyse: "Irans regime er stadig intakt — de kommende dage vil vise om det kan holde ud"
+
 ## 2026-03-01 kl. 20:17
 - IRIB (Irans stats-TV-HQ) ramt i ny strejkebølge — live på air
 - CENTCOM bekræfter B-2 stealth-bombere med 900 kg-bomber mod ballistiske faciliteter
