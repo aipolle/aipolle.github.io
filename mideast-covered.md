@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 20:17
+- IRIB (Irans stats-TV-HQ) ramt i ny strejkebølge — live på air
+- CENTCOM bekræfter B-2 stealth-bombere med 900 kg-bomber mod ballistiske faciliteter
+- Irans UM Araghchi: Assembly of Experts kan vælge ny øverste leder "inden for en dag eller to"
+- Kentik bekræfter ~99% internet-blackout i Iran
+- Araghchi: "Intet har ændret sig i vores militære kapacitet"
+
 ## 2026-03-01 kl. 19:17
 - RAF Typhoon nedskyder iransk drone fra Qatar — første britiske fly i aktionskampen
 - Trump: 9 iranske flådefartøjer sænket + Irans flådehovedkvarter ødelagt + 48 ledere dræbt
