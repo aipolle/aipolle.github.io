@@ -123,6 +123,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 18:17
+- To skibe bekræftet ramt ved Hormuzstrædet (UKMTO) — international shipping stort set gået i stå
+- IRGC truer fortsat alle skibe via VHF-radio; 150+ tankskibe ankret op
+- Oliepriser ~$80/tønde (+10%) i OTC; analytikere siger $100+ realistisk — OPEC+ 206.000 tønder anses utilstrækkeligt
+- Flykaos eskalerer: BA, Virgin Atlantic, Wizz Air holder op med at flyve til Mellemøsten; Dubai/Abu Dhabi lufthavne delvist lukkede
+- BBC afslører: måneder af planlægning bag Khamenei-drabet — afgørende efterretning ankom timer før angrebet
+- Minab-skoledødstallet bekræftet 153 — skole 600m fra IRGC-base; CENTCOM "undersøger", IDF "ikke bekendt"
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 16:17
 - TRE AMERIKANSKE SOLDATER DRÆBT I KAMP — første bekræftede US-militærtab i Operation Epic Fury (BBC live)
 - Beit Shemesh-angrebet bekræftet: 9 dræbt, 20 sårede — civile mål i Israel
