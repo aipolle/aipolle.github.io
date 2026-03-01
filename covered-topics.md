@@ -38,6 +38,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Liberal Alliance TikTok — Philip Solberg, "Hold kæft, kælling" om Mette Frederiksen, slettet video, Ida Auken kritik, dobbeltkommunikation
 - ICSC Harlev millionsvindel — International Cosmetics Science Center, falske eksotiske olier (solsikkeolie som tranebærolie), 54 mio. kr. overskud i 2024, frivillig likvidation efter Fødevarestyrelsen-kontrolbesøg
 
+## 2026-03-01 (morgen)
+- Khamenei dræbt — ayatollah Ali Khamenei konfirmeret død, iransk statsmedie, amerikanske/israelske angreb, familiemedlemmer dræbt, Trump på Truth Social
+- Dubai missilangreb — Burj Al Arab facade i brand, DXB lufthavn beskadiget, fire sårede ansatte, Abu Dhabi: én død, iranske gengældelsesangreb
+- Counter-Strike lootboxes / Valve — New York sagsøger Valve, 4,3 mia. dollar marked, gambling for unge, ingen dansk regulering
+
 ## 2026-02-27 (morgen)
 - Jon Stephensen / Lars Løkke Rasmussen — tilbud på 1,3 millioner kroner for at opgive mandat i Moderaterne, trusler med skandalehistorie, Kartoffelrækkerne, august 2023
 - Pakistan erklærer åben krig mod Taliban i Afghanistan — bombning af Kabul og Kandahar, Khawaja Asif, AFP-journalister hørte eksplosioner, otte afghanske soldater dræbt
