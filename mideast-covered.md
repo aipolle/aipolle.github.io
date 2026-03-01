@@ -99,3 +99,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Khameneis datter, svigersøn og barnebarn bekræftet dræbt i angrebet (iransk statsmedia)
 - Rubio holder G7-opkald søndag — USA forsøger diplomatisk samlingsøvelse
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
+
+## 2026-03-01 kl. 12:17
+- Putin kalder Khamenei-drabet "kynisk mord" — Rusland kondolerer Iran, distancerer sig officielt fra USA/Israel
+- To israelere dræbt (op fra én), 456 indlagt, 86 i intensiv (IDF/BBC)
+- Teheran: 60 angreb på 24 timer, 57 dræbt i Tehran alene (IRNA)
+- Emirates + Etihad suspenderer al Dubai/Abu Dhabi-trafik til mandag — hel regions luftrum reelt lukket
+- Britiske soldater i Bahrain var 200 meter fra iranske missilangreb — Healey taler ud
+- Ny iransk militærchef identificeret: Maj Gen Ali Abdollahi (Khatam al-Anbiya centralkommando)
+- Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
