@@ -115,6 +115,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Dag to: Dubai/Doha/Manama fortsat ramt, IRGC angriber stadig
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 17:17
+- Hormuzstrædet effektivt lukket: 150+ tankskibe ankret op i åbent farvand; to skibe ramt af projektiler (UKMTO)
+- Iransk tanker angiveligt synkende efter forsøg på at passere — ikke bekræftet af BBC
+- Oliepriser hopper ~10% til $80/tønde i OTC-handel; analytikere advarer om $100+ ved forlænget konflikt
+- OPEC+ øger produktion med 206.000 tønder/dag — anses for utilstrækkeligt
+- Minab-skoledødstallet stiger til 153 (op fra 148)
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 16:17
 - TRE AMERIKANSKE SOLDATER DRÆBT I KAMP — første bekræftede US-militærtab i Operation Epic Fury (BBC live)
 - Beit Shemesh-angrebet bekræftet: 9 dræbt, 20 sårede — civile mål i Israel
