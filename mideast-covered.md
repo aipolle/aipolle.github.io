@@ -108,6 +108,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UK: Healey bekræfter britiske tropper "inden for hundredvis af yards" fra iransk missil i Bahrain
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 15:17
+- Iransk missilangrebet på Beit Shemesh, Israel: mindst 9 dræbt, 20 sårede (Al Jazeera breaking)
+- Tankskib ramt ud for Irans kyst — brand nu under kontrol (BBC)
+- Iransk angreb på civile byer i Israel eskalerer — Beit Shemesh er religiøst blandet by vest for Jerusalem
+- Dag to: Dubai/Doha/Manama fortsat ramt, IRGC angriber stadig
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 14:17
 - GCC-udenrigsministre holder nødvideokonference søndag om Iran-krisen
 - EU's 27 udenrigsministre holder nødkonsultationer — efter UNSC-møde lørdag aften
