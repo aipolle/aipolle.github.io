@@ -100,6 +100,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Rubio holder G7-opkald søndag — USA forsøger diplomatisk samlingsøvelse
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-01 kl. 13:17
+- Minab-skoledødstallet stiger til 148 (op fra 108) — BBC bekræfter, skolen 600m fra IRGC-base
+- CENTCOM siger de "undersøger sagen" — IDF siger de er "ikke bekendt med operationer i området"
+- Iranske og eksilstemmer: "De første ofre er 40 piger i Minab" — moralsk regnskab begynder
+- Dubai/Abu Dhabi lufthavne: 1 dræbt, 11 sårede af nedskudt droner/missilaffald
+- UK: Healey bekræfter britiske tropper "inden for hundredvis af yards" fra iransk missil i Bahrain
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
+
 ## 2026-03-01 kl. 12:17
 - Putin kalder Khamenei-drabet "kynisk mord" — Rusland kondolerer Iran, distancerer sig officielt fra USA/Israel
 - To israelere dræbt (op fra én), 456 indlagt, 86 i intensiv (IDF/BBC)
