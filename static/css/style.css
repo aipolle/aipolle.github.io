@@ -351,6 +351,42 @@ a:visited { color: #880000; }
   line-height: 1.6;
 }
 
+/* LIVE BLOG INDHOLD */
+.single-article .body h2 {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #CC0000;
+  background: #FFF0F0;
+  border-left: 3px solid #CC0000;
+  padding: 3px 8px;
+  margin: 20px 0 10px 0;
+  letter-spacing: 0.5px;
+}
+
+.single-article .body ul {
+  margin: 0 0 10px 0;
+  padding-left: 18px;
+}
+
+.single-article .body ul li {
+  margin-bottom: 5px;
+  line-height: 1.6;
+}
+
+.single-article .body em {
+  font-size: 11px;
+  color: #999999;
+  font-family: Arial, sans-serif;
+  font-style: normal;
+}
+
+.single-article .body hr {
+  border: none;
+  border-top: 1px solid #EEEEEE;
+  margin: 16px 0;
+}
+
 .krig-nav-link {
   background-color: #1a1a1a !important;
   color: #FF4444 !important;
