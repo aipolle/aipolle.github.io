@@ -56,3 +56,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Angrebene fortsætter ved daggry: IDF lancerer ny bølge (30+ mål), CENTCOM melder fortsat aktiv indsats
 - Over 130 civile dræbt iflg. Human Rights Activists News Agency (Washington-baseret)
 - Danmark fortsat tavst — 23 dage til valg
+
+## 2026-03-01 kl. 07:17
+- Første israelske civile dræbt: kvinde dræbt i Tel Aviv af missil der slog igennem luftforsvaret; 120 sårede
+- IRGC truer eksplicit med "den mest ødelæggende offensive operation i islamisk republiks historie" — hævn for Khameneis død
+- Trump svarer på Truth Social med caps lock: "WE WILL HIT THEM WITH A FORCE THAT HAS NEVER BEEN SEEN BEFORE"
+- Marco Rubio holder G7-opkald søndag om Iran — diplomati søger fodfæste
+- Reza Pahlavi (søn af den sidste shah) kommer frem: takker Trump, kalder på ny forfatning + frie valg med international overvågning (Washington Post)
+- Civildødstallet over 200 iflg. Røde Halvmåne; ~40 iranske embedsmænd dræbt iflg. CBS News
+- Splittet Iran: glæde i Isfahan + Karaj, sorg + Khamenei-billeder i Tehran
+- Air raid sirens lyder igen i Israel denne morgen
+- Danmark fortsat fuldstændig tavst — 23 dage til valg
