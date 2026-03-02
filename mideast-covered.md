@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 23:17
+- Finansmarkeder mandag: Brent crude +6% til ~$78/tønde (kortvarigt $82); AirFrance-KLM -9%, American Airlines -4%
+- S&P 500 og Nasdaq åbnede skarpt lavere men pared tab
+- Iran gentager eksplicit Hormuz-trussel: "sætter ild til alle der forsøger at passere"
+
 ## 2026-03-02 kl. 22:17
 - Macron: Frankrig udvider atomarsenal (første gang siden 1992) og tilbyder nukleær afskrækkelse til allierede
 - **Danmark nævnt eksplicit** i Macrons liste over lande med hvem afskrækkelsessamtaler er indledt (AP)
