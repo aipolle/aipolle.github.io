@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 11:19
+- Natanz-atomanlegget bekræftet ramt — Irans primære urananrigningsanlæg
+- Israel dræber to senioreftretningsfolk i Iran
+- Iran-angreb rammer Qatar Lufthavn (civil infrastruktur)
+- Abu Dhabi-flyvninger suspenderet til i morgen
+- UK PM Starmer bekræfter igen: USA kan bruge britiske baser mod iranske missilsteder
+
 ## 2026-03-02 kl. 10:18
 - Hizbollah-chef Naim Qassem erklæret som "elimineringsmål" af israelsk forsvarsminister
 - Iran afviser eksplicit US-forhandlinger
