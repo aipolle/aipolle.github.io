@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 22:17
+- Macron: Frankrig udvider atomarsenal (første gang siden 1992) og tilbyder nukleær afskrækkelse til allierede
+- **Danmark nævnt eksplicit** i Macrons liste over lande med hvem afskrækkelsessamtaler er indledt (AP)
+- Frankrig-Tyskland dybere nukleær integration — fælles øvelser fra 2026
+- Kontekst: tale planlagt inden Iran-krigen, falder midt i europæisk sikkerhedsdebat om Trump + Rusland
+
 ## 2026-03-02 kl. 21:17
 - Trump: krigen varer 4-5 uger, parat til at gå "far longer" (AP)
 - Iran kræver international handling: hospitaler skadet på tværs af Iran, ingen direkte ramte bekræftet
