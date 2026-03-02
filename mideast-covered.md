@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 10:18
+- Hizbollah-chef Naim Qassem erklæret som "elimineringsmål" af israelsk forsvarsminister
+- Iran afviser eksplicit US-forhandlinger
+- 3.400+ fly aflyst globalt — Golf-luftrum lukket
+- 131 iranske amter berørt (Røde Halvmåne)
+- JPMorgan nedgraderer non-oil vækstforventninger for Bahrain og UAE
+
 ## 2026-03-02 kl. 09:17
 - Amerikanske kampfly styrtet ned i Kuwait — besætninger uskadte (Breaking)
 - Pakistan-Afghanistan: eksplosioner i Kabul, forpurret angreb på Bagram-luftbase — ny regional front
