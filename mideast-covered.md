@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 19:17
+- Qatar skyder iransk fly ned — første Golfstat til at nedskyde bemandet iransk fly
+- Trump: USA tog "last best chance" til at ramme Iran — framing ved Hvide Hus-pressemøde
+- Irans VM 2026-deltagelse i tvivl — USA er co-vært, Iran kvalificeret
+
 ## 2026-03-02 kl. 18:17
 - Trump taler fra Det Hvide Hus for første gang siden angrebene begyndte
 - Starmer: UK "does not believe in regime change from the skies" — tydeligste britiske positionering
