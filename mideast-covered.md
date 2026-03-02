@@ -123,6 +123,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 14:17
+- Fjerde US-soldat dræbt — CENTCOM bekræfter; samlet US-tab nu 4
+- Qatar pauser LNG-produktion: QatarEnergy halter Ras Laffan + Mesaieed efter iranske angreb; ~20% af global LNG i spil
+- Gaspriser +42% på britiske markeder; Europa's lave gaslagre i fokus
+- Hizbollah efterretningschef Hussein Makled elimineret i Beirut-strike (IDF)
+- Hegseth: "mest letale og præcise luftoperation i historien" — ikke regime change-krig, men "regimet er skiftet"
+- Ny evakueringsordre for sydlige Beirut: IDF varsler angreb mod AQAH-bygninger (Hizbollah-linket)
+
 ## 2026-03-02 kl. 13:17
 - Ukraine tilbyder at hjælpe Europa nedskyde iranske droner (Al Jazeera)
 - Iran afviser forhandlinger: Larijani siger "Vi vil ikke forhandle med USA"
