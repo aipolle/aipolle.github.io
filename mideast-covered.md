@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 05:17
+- NY FRONT: Israel beordrer evakuering af 50+ libanesiske landsbyer — Hizbollah-front åbner
+- Hizbollah affyrer raketter mod Israel, IDF advarer om angreb mod Hizbollah-stillinger
+- Konflikten udvider sig formelt til Libanon
+
 ## 2026-03-02 kl. 03:17
 - Meningsmåling: kun 25% af amerikanere støtter angrebene på Iran
 - Kongresmedlemmer øger presset på Trump efter 3 dræbte soldater
