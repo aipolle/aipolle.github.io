@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 17:17
+- Iran dødstallet stiger til 555 (Al Jazeera)
+- Libanon forbyder Hizbollahs militære aktiviteter — PM Nawaf Salam erklærer det "ulovligt"
+- BBC bekræfter: 6 US F-15-fly skudt ned ved kuwaitisk "friendly fire" (opdatering af tal)
+
 ## 2026-03-02 kl. 15:17
 - US-kampfly over Kuwait skudt ned af kuwaitisk "friendly fire" — alle besætninger i sikkerhed
 - Pakistan dødstallet stiger til 24, hær indsat, 3-dages curfew
