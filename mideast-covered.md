@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 03:17
+- Meningsmåling: kun 25% af amerikanere støtter angrebene på Iran
+- Kongresmedlemmer øger presset på Trump efter 3 dræbte soldater
+- Ingen nye angrebsbølger rapporteret siden midnat
+
 ## 2026-03-02 kl. 02:17
 - Pakistan-dødstallet stiger til mindst 20 dræbt på tværs af landet (op fra 9 i Karachi)
 - Demonstrationer mod US-israelske angreb eskalerer til udbredt vold i Pakistan
