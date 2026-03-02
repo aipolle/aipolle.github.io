@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 02:17
+- Pakistan-dødstallet stiger til mindst 20 dræbt på tværs af landet (op fra 9 i Karachi)
+- Demonstrationer mod US-israelske angreb eskalerer til udbredt vold i Pakistan
+- Shipping-krisen fortsætter: tre nye skibe angrebet nær Hormuzstrædet
+
 ## 2026-03-02 kl. 01:17
 - JD Vance tyst i Situation Room — spekulationer om intern splittelse i Trump-admin (BBC)
 - US military: 1.000+ mål ramt inde i Iran (Al Jazeera)
