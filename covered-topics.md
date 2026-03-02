@@ -43,6 +43,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Dubai missilangreb — Burj Al Arab facade i brand, DXB lufthavn beskadiget, fire sårede ansatte, Abu Dhabi: én død, iranske gengældelsesangreb
 - Counter-Strike lootboxes / Valve — New York sagsøger Valve, 4,3 mia. dollar marked, gambling for unge, ingen dansk regulering
 
+## 2026-03-02 (middag)
+- SIRI ulovlige opholdstilladelser — 14.148 tilladelser udstedt ulovligt i 6 år, bankgaranti 40.000 kr i stedet for 80.000 kr, Rasmus Stoklund (S) kalder det "menneskelig fejl", kan ikke svare på omfanget
+- Philip Denié Dahl Petersen — forvaringsdømt morder flygtede fra Vestre Fængsel 4. februar via vindue, anholdt 2. marts i kolonihaveforening i Sydhavn, en måned på fri fod
+
 ## 2026-03-02 (morgen)
 - Aarhus omdøber Eskimovej til Silavej — Det Grønlandske Hus, "eskimo" forældet og nedsættende, Aarhus Kommune sætter nye skilte op
 - Mærsk stopper alle sejladser i Hormuzstrædet — Iran har lukket strædet, oliepris-risiko, "sikkerheden for vores besætninger er højeste prioritet"
