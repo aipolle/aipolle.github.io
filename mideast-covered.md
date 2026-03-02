@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 13:17
+- Ukraine tilbyder at hjælpe Europa nedskyde iranske droner (Al Jazeera)
+- Iran afviser forhandlinger: Larijani siger "Vi vil ikke forhandle med USA"
+- Hizbollah truer med konfrontation men har ikke handlet direkte endnu
+
 ## 2026-03-02 kl. 12:20
 - Saudi Arabia ramt af iranske angreb — ny aktør
 - IDF annoncerer nyt storbombardement mod central Teheran
