@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 12:20
+- Saudi Arabia ramt af iranske angreb — ny aktør
+- IDF annoncerer nyt storbombardement mod central Teheran
+- Qatar energianlæg ramt af iranske droner
+- 100.000+ briter registreret for hjælp i Mellemøsten
+
 ## 2026-03-02 kl. 11:19
 - Natanz-atomanlægget bekræftet ramt — Irans primære urananrigningsanlæg
 - Israel dræber to senioreftretningsfolk i Iran
