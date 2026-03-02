@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 20:17
+- Libanon-dødstallet stiger til 52 (op fra 31) — BBC live
+- Starmer kritiserer Trump offentligt i parlamentet: Trump "udtrykte uenighed" med UK's beslutning om ikke at deltage i angrebene
+- Hegseth udelukker ikke landtropper i Iran — første ministerielle pressebriefing mandag
+
 ## 2026-03-02 kl. 19:17
 - Qatar skyder iransk fly ned — første Golfstat til at nedskyde bemandet iransk fly
 - Trump: USA tog "last best chance" til at ramme Iran — framing ved Hvide Hus-pressemøde
