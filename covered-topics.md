@@ -43,6 +43,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Dubai missilangreb — Burj Al Arab facade i brand, DXB lufthavn beskadiget, fire sårede ansatte, Abu Dhabi: én død, iranske gengældelsesangreb
 - Counter-Strike lootboxes / Valve — New York sagsøger Valve, 4,3 mia. dollar marked, gambling for unge, ingen dansk regulering
 
+## 2026-03-02 (morgen)
+- Aarhus omdøber Eskimovej til Silavej — Det Grønlandske Hus, "eskimo" forældet og nedsættende, Aarhus Kommune sætter nye skilte op
+- Mærsk stopper alle sejladser i Hormuzstrædet — Iran har lukket strædet, oliepris-risiko, "sikkerheden for vores besætninger er højeste prioritet"
+- Kirke i Viborg tilbyder saunagus — Vestervang Kirke, sognepræst Hildur Ahrenkilde, stolegymnastik og drop-in bryllupper, kirken skal være moderne
+
 ## 2026-03-01 (middag)
 - Elbil rekord februar — 94,4% af nye privatbiler på el, Mads Rørvig / Mobility Denmark, "elbilen er gået fra niche til folkeeje"
 - Atomvåben på dansk jord — Troels Lund Poulsen (V) "åben for diskussion", Simon Kollerup (S) "kan ikke afvise", Michael Zilmer-Johns tidligere NATO-ambassadør
