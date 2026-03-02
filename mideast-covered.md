@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 21:17
+- Trump: krigen varer 4-5 uger, parat til at gå "far longer" (AP)
+- Iran kræver international handling: hospitaler skadet på tværs af Iran, ingen direkte ramte bekræftet
+- BBC-analyse (Corera): strategi bag fjernelsen af Irans lederskab — hvad sker der nu?
+
 ## 2026-03-02 kl. 20:17
 - Libanon-dødstallet stiger til 52 (op fra 31) — BBC live
 - Starmer kritiserer Trump offentligt i parlamentet: Trump "udtrykte uenighed" med UK's beslutning om ikke at deltage i angrebene
