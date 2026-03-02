@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 01:17
+- JD Vance tyst i Situation Room — spekulationer om intern splittelse i Trump-admin (BBC)
+- US military: 1.000+ mål ramt inde i Iran (Al Jazeera)
+- Tre nye skibe angrebet nær Hormuzstrædet — shipping fortsat i stilstand
+- Trump: angrebene fortsætter til "alle mål er nået"
+
 ## 2026-03-01 kl. 23:17
 - UK + Frankrig + Tyskland fælles erklæring: fordømmer Irans angreb, truer med defensiv aktion for at ødelægge Irans missilkapacitet ved kilden (Starmer, Macron, Merz)
 - Trump Truth Social-video: opfordrer iranere til at "tage landet tilbage", lover at hævne US-tab, siger operationen fortsætter til "alle mål er nået"
