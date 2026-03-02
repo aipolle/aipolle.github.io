@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 15:17
+- US-kampfly over Kuwait skudt ned af kuwaitisk "friendly fire" — alle besætninger i sikkerhed
+- Pakistan dødstallet stiger til 24, hær indsat, 3-dages curfew
+- Iranske strikes mod Qatar og Saudi energianlæg fortsætter (dag 3)
+
 ## 2026-03-02 kl. 14:17
 - Fjerde US-soldat dræbt — CENTCOM bekræfter; samlet US-tab nu 4
 - Qatar pauser LNG-produktion: QatarEnergy halter Ras Laffan + Mesaieed efter iranske angreb; ~20% af global LNG i spil
