@@ -124,7 +124,7 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
 ## 2026-03-02 kl. 11:19
-- Natanz-atomanlegget bekræftet ramt — Irans primære urananrigningsanlæg
+- Natanz-atomanlægget bekræftet ramt — Irans primære urananrigningsanlæg
 - Israel dræber to senioreftretningsfolk i Iran
 - Iran-angreb rammer Qatar Lufthavn (civil infrastruktur)
 - Abu Dhabi-flyvninger suspenderet til i morgen
