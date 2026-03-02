@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 18:17
+- Trump taler fra Det Hvide Hus for første gang siden angrebene begyndte
+- Starmer: UK "does not believe in regime change from the skies" — tydeligste britiske positionering
+- UAE lukker fondsbørserne i Abu Dhabi og Dubai (finansielle konsekvenser)
+- Saudi Arabia lukker midlertidigt et af sine største olieanlæg efter iranske droneangreb
+
 ## 2026-03-02 kl. 17:17
 - Iran dødstallet stiger til 555 (Al Jazeera)
 - Libanon forbyder Hizbollahs militære aktiviteter — PM Nawaf Salam erklærer det "ulovligt"
