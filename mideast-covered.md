@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 08:17
+- RAF Akrotiri (britisk suveræn base, Cypern) ramt af iransk drone — minimal skade, familier flyttes
+- Røg ved US ambassade i Kuwait — shelter in place; tre droner skudt ned over Erbil/Irak
+- Libanon-dødstallet: 31 dræbt, 149 såret (Lebanese health ministry)
+- IDF-chef Zamir: offensiv kampagne mod Hizbollah varer "mange dage"
+- Ny iransk missilbølge mod Israel — intercepteret, shelter-advarsel dernæst ophævet
+
 ## 2026-03-02 kl. 07:17
 - Israel bomber Beirut direkte — røgsøjler synlige, beboere flygter fra libanesiske hovedstad
 - IDF navngiver 50+ landsbyer der skal evakueres; beboere beordres 1.000m+ fra Hizbollah-stillinger
