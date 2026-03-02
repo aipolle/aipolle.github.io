@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-02 kl. 09:17
+- Amerikanske kampfly styrtet ned i Kuwait — besætninger uskadte (Breaking)
+- Pakistan-Afghanistan: eksplosioner i Kabul, forpurret angreb på Bagram-luftbase — ny regional front
+- Irans angreb fortsætter dag 3 — Qatar, UAE, Kuwait fortsat ramt
+- UK udenrigsminister Cooper: 300.000 briter i Gulf, evakueringsplaner klar
+- Israels præsident Herzog på BBC: "historisk skillevej", Iran "ondsindets imperium"
+
 ## 2026-03-02 kl. 08:17
 - RAF Akrotiri (britisk suveræn base, Cypern) ramt af iransk drone — minimal skade, familier flyttes
 - Røg ved US ambassade i Kuwait — shelter in place; tre droner skudt ned over Erbil/Irak
