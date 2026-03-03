@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 12:17
+- 6 US soldater dræbt i Kuwait-angreb — Hegseth opdaterer fra 3 til 6, spørgsmål om fortifikationsstandarder (trailer som kontor)
+- Israelsk landinvasion i Libanon nu aktivt i gang — Hizbollah: "tålmodighedens epoke er slut"
+- UAE genoptager begrænset flytrafik fra Dubai lufthavn
+
 ## 2026-03-03 kl. 11:17
 - IDF rammer Irans præsidentkontor og Øverste Nationale Sikkerhedsråd ("adskillige ammunition")
 - Iransk dødstallet stiger til 787 (Røde Halvmåne); HRANA: 742 civile, heraf 176 børn
