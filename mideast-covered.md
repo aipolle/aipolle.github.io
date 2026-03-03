@@ -123,6 +123,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 11:17
+- IDF rammer Irans præsidentkontor og Øverste Nationale Sikkerhedsråd ("adskillige ammunition")
+- Iransk dødstallet stiger til 787 (Røde Halvmåne); HRANA: 742 civile, heraf 176 børn
+- 9 hospitaler ramt i Iran — parlamentsmedlem bekræfter, Gandhi Hospital i Teheran ramt
+- Journalist inde fra Teheran: alle bydele ramt, Grand Bazaar "lagt i ruiner"
+- Gaspriser: Europa +33%, UK +30% — højeste siden januar 2023
+- Asiatiske aktiemarkeder styrtdykker
+- Al Jazeera: USA kan løbe tør for interceptormissiler inden for uger
+
 ## 2026-03-03 kl. 10:17
 - Massbegravelse i Minab — tusinder samlet, chanter mod USA/Israel
 - Duqm-havn (Oman) ramt af iranske droner
