@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 00:17
+- UK og Frankrig sender krigsskibe og luftforsvarssystemer til Cypern (udvidelse fra HMS Dragon alene)
+- Minab-begravelse afholdt for skolebørn og lærere
+- Madmangel-frygt i Teheran — lokale hamstrer, priserne stiger
+- UAE-tennisturnering i Fujairah suspenderet pga. drone-fragmenter
+- Trump bekræfter: Irans flåde/luftvåben "ødelagt", Tyskland "hjælper til"
+
 ## 2026-03-03 kl. 23:17
 - IDF dræber Daoud Ali Zadeh — Quds Forces kommandør for Libanon, dræbt i Teheran-strike
 - IAEA bekræfter bygningsskader ved Natanz-atomanlæg — ingen radiologiske konsekvenser
