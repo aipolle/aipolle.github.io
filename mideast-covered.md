@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 21:17
+- CIA delte Khameneis præcise lokation med Israel — rykkede timing for angrebet frem
+- BBC InDepth: ingen klar slutmål fra nogen part — krigen mangler exit-strategi
+- Israelske luftangreb på Dahiyeh (Beiruts sydforstæder) bekræftet tirsdag
+- Briter strandet i Mellemøsten kræver opdateringer fra UK-myndighederne
+
 ## 2026-03-03 kl. 20:17
 - Al Jazeera-undersøgelse: Minab-skoleangrebet sandsynligvis "bevidst" — dødstallet stiger til 165 (op fra 153)
 - Qatar: ingen kommunikation med Teheran, Iran advarede ikke om missilangreb
