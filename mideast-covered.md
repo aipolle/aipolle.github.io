@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 01:17
+- USA advarer: "hårdeste slag" mod Iran endnu ikke kommet (BBC live)
+- Indien: masseprotester i New Delhi, Srinagar, Hyderabad, Jammu mod Khamenei-drabet
+- Qatar bekræfter TO iranske kampfly nedskudt (opdatering fra ét)
+- IRGC gentager: Hormuz lukket, Iran vil "sætte ild til alle der forsøger at passere"
+- Libanon: 52 dræbt, titusinder flygter fra Beirut
+
 ## 2026-03-02 kl. 23:17
 - Finansmarkeder mandag: Brent crude +6% til ~$78/tønde (kortvarigt $82); AirFrance-KLM -9%, American Airlines -4%
 - S&P 500 og Nasdaq åbnede skarpt lavere men pared tab
