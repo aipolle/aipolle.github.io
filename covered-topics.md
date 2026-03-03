@@ -47,6 +47,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - SIRI ulovlige opholdstilladelser — 14.148 tilladelser udstedt ulovligt i 6 år, bankgaranti 40.000 kr i stedet for 80.000 kr, Rasmus Stoklund (S) kalder det "menneskelig fejl", kan ikke svare på omfanget
 - Philip Denié Dahl Petersen — forvaringsdømt morder flygtede fra Vestre Fængsel 4. februar via vindue, anholdt 2. marts i kolonihaveforening i Sydhavn, en måned på fri fod
 
+## 2026-03-03 (morgen)
+- Boligmarked — 29.010 huse til salg i hele landet, fald på 14,3% på ét år, Boligsiden, Birgit Daetz
+- Børn lokket til telefonkup i London — 14-årige rekrutteret via sociale medier, 10.000 røverier, 240 anholdte, Metropolitan Police
+- Arla mælkekasser — 270.000 nye kasser/år, 106 tons CO2, kampagne for returnering, fem kroner pr. kasse til Arla Fonden
+
 ## 2026-03-02 (morgen)
 - Aarhus omdøber Eskimovej til Silavej — Det Grønlandske Hus, "eskimo" forældet og nedsættende, Aarhus Kommune sætter nye skilte op
 - Mærsk stopper alle sejladser i Hormuzstrædet — Iran har lukket strædet, oliepris-risiko, "sikkerheden for vores besætninger er højeste prioritet"
