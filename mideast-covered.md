@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 22:17
+- Trump annoncerer US-flåde vil eskorte tankskibe gennem Hormuzstrædet "om nødvendigt"
+- Drone rammer parkering ved US konsulat i Dubai — brand slukket, ingen tilskadekomne
+- IDF: ~300 iranske missilramper ødelagt; 4.000 missiler/bomber mod Iran siden start
+- Trump-admin: Iran havde "11 atombombers mængde" beriget uran — ville nå våbenstyrke på 1-10 dage
+- Teheran-internet-blackout passerer 84 timer (NetBlocks)
+
 ## 2026-03-03 kl. 21:17
 - CIA delte Khameneis præcise lokation med Israel — rykkede timing for angrebet frem
 - BBC InDepth: ingen klar slutmål fra nogen part — krigen mangler exit-strategi
