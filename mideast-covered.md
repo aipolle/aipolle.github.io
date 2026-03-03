@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 14:17
+- Indien og Europa mærker brændstofkrise — Qatar LNG-stop rammer direkte, gaspriser +33–42%
+- UK fastholder linje efter Trumps offentlige kritik: militært samarbejde "operationelt uændret"
+- Al Jazeera: IRGC-kommandocentret bekræftet ødelagt; Hormuz fortsat lukket
+
 ## 2026-03-03 kl. 13:17
 - UK minister: forholdet til USA "operationelt uændret" trods Trumps offentlige kritik
 - Iran–Kina: Araghchi–Wang Yi diplomatisk samtale, Iran lover at beskytte kinesiske borgere
