@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 20:17
+- Al Jazeera-undersøgelse: Minab-skoleangrebet sandsynligvis "bevidst" — dødstallet stiger til 165 (op fra 153)
+- Qatar: ingen kommunikation med Teheran, Iran advarede ikke om missilangreb
+- Rusland profiterer: russisk olie efterspurgt, Kreml navigerer stille i konflikten
+- Maritime forsikringsselskaber annullerer krigsdækning i Golfregionen
+- Syrisk-libanesisk grænse: familier flygter fra Libanon ind i Syrien
+
 ## 2026-03-03 kl. 19:17
 - CENTCOM: 1.700+ mål ramt i Iran på 72 timer (missiler, flåde, ubåde, kommandocentre)
 - Assembly of Experts-sekretariatet i Qom ødelagt — BBC Verify bekræfter
