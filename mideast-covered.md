@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 13:17
+- UK minister: forholdet til USA "operationelt uændret" trods Trumps offentlige kritik
+- Iran–Kina: Araghchi–Wang Yi diplomatisk samtale, Iran lover at beskytte kinesiske borgere
+- Dag 4: USA varsler "hårdere slag" mod Iran endnu ikke kommet, Hormuz fortsat lukket
+
 ## 2026-03-03 kl. 12:17
 - 6 US soldater dræbt i Kuwait-angreb — Hegseth opdaterer fra 3 til 6, spørgsmål om fortifikationsstandarder (trailer som kontor)
 - Israelsk landinvasion i Libanon nu aktivt i gang — Hizbollah: "tålmodighedens epoke er slut"
