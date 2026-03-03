@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 10:17
+- Massbegravelse i Minab — tusinder samlet, chanter mod USA/Israel
+- Duqm-havn (Oman) ramt af iranske droner
+- Trumps slutmål uklart — BBC-analyse: ingen plan for Irans fremtid efter krigen
+- Al Jazeera: Israels mål er entydigt regimeskifte i Iran
+
 ## 2026-03-03 kl. 09:17
 - Israel godkender landkrig i Libanon: Netanyahu + Katz autoriserer IDF til at "erobre strategiske områder" — libanesisk hær trækker sig tilbage fra syd
 - Trump angriber Starmer offentligt i The Sun: "ikke behjælpelig... forholdet er ikke det, det var"
