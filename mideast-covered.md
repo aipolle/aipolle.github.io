@@ -123,6 +123,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 15:17
+- Trump: "too late" for Iran at forhandle — Irans FN-ambassadør: "tvivler på forhandlingers nytteværdi"
+- IDF indleder ny storskala-bølge af angreb mod Teheran (Breaking)
+- US ambassade i Saudi Arabia advarer om overhængende angreb mod Dhahran/Aramco
+- UK deployerer "betydeligt forsvarsniveau" til Cypern (RAF Akrotiri)
+- UAE: 172 iranske missiler + 755 droner intercepteret; Bahrain: 73 missiler intercepteret
+- Jask-havn beskadiget — bekræftet af satellitbilleder
+
 ## 2026-03-03 kl. 14:17
 - Indien og Europa mærker brændstofkrise — Qatar LNG-stop rammer direkte, gaspriser +33–42%
 - UK fastholder linje efter Trumps offentlige kritik: militært samarbejde "operationelt uændret"
