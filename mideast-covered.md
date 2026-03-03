@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 07:17
+- IDF bekræfter nye samtidige angreb mod Teheran OG Beirut ("bølge af omfattende luftangreb")
+- Trump Truth Social: USA har "nærmest ubegrænset forsyning" af ammunition, kan kæmpe "forever"
+- Netanyahu: Irans atomopbygning ville have været "immune within months" — tidspresset forklarer angrebet
+- Oliepriserne fortsætter: Brent $79.25 (+1,9%)
+
 ## 2026-03-03 kl. 06:17
 - Spanien nægter USA brug af baser til Iran-angreb — PM Sanchez fordømmer angrebene
 - Rubio bekræfter: USA angreb "pre-emptivt" fordi vidste Israel ville angribe
