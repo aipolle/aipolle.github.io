@@ -123,6 +123,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 18:17
+- Trump: "Just about everything's been knocked out" i Iran — ingen flåde, luftvåben eller luftforsvar
+- Trump angriber Starmer: "This is not Winston Churchill we're dealing with" — vred over Diego Garcia-nægtelse
+- Trump om worst case: "somebody takes over who's as bad as the previous person" + kandidater "now dead"
+- Trump skeptisk over for Reza Pahlavi — foretrækker "somebody already there"
+- US ambassade i Beirut lukket "until further notice"
+- HMS Dragon + helikoptere deployeret til Cypern med counter-drone kapaciteter
+
 ## 2026-03-03 kl. 16:17
 - Fujairah Oil Terminal (UAE) ramt af drone-affald — brand, nu slukket, ingen tilskadekomne
 - Merz-Trump møde i Det Hvide Hus — første ledermøde med Trump siden angrebene; Iran dominerer agenda
