@@ -123,6 +123,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 04:17
+- US ambassade i Riyadh ramt af iranske droner — brand på ambassadeområdet, Saudi arabisk forsvarsministerium siger "mindre skader"
+- Ny eskalering: Saudi Arabia nu direkte ramt af iranske droner mod amerikansk mål på saudisk jord
+
 ## 2026-03-03 kl. 02:17
 - USA opfordrer statsborgere til straks at forlade 12+ mellemøstlande (Egypten, Israel, Saudi Arabia, Qatar)
 - Dubais "sikre havn"-image brast — hotelparkeringer som nødskjul, ekspats forlader byen
