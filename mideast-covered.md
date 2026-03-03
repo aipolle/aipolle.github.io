@@ -123,6 +123,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 08:17
+- Hizbollah angriber tre israelske militærbaser: Nafah (Golan) med missiler, Meron + Ramat David luftbaser med droner
+- US ambassade i Kuwait lukket "until further notice" — alle konsulære aftaler aflyst
+
 ## 2026-03-03 kl. 07:17
 - IDF bekræfter nye samtidige angreb mod Teheran OG Beirut ("bølge af omfattende luftangreb")
 - Trump Truth Social: USA har "nærmest ubegrænset forsyning" af ammunition, kan kæmpe "forever"
