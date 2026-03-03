@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 02:17
+- USA opfordrer statsborgere til straks at forlade 12+ mellemøstlande (Egypten, Israel, Saudi Arabia, Qatar)
+- Dubais "sikre havn"-image brast — hotelparkeringer som nødskjul, ekspats forlader byen
+- Dag fire: ingen standsning, Trump fastholder 4-5 ugers varighed
+
 ## 2026-03-03 kl. 01:17
 - USA advarer: "hårdeste slag" mod Iran endnu ikke kommet (BBC live)
 - Indien: masseprotester i New Delhi, Srinagar, Hyderabad, Jammu mod Khamenei-drabet
