@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 23:17
+- IDF dræber Daoud Ali Zadeh — Quds Forces kommandør for Libanon, dræbt i Teheran-strike
+- IAEA bekræfter bygningsskader ved Natanz-atomanlæg — ingen radiologiske konsekvenser
+- Repatriering eskalerer: UK charter fra Muscat, Kroatien 4 fly til Dubai, 9.000+ amerikanere evakueret
+- BBC Verify bekræfter røgsøjle/eksplosionsskader i Sidon, Libanon
+- US-UK-brud: BBC-analyse kalder det "klistrigste" øjeblik i årtier
+
 ## 2026-03-03 kl. 22:17
 - Trump annoncerer US-flåde vil eskorte tankskibe gennem Hormuzstrædet "om nødvendigt"
 - Drone rammer parkering ved US konsulat i Dubai — brand slukket, ingen tilskadekomne
