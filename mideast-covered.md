@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 16:17
+- Fujairah Oil Terminal (UAE) ramt af drone-affald — brand, nu slukket, ingen tilskadekomne
+- Merz-Trump møde i Det Hvide Hus — første ledermøde med Trump siden angrebene; Iran dominerer agenda
+- Madprisadvarsel: Hormuz-lukning truer 1/3 af global urea-forsyning — Yara-chef advarer om op til 50% lavere afgrødeudbytter
+- Iranere ved tyrkisk-iransk grænse: blandede syn på angrebet (BBC-reporter fra Kapikoy)
+
 ## 2026-03-03 kl. 15:17
 - Trump: "too late" for Iran at forhandle — Irans FN-ambassadør: "tvivler på forhandlingers nytteværdi"
 - IDF indleder ny storskala-bølge af angreb mod Teheran (Breaking)
