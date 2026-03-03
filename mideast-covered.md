@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 06:17
+- Spanien nægter USA brug af baser til Iran-angreb — PM Sanchez fordømmer angrebene
+- Rubio bekræfter: USA angreb "pre-emptivt" fordi vidste Israel ville angribe
+- Tucker Carlson kræver Trump siger til Netanyahu: "I er ikke i charge"
+- Netanyahu på Fox News: "latterligt" Israel trak USA ind — "Trump handler for Amerika"
+- IRGC hævder at have ødelagt Sheikh Isa Air Base i Bahrain — brændstoftanke antændt
+
 ## 2026-03-03 kl. 05:17
 - US-tab stiger til 6 dræbte, 18 sårede — Trump: USA gengælder Riyadh "snart"
 - Ras Tanura-raffinaderi (Saudi Arabia, 550.000 tønder/dag) lukket efter drone-angreb — satellitbilleder bekræfter
