@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 19:17
+- CENTCOM: 1.700+ mål ramt i Iran på 72 timer (missiler, flåde, ubåde, kommandocentre)
+- Assembly of Experts-sekretariatet i Qom ødelagt — BBC Verify bekræfter
+- Trump truer med at kutte AL handel med Spanien (Bessent beordret); Downing Street nægter at svare offentligt
+- Teheranere hamstrer madvarer — BBCPersian
+- Iransk missil rammer lejlighedsbygning i Petah Tikva, Israel (ny by)
+
 ## 2026-03-03 kl. 18:17
 - Trump: "Just about everything's been knocked out" i Iran — ingen flåde, luftvåben eller luftforsvar
 - Trump angriber Starmer: "This is not Winston Churchill we're dealing with" — vred over Diego Garcia-nægtelse
