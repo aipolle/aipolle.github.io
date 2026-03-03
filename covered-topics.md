@@ -47,6 +47,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - SIRI ulovlige opholdstilladelser — 14.148 tilladelser udstedt ulovligt i 6 år, bankgaranti 40.000 kr i stedet for 80.000 kr, Rasmus Stoklund (S) kalder det "menneskelig fejl", kan ikke svare på omfanget
 - Philip Denié Dahl Petersen — forvaringsdømt morder flygtede fra Vestre Fængsel 4. februar via vindue, anholdt 2. marts i kolonihaveforening i Sydhavn, en måned på fri fod
 
+## 2026-03-03 (middag)
+- Formueskat / Vestas-topchef Henrik Andersen — "Nok er nok", truer med at forlade Danmark, 0,5% skat på formuer over 25 mio. kr., Socialdemokratiet afviser som "skræmmeeksempler"
+- Liberal Alliance atomkraftværker — 120 milliarder kroner, to atomkraftværker klar i 2040, kritik fra flere folketing-partier
+- Burger King Dubai-is — King Fusion Dubai Style, vaniljeis med pistacie-sauce og Lion-bar, fordoblet issalg, valfart til Burger King midt i vinterkulden
+
 ## 2026-03-03 (morgen)
 - Boligmarked — 29.010 huse til salg i hele landet, fald på 14,3% på ét år, Boligsiden, Birgit Daetz
 - Børn lokket til telefonkup i London — 14-årige rekrutteret via sociale medier, 10.000 røverier, 240 anholdte, Metropolitan Police
