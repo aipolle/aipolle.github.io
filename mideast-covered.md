@@ -123,6 +123,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 05:17
+- US-tab stiger til 6 dræbte, 18 sårede — Trump: USA gengælder Riyadh "snart"
+- Ras Tanura-raffinaderi (Saudi Arabia, 550.000 tønder/dag) lukket efter drone-angreb — satellitbilleder bekræfter
+- Amazon AWS-datacentre i UAE direkte ramt af droner — strukturskade, strømafbrydelse
+- Golestan Palace (UNESCO Verdensarvssted) beskadiget i Teheran
+- Iran FM Araghchi lover at beskytte kinesiske borgere — diplomatisk signalering mod Kina
+- JD Vance: USA vil ikke ind i årelang konflikt — fokus: forhindre Iran i atomvåben
+
 ## 2026-03-03 kl. 04:17
 - US ambassade i Riyadh ramt af iranske droner — brand på ambassadeområdet, Saudi arabisk forsvarsministerium siger "mindre skader"
 - Ny eskalering: Saudi Arabia nu direkte ramt af iranske droner mod amerikansk mål på saudisk jord
