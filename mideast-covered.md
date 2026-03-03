@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-03 kl. 09:17
+- Israel godkender landkrig i Libanon: Netanyahu + Katz autoriserer IDF til at "erobre strategiske områder" — libanesisk hær trækker sig tilbage fra syd
+- Trump angriber Starmer offentligt i The Sun: "ikke behjælpelig... forholdet er ikke det, det var"
+- UK Chief Secretary Jones: forholdet "operationelt" uændret — UK vil kun agere med juridisk grundlag
+- Iranske statsmedier: US-luftbase i Bahrain ramt — ikke bekræftet af CENTCOM
+- UAE genoptager begrænset flytrafik (Dubai lufthavn)
+
 ## 2026-03-03 kl. 08:17
 - Hizbollah angriber tre israelske militærbaser: Nafah (Golan) med missiler, Meron + Ramat David luftbaser med droner
 - US ambassade i Kuwait lukket "until further notice" — alle konsulære aftaler aflyst
