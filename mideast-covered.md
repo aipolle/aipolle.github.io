@@ -123,6 +123,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 05:17
+- Saudi Arabia intercepterer 2 krydsermissiler + 9 droner nær Riyadh (Breaking)
+- Qatar arresterer 10 mistænkte IRGC-spioner (2 celler)
+- HRANA: 1.097 civile dræbt i Iran, 181 børn under 10 år, 5.402 sårede — stor stigning
+- 11-årig pige dræbt af shrapnel fra nedskudt drone i Kuwait
+- Skib ramt ud for Fujairah, UAE (stålplade beskadiget)
+- Sydkorea "circuit breaker" aktiveret — Kospi ned 10%+ (første gang siden aug 2024)
+- Ny bølge iranske missiler mod Israel intercepteret
+
 ## 2026-03-04 kl. 04:17
 - Rusland og Kina hæver diplomatiske stemmer: Lavrov siger ingen tegn på Iran søger atomvåben; Kinas FM kræver Israel stopper angrebene
 - Oman fornyer mægling: "off-ramps er tilgængelige"
