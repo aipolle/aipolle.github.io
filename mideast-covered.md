@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 15:17
+- US ubåd torpederede officielt IRIS Dena — Hegseth bekræfter, ~140 savnede
+- UK intern politisk gnidning: Badenoch kræver mere handling mod Iran, Starmer forsvarer UK's linje
+- Europa splittelse: EU søger fælles forsvarsstrategi men forbliver uenig; Frankrig/Tyskland mod mutual defence
+
 ## 2026-03-04 kl. 14:17
 - Khameneis begravelse udsat — Israel truer eksplicit med at dræbe næste øverste leder
 - Første britiske statsfly letter fra Muscat (Oman) for UK-statsborgere
