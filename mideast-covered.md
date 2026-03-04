@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 16:17
+- IRIS Dena: 80 lig fundet, 32 reddet — Pentagon offentliggør torpedo-footage
+- Israel beordrer stor evakuering i sydlibanon — civile flygter
+- Tung geværild ved Metula — lyder som "fuld skudkamp" ved grænsen
+
 ## 2026-03-04 kl. 15:17
 - US ubåd torpederede officielt IRIS Dena — Hegseth bekræfter, ~140 savnede
 - UK intern politisk gnidning: Badenoch kræver mere handling mod Iran, Starmer forsvarer UK's linje
