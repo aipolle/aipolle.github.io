@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 21:17
+- Første britiske statsfly bekræftet lettet fra Mellemøsten — 130.000+ briter registreret til evakuering
+- Iranske civile: "Hver dag føles som en måned" — ny BBC-feature om dagliglivet under konstante angreb
+- AP bekræfter israelske kampvogne manøvrerende ved Libanon-grænsen — landinvasion understreget
+
 ## 2026-03-04 kl. 20:17
 - Hegseth: mere US-styrker ankommer til Mellemøsten, krigen "just getting started"
 - Iranere til BBC Persian: tomme gader, lukkede butikker, stigende madpriser i Urmia/Teheran
