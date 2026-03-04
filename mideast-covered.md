@@ -123,6 +123,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 09:17
+- Iransk krigsskib "IRIS Dena" synker nær Sri Lanka — 180 om bord, 30 tilskadekomne i Galle hospital; årsag ukendt
+- Khameneis begravelsesceremoni starter kl. 18:30 GMT i dag, varer 3 dage
+- Israel advarer: Khameneis efterfølger vil være eliminerings-mål
+- Mojtaba Khamenei (søn) er frontrunner til ny øverste leder — beslutning muligvis i dag (NYT)
+- Ny "bred bølge" israelske angreb rammer det østlige Teheran onsdag morgen
+- Israelske angreb udvides i Libanon: Baalbek + Hazmieh-hotel ramt
+
 ## 2026-03-04 kl. 08:17
 - BREAKING: Iransk ballistisk missil rammer Al Udaid Air Base i Qatar — USA's største base i regionen ramt direkte, ingen sårede
 - Israel rammer Basij-HQ + logistikdirektiv i Teheran — IDF varsler "intensivering"
