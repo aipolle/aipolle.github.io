@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 13:17
+- IRIS Dena officielt sunket — ~140 savnede (opdateret fra 30 tilskadekomne)
+- Golfstaterne overvejer direkte svar: "alle røde linjer er overskredet" (BBC)
+- Israelske angreb i Libanon: 11 dræbt — hotel + boligområder; Hizbollah angriber base nær Safed
+- IRGC erklærer "fuldstændig kontrol" over Hormuzstrædet
+
 ## 2026-03-04 kl. 12:17
 - IDF beordrer civil evakuering syd for Litani-floden — potentiel israelisk landinvasion i Sydlibanon; aktiv skudfægtning rapporteret fra Metula
 - Nyt droneangreb mod Ras Tanura-raffinaderi (Saudi Arabia) — ingen skader; andet forsøg mod anlægget
