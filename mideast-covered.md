@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 02:17
+- Golfstaterne overvejer reaktion: "alle røde linjer er overskredet" — BBC-analyse om regionens fremtid
+- Rubio-Israels rolle reverbererer i MAGA-base — politisk splid om krigens rationale
+- Amerikanske midtvejsprimærvalg indledes i skyggen af Iran-krigen
+
 ## 2026-03-04 kl. 01:17
 - US ambassade i Dubai ramt af iransk angreb (eskalering fra konsulat-parkering 03-03 kl. 22:17)
 - Hegseth bekræfter officielt 6 US soldater dræbt i Kuwait-angreb
