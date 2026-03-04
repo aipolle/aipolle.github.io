@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 11:17
+- Første officielle britiske statsfly for UK-statsborgere klar til at lette fra Muscat (Oman) — adskilt fra charter
+- Sydkoreas aktieindeks falder 12,2% — største enkeltdagsfald i Sydkoreas børshistorie, overstiger 9/11-krakket 2001
+- Dag 5: USA og Israel intensiverer angrebene — iranske gengældelsesangreb med droner og missiler fortsætter
+
 ## 2026-03-04 kl. 10:17
 - IRGC sender hundredvis af droner mod Kuwait, Irak, Saudi Arabia og UAE — kalder det "første kraftfulde skridt"
 - Iranske civile dødstallet passerer 1.000 (BBC live)
