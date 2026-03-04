@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 07:17
+- CENTCOM-admiral Cooper briefing: 2.000+ mål ramt, 17 iranske skibe sænket (hele flåden), operation dobbelt så stor som Irak Shock and Awe 2003 — 50.000 soldater, 200 kampfly, 2 hangarskibe
+- Israel lancerer ny "bred bølge" mod Iran og Hizbollah i Libanon natten til onsdag
+- Iran: 500+ ballistiske missiler og 2.000+ droner affyret siden start (CENTCOM)
+
 ## 2026-03-04 kl. 05:17
 - Saudi Arabia intercepterer 2 krydsermissiler + 9 droner nær Riyadh (Breaking)
 - Qatar arresterer 10 mistænkte IRGC-spioner (2 celler)
