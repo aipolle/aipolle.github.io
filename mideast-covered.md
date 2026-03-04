@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 23:17
+- US Senatet afviser War Powers-resolution 47-52 — Rand Paul (R) med Demokraterne, Fetterman (D) med Republikanerne; Huset stemmer torsdag
+- IMO: 20.000 sømænd strandet i Hormuzstrædet + 15.000 krydstogtpassagerer berørt (Arsenio Dominguez til BBC)
+- Rubio ringer Saudi-UM — takker for Saudi-svar på Riyadh-ambassadeangreb
+
 ## 2026-03-04 kl. 22:17
 - Hezbollah-chef Qassem: "vil ikke overgive sig" — første offentlige tale siden Libanon-front åbnede; bekræfter Israels brud på 2024-våbenhvile
 - Qatar kræver Iran stopper angrebene: UM al-Thani ringer Araghchi for første gang — fordømmer iransk framing, kræver "øjeblikkelig stop"
