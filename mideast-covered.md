@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 01:17
+- US ambassade i Dubai ramt af iransk angreb (eskalering fra konsulat-parkering 03-03 kl. 22:17)
+- Hegseth bekræfter officielt 6 US soldater dræbt i Kuwait-angreb
+- Trump modsiger Rubio: angreb begrundet med frygt for iransk førstestrejke mod USA (ikke atombombe-tidslinje)
+- Iransk dødstalsopgørelse: 787 dræbt siden lørdag (Røde Halvmåne)
+
 ## 2026-03-04 kl. 00:17
 - UK og Frankrig sender krigsskibe og luftforsvarssystemer til Cypern (udvidelse fra HMS Dragon alene)
 - Minab-begravelse afholdt for skolebørn og lærere
