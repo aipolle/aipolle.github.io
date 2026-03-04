@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 19:17
+- USA/Israel framer krigen som religiøs endetidskrig — amerikanske soldater angiveligt fortalt om bibelske endetider/Armageddon (Al Jazeera)
+- Starmer forsvarer UK's Iran-linje mod Badenoch (BBC, ~18:53)
+- 66.000 afghanske civile fordrevet ved Pakistan-grænsen — FN advarer om regional spredning
+
 ## 2026-03-04 kl. 18:17
 - Khameneis begravelse udsat igen — yderligere forsinkelse, "mere forberedelse nødvendig"
 - Iransk projektil landet i Syrien nær Qamishli — ny berørt nation (formentlig utilsigtet)
