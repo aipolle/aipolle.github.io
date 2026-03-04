@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 14:17
+- Khameneis begravelse udsat — Israel truer eksplicit med at dræbe næste øverste leder
+- Første britiske statsfly letter fra Muscat (Oman) for UK-statsborgere
+- Pakistanske studerende (~3.000) flygter fra Iran
+
 ## 2026-03-04 kl. 13:17
 - IRIS Dena officielt sunket — ~140 savnede (opdateret fra 30 tilskadekomne)
 - Golfstaterne overvejer direkte svar: "alle røde linjer er overskredet" (BBC)
