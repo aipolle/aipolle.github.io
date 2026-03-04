@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 20:17
+- Hegseth: mere US-styrker ankommer til Mellemøsten, krigen "just getting started"
+- Iranere til BBC Persian: tomme gader, lukkede butikker, stigende madpriser i Urmia/Teheran
+- Spanien-analyse: Sanchez fastholder modstand mod USA, Washington truer med handelssanktioner
+
 ## 2026-03-04 kl. 19:17
 - USA/Israel framer krigen som religiøs endetidskrig — amerikanske soldater angiveligt fortalt om bibelske endetider/Armageddon (Al Jazeera)
 - Starmer forsvarer UK's Iran-linje mod Badenoch (BBC, ~18:53)
