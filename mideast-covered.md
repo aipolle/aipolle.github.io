@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 18:17
+- Khameneis begravelse udsat igen — yderligere forsinkelse, "mere forberedelse nødvendig"
+- Iransk projektil landet i Syrien nær Qamishli — ny berørt nation (formentlig utilsigtet)
+- Pentagon navngiver fire af seks dræbte US-soldater fra Kuwait-droneangreb
+
 ## 2026-03-04 kl. 17:17
 - Pentagon advarer om "dybere slag" mod Iran
 - NATO/Tyrkiet skyder iransk missil ned over Middelhavet — ny aktør/eskalering
