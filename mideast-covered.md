@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 08:17
+- BREAKING: Iransk ballistisk missil rammer Al Udaid Air Base i Qatar — USA's største base i regionen ramt direkte, ingen sårede
+- Israel rammer Basij-HQ + logistikdirektiv i Teheran — IDF varsler "intensivering"
+- Israel evakueringsadvarsel for Haret Hreik (Beirut) + Comfort Hotel bombet uden advarsel
+- BBC Verify bekræfter drone ramte selve US-konsulat-bygningen i Dubai (ikke kun parkering)
+
 ## 2026-03-04 kl. 07:17
 - CENTCOM-admiral Cooper briefing: 2.000+ mål ramt, 17 iranske skibe sænket (hele flåden), operation dobbelt så stor som Irak Shock and Awe 2003 — 50.000 soldater, 200 kampfly, 2 hangarskibe
 - Israel lancerer ny "bred bølge" mod Iran og Hizbollah i Libanon natten til onsdag
