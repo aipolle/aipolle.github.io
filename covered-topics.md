@@ -52,6 +52,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Liberal Alliance atomkraftværker — 120 milliarder kroner, to atomkraftværker klar i 2040, kritik fra flere folketing-partier
 - Burger King Dubai-is — King Fusion Dubai Style, vaniljeis med pistacie-sauce og Lion-bar, fordoblet issalg, valfart til Burger King midt i vinterkulden
 
+## 2026-03-04 (middag)
+- Formueskat topchef-oprør — Erling Daell (Harald Nyborg): "åndssvagt", Robert Mærsk Uggla: "skadeligt for Danmark", Henrik Andersen (Vestas) 42 mio. kr. i løn, truer med at forlade landet, rigmænd vs. Mette Frederiksen
+- Falske OxyContin-blisterpakker / nitazener — Sundhedsstyrelsen advarer, hundrede gange stærkere end morfin, et dødsfald registreret af Retsmedicinsk Institut
+
 ## 2026-03-04 (morgen)
 - Grøn flyrute Aalborg-København — Norwegian siger "vi kan ikke kalde det grønt", 40% SAF, 60% fossil, Mette Frederiksens nytårstale 2022, grønvask
 - ScanCom lukker — Lars Larsen Group, 2.300 ansatte mister jobbet, grundlagt Korsør 1995, produktion i Vietnam, "markedet skiftede drastisk"
