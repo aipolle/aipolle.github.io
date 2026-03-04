@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 17:17
+- Pentagon advarer om "dybere slag" mod Iran
+- NATO/Tyrkiet skyder iransk missil ned over Middelhavet — ny aktør/eskalering
+- CIA overvejer at bevæbne kurdiske styrker i Iran til intern opstand
+
 ## 2026-03-04 kl. 16:17
 - IRIS Dena: 80 lig fundet, 32 reddet — Pentagon offentliggør torpedo-footage
 - Israel beordrer stor evakuering i sydlibanon — civile flygter
