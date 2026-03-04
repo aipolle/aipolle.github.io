@@ -123,6 +123,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 22:17
+- Hezbollah-chef Qassem: "vil ikke overgive sig" — første offentlige tale siden Libanon-front åbnede; bekræfter Israels brud på 2024-våbenhvile
+- Qatar kræver Iran stopper angrebene: UM al-Thani ringer Araghchi for første gang — fordømmer iransk framing, kræver "øjeblikkelig stop"
+- Ny israelsk "bølge af angreb" over Teheran onsdag aften — AFP bekræfter kraftig eksplosion
+- Macron møder Netanyahu + Libanons lederskab — bed Israel om at afholde sig fra landinvasion i Libanon
+- Spanien fastholder: UM Albares afviser Hvide Hus' påstand om spansk militærsamarbejde — "nej til krig forbliver klart"
+- Trump gentager atombombe-begrundelsen: "Inden for to uger ville de have haft atomvåben"
+
 ## 2026-03-04 kl. 21:17
 - Første britiske statsfly bekræftet lettet fra Mellemøsten — 130.000+ briter registreret til evakuering
 - Iranske civile: "Hver dag føles som en måned" — ny BBC-feature om dagliglivet under konstante angreb
