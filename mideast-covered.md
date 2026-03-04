@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 03:17
+- USA identificerer officielt de første dræbte soldater: fire Army Reserve-soldater navngivet fra Kuwait-droneangreb; 6 dræbt i alt bekræftet af Hegseth
+- Israel lancerer ny angrebsbølge mod Iran natten til onsdag
+- BBC InDepth: ingen part har klar exit-strategi — "We still have no idea where this war is headed"
+
 ## 2026-03-04 kl. 02:17
 - Golfstaterne overvejer reaktion: "alle røde linjer er overskredet" — BBC-analyse om regionens fremtid
 - Rubio-Israels rolle reverbererer i MAGA-base — politisk splid om krigens rationale
