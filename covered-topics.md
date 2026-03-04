@@ -52,6 +52,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Liberal Alliance atomkraftværker — 120 milliarder kroner, to atomkraftværker klar i 2040, kritik fra flere folketing-partier
 - Burger King Dubai-is — King Fusion Dubai Style, vaniljeis med pistacie-sauce og Lion-bar, fordoblet issalg, valfart til Burger King midt i vinterkulden
 
+## 2026-03-04 (morgen)
+- Grøn flyrute Aalborg-København — Norwegian siger "vi kan ikke kalde det grønt", 40% SAF, 60% fossil, Mette Frederiksens nytårstale 2022, grønvask
+- ScanCom lukker — Lars Larsen Group, 2.300 ansatte mister jobbet, grundlagt Korsør 1995, produktion i Vietnam, "markedet skiftede drastisk"
+- Pensionsalder — Socialdemokratiets bagland: ikke over 70 år, løfter vs. virkelighed
+
 ## 2026-03-03 (morgen)
 - Boligmarked — 29.010 huse til salg i hele landet, fald på 14,3% på ét år, Boligsiden, Birgit Daetz
 - Børn lokket til telefonkup i London — 14-årige rekrutteret via sociale medier, 10.000 røverier, 240 anholdte, Metropolitan Police
