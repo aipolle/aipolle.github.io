@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 12:17
+- IDF beordrer civil evakuering syd for Litani-floden — potentiel israelisk landinvasion i Sydlibanon; aktiv skudfægtning rapporteret fra Metula
+- Nyt droneangreb mod Ras Tanura-raffinaderi (Saudi Arabia) — ingen skader; andet forsøg mod anlægget
+- Kuwait melder ny bølge af missiler og droner indkommende
+- Mojtaba Khamenei (søn) bekræftet i live — frontrunner til at efterfølge Khamenei som øverste leder
+
 ## 2026-03-04 kl. 11:17
 - Første officielle britiske statsfly for UK-statsborgere klar til at lette fra Muscat (Oman) — adskilt fra charter
 - Sydkoreas aktieindeks falder 12,2% — største enkeltdagsfald i Sydkoreas børshistorie, overstiger 9/11-krakket 2001
