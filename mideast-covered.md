@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-04 kl. 10:17
+- IRGC sender hundredvis af droner mod Kuwait, Irak, Saudi Arabia og UAE — kalder det "første kraftfulde skridt"
+- Iranske civile dødstallet passerer 1.000 (BBC live)
+- Første UK-chartered repatrieringsfly letter fra Muscat (Oman)
+
 ## 2026-03-04 kl. 09:17
 - Iransk krigsskib "IRIS Dena" synker nær Sri Lanka — 180 om bord, 30 tilskadekomne i Galle hospital; årsag ukendt
 - Khameneis begravelsesceremoni starter kl. 18:30 GMT i dag, varer 3 dage
