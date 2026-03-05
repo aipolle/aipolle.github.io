@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 09:17
+- Første israelske repatrieringsfly gennemført (Israels transportministerium)
+- Eksplosioner over Qatar og Bahrain — angreb fortsætter dag 6
+- EU sender militærhjælp til Cypern
+- Britisk regeringsfly fra Oman stadig ikke lettet — teknisk problem, "total farce"
+
 ## 2026-03-05 kl. 08:17
 - Ben Gurion Lufthavn genåbner efter 5 dages lukning — første repatrieringsfly fra Athen landet; 100.000 israelere strandet i udlandet ventes hjem
 - IDF rammer Qom og Isfahan: ballistisk missilrampe i Qom (parat til affyring) og luftforsvarssystem i Isfahan ødelagt
