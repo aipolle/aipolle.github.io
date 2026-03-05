@@ -653,6 +653,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 17:17
+- IDF bekræfter "bølge af angreb" mod Beiruts sydforstæder — store ødelæggelser timer efter evakueringsordre
+- Sri Lanka bjærger 87 lig fra sænkede IRIS Dena; andet iransk krigsskib i nøde i samme område
+
 ## 2026-03-05 kl. 16:17
 - Starmer bekræfter: UK sender 4 yderligere Typhoon-jets til Qatar; 4.000 briter hjemkommet kommercielt; første regeringsfly lettet fra Oman
 - Aserbajdsjan lukker sydligt luftrum 12 timer — NOTAM udstedt efter 4 iranske droner krydsede grænsen
