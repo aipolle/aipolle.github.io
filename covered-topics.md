@@ -56,6 +56,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Formueskat topchef-oprør — Erling Daell (Harald Nyborg): "åndssvagt", Robert Mærsk Uggla: "skadeligt for Danmark", Henrik Andersen (Vestas) 42 mio. kr. i løn, truer med at forlade landet, rigmænd vs. Mette Frederiksen
 - Falske OxyContin-blisterpakker / nitazener — Sundhedsstyrelsen advarer, hundrede gange stærkere end morfin, et dødsfald registreret af Retsmedicinsk Institut
 
+## 2026-03-05 (middag)
+- Drama på bosted i Ørsted — 53-årig kvinde hældte benzin over ansat og forsøgte at sætte ild til vedkommende med lighter, grundlovsforhør Retten i Randers
+- "Græker"-sagen vokser — Nikolas Pornaris (34) styrer Casablanca-netværk fra Marokko, forkert mand dræbt i 2021, nye drab og drabsforsøg tilføjet sigtelserne
+
 ## 2026-03-05 (morgen)
 - Støjberg taget i løgn på TV 2 — motorvejsepisode, PET-livvagter, bøde for hensynsløs kørsel (ikke vanvidsbilisme), TV 2 Højskolen
 - Mand skubbet ud foran tog i Mørke — letbanetog Østjylland, overfladiske skrammer, politiet søger vidner, klokken 19.26
