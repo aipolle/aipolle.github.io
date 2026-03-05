@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 06:17
+- Første britiske regeringsfly bekræftet afrejst fra Mellemøsten — 130.000+ briter registreret til evakuering
+- Iranske missilangreb mod Israel fortsætter torsdag morgen (opfølgning på 05:17's 3 alarmer)
+- US Senat støttede Trumps krigsbeføjelser (47-52); Repræsentanternes Hus stemmer torsdag
+
 ## 2026-03-05 kl. 05:17
 - Iran ny missilbølge mod Israel tidlig torsdag morgen — 3 alarmer på 2 timer, eksplosioner i Jerusalem, ingen tab, all-clear givet
 - Australien + Canada (Albanese + Carney): kræver de-eskalering, støtter mål om at forhindre Iran i atomvåben, Carney udelukker ikke canadisk militær deltagelse
