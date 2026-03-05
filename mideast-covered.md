@@ -123,6 +123,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 11:17
+- Aserbajdsjan-detaljer: drone rammer Nakhchivan lufthavnsterminal + skole i Shakarabad, 2 sårede, ambassadør indkaldt
+- Iran angriber US-tankskib i Golfen — iransk stats-TV: skibet "brænder"
+- Anden iransk fartøj melder motorproblemer til Sri Lanka (efter IRIS Dena/87 lig)
+- Bahrain: 75 missiler + 123 droner ødelagt i alt
+- Rusland: USA/Israel "forsøger at trække arabiske lande ind i krigen"
+- Qatar Airways nødfly fra Muscat til København og andre europæiske byer
+- Qatar forhøjet trusselsniveau, eksplosioner over Doha, dag 6 angreb fortsætter
+
 ## 2026-03-05 kl. 10:17
 - Aserbajdsjan bekræfter iranske droner landet på dets territorium — ny nation ramt
 - Iran afviser at have affyret missil mod Tyrkiet efter NATO-interception over Middelhavet
