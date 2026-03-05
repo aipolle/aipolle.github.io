@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 00:17
+- Trump varsler kraftig optrapning: USA's ildkraft over Iran "will surge dramatically" — slår iranske mål "every single hour"
+- Sri Lanka evakuerer 200+ besætningsmedlemmer fra andet iransk krigsskib i Det Indiske Ocean (én dag efter IRIS Dena-sænkningen med 87 omkomne)
+- Repræsentanternes Hus War Powers-forkastelse nu officielt dækket (dag 7 begynder)
+
 ## 2026-03-05 kl. 22:17
 - Israel annoncerer "næste fase" af krigen — intensivering
 - Iransk topembedsmand: Iran klar til at "ydmyge" US-tropper ved invasion
