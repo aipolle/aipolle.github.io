@@ -653,6 +653,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 19:17
+- UAE udsender emergency shelter-in-place alarm — nye iranske missiler/droner intercepteret
+- Minab-skoledødstallet stiger til 168 (op fra 165) — BBC bekræfter via satellitbilleder
+- Trump: vil "involveres" i valg af Irans næste øverste leder — afviser Khameneis søn som "lightweight"
+- ~1.000 skibe opankret nær Hormuzstrædet — trafik 90% lavere end normalt (LMA/BBC Verify)
+- Azadi Sports Complex i Teheran ødelagt (EPA-foto bekræftet)
+
 ## 2026-03-05 kl. 18:17
 - US/Israel-missiler rammer TO skoler nær Teheran (Parand-området) — nyt skoleangrebe seks dage efter Minab
 - Starmer fastholder ikke-deltagelse; 4 ekstra Typhoon-jets til Qatar; kalder på forhandlet løsning
