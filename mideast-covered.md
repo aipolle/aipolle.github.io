@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 08:17
+- Ben Gurion Lufthavn genåbner efter 5 dages lukning — første repatrieringsfly fra Athen landet; 100.000 israelere strandet i udlandet ventes hjem
+- IDF rammer Qom og Isfahan: ballistisk missilrampe i Qom (parat til affyring) og luftforsvarssystem i Isfahan ødelagt
+- Israelske militærkilder: Irans missilkapacitet "svækket" — færre raketter; IDF siger indsats mod missilarsenal/affyringsanlæg "har virket"
+- Qatar evakuerer beboere nær US-ambassaden i Doha som forebyggende foranstaltning
+
 ## 2026-03-05 kl. 07:17
 - Ny iransk missilbølge mod Israel bekræftet kl. 07:17 — dag 6 angreb fortsætter
 - Korrektion: UK regeringsfly fra Muscat afgik IKKE som planlagt — vil lette i løbet af torsdag
