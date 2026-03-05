@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 03:17
+- Pentagon navngiver alle 6 dræbte i Kuwait: CWO3 Robert M. Marzan (54, Sacramento, CA) + Major Jeffrey O'Brien (Waukee, Iowa) identificeret som 5. og 6. offer
+- UKMTO: Tanker ramt af stor eksplosion ud for Kuwaits kyst — olieudslip, ingen brand, besætning i sikkerhed
+- Al Jazeera-analyse: Trumps slutmål er regimeskifte uden landtropper — analytikere tvivler på det er muligt med luftmagt alene
+
 ## 2026-03-05 kl. 02:17
 - Zelensky tilbyder Ukraine-eksperter til Golf (UAE, Qatar, Jordan, Bahrain) for at hjælpe nedskyde iranske droner
 - Saudi Arabia intercepterer 3 krydsermissiler nær Al-Kharj (ny runde iranske angreb)
