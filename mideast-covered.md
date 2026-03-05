@@ -652,3 +652,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Ny iransk militærchef identificeret: Maj Gen Ali Abdollahi (Khatam al-Anbiya centralkommando)
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
+
+## 2026-03-05 kl. 16:17
+- Starmer bekræfter: UK sender 4 yderligere Typhoon-jets til Qatar; 4.000 briter hjemkommet kommercielt; første regeringsfly lettet fra Oman
+- Aserbajdsjan lukker sydligt luftrum 12 timer — NOTAM udstedt efter 4 iranske droner krydsede grænsen
+- Israel udsteder "hidtidig uset" evakueringsordre for Beiruts sydforstæder — kæmpe køer ud af Beirut
+- Israelske angreb dræber 10 i Libanon (op fra 8)
+- Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
