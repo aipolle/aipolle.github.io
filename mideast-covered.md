@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 02:17
+- Zelensky tilbyder Ukraine-eksperter til Golf (UAE, Qatar, Jordan, Bahrain) for at hjælpe nedskyde iranske droner
+- Saudi Arabia intercepterer 3 krydsermissiler nær Al-Kharj (ny runde iranske angreb)
+- 3 dræbt ved israelske angreb nær Beiruts Rafik Hariri lufthavn
+- UNHCR bekræfter: 100.000 flygtede fra Teheran på 2 dage, 58.000 i ly i Libanon
+- Senats-afstemning: endelig resultat 47-53 (Rand Paul med Demokraterne, Fetterman med Republikanerne)
+
 ## 2026-03-05 kl. 01:17
 - Israel indleder ny "bred bølge af angreb" mod Teheran natten til torsdag — dag 6 begynder
 - Demokrater advarer: US-jordtropper i Iran nu "mere sandsynligt" forud for Husets War Powers-afstemning torsdag
