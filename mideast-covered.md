@@ -123,6 +123,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 10:17
+- Aserbajdsjan bekræfter iranske droner landet på dets territorium — ny nation ramt
+- Iran afviser at have affyret missil mod Tyrkiet efter NATO-interception over Middelhavet
+- Irans internet-blackout overstiger 120 timer (NetBlocks)
+- Dødstallet i Iran stiger til mindst 1.045 siden lørdag (Al Jazeera)
+- Iraks VM 2026-deltagelse truet af konflikten — USA er co-vært
+
 ## 2026-03-05 kl. 09:17
 - Første israelske repatrieringsfly gennemført (Israels transportministerium)
 - Eksplosioner over Qatar og Bahrain — angreb fortsætter dag 6
