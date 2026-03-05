@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 12:17
+- Iran angriber iranske kurdiske gruppers HQ i Irak — grupper konsulterede USA om angreb indefra
+- NATO-chef: Iran "tæt på" at blive trussel mod Europa
+- IRGC hævder "betydelig skade" på US-mål i Kuwait, Bahrain, UAE
+- Hegseth erkender USA "kan ikke stoppe alt" Iran affyrer
+
 ## 2026-03-05 kl. 11:17
 - Aserbajdsjan-detaljer: drone rammer Nakhchivan lufthavnsterminal + skole i Shakarabad, 2 sårede, ambassadør indkaldt
 - Iran angriber US-tankskib i Golfen — iransk stats-TV: skibet "brænder"
