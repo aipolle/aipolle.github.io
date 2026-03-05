@@ -653,6 +653,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 23:17
+- Repræsentanternes Hus afviser War Powers-resolution — begge kamre har nu nedstemt kravet om kongreslig godkendelse
+- Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
+- Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
+
 ## 2026-03-05 kl. 22:17
 - Israel annoncerer "næste fase" af krigen — intensivering
 - Iransk topembedsmand: Iran klar til at "ydmyge" US-tropper ved invasion
