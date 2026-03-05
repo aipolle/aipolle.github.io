@@ -653,6 +653,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 21:17
+- UAE nødalarm: 6 iranske missiler + 131 droner intercepteret torsdag aften
+- USA lukker ambassaden i Kuwait (AP live)
+- Israelere bakker op om krigen trods træthed — BBC-rapport
+- BBC-analyse (Amir Azimi): Irans strategi er udholdenhed og afskrækkelse
+
 ## 2026-03-05 kl. 20:17
 - EU + GCC fordømmer "uretfærdiggjorte iranske angreb" — fælles Bruxelles-erklæring
 - Trump kontakter mindst 3 kurdiske grupper (KDPI, Komala, PJAK) om intern front mod Iran
