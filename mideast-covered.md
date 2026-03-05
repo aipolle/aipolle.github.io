@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 07:17
+- Ny iransk missilbølge mod Israel bekræftet kl. 07:17 — dag 6 angreb fortsætter
+- Korrektion: UK regeringsfly fra Muscat afgik IKKE som planlagt — vil lette i løbet af torsdag
+- Repræsentanternes Hus stemmer om War Powers i dag (torsdag); Demokrater advarer om sandsynlige jordtropper
+
 ## 2026-03-05 kl. 06:17
 - Første britiske regeringsfly bekræftet afrejst fra Mellemøsten — 130.000+ briter registreret til evakuering
 - Iranske missilangreb mod Israel fortsætter torsdag morgen (opfølgning på 05:17's 3 alarmer)
