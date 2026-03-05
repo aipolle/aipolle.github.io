@@ -653,6 +653,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 22:17
+- Israel annoncerer "næste fase" af krigen — intensivering
+- Iransk topembedsmand: Iran klar til at "ydmyge" US-tropper ved invasion
+- Første britiske regeringsfly faktisk afrejst fra Mellemøsten (bekræftet "just now" af BBC)
+
 ## 2026-03-05 kl. 21:17
 - UAE nødalarm: 6 iranske missiler + 131 droner intercepteret torsdag aften
 - USA lukker ambassaden i Kuwait (AP live)
