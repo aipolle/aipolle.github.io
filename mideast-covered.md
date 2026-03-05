@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 01:17
+- Israel indleder ny "bred bølge af angreb" mod Teheran natten til torsdag — dag 6 begynder
+- Demokrater advarer: US-jordtropper i Iran nu "mere sandsynligt" forud for Husets War Powers-afstemning torsdag
+- Huset stemmer torsdag om War Powers-resolution; Senatet afviste 47-52 onsdag
+
 ## 2026-03-04 kl. 23:17
 - US Senatet afviser War Powers-resolution 47-52 — Rand Paul (R) med Demokraterne, Fetterman (D) med Republikanerne; Huset stemmer torsdag
 - IMO: 20.000 sømænd strandet i Hormuzstrædet + 15.000 krydstogtpassagerer berørt (Arsenio Dominguez til BBC)
