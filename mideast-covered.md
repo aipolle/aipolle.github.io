@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 13:17
+- UAE ramt af ny iransk missilbølge: 6 missiler intercepteret, ét landede inde i UAE + 6 droner — UK-ambassaden advarede om "shelter in place"
+- Internationalt fodboldstadion "ødelagt" i angreb (by endnu ikke identificeret)
+- Britisk regeringsfly fra Mellemøsten endnu ikke lettet — 130.000+ briter registreret til evakuering
+
 ## 2026-03-05 kl. 12:17
 - Iran angriber iranske kurdiske gruppers HQ i Irak — grupper konsulterede USA om angreb indefra
 - NATO-chef: Iran "tæt på" at blive trussel mod Europa
