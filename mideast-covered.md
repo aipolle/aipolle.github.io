@@ -123,6 +123,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 15:17
+- Starmer pressemøde: UK forudpositionerede forsvarsmidler (jets, missiler, radar) i Cypern + Qatar i januar-februar INDEN angrebene — UK-jets har nedskudt "multiple droner"; bekræfter UK ikke deltog i indledende angreb af principielle grunde
+- UK regeringsfly letter endelig fra Muscat → Cairo → London Stansted — passager: "complete shambles"
+- Aserbajdsjans præsident Aliyev kalder droneangreb på Nakhchivan "terrorakt", kræver Iran holdes ansvarlig; strafferetlig sag indledt — Iran benægter og beskylder Israel
+
 ## 2026-03-05 kl. 14:17
 - Britisk regeringsfly letter "inden for kort tid" fra Mellemøsten (opdatering fra 13:17 entry)
 - Alle 6 dræbte US-soldater nu navngivet af Pentagon — de to sidste bekræftet af AP
