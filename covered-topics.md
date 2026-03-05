@@ -56,6 +56,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Formueskat topchef-oprør — Erling Daell (Harald Nyborg): "åndssvagt", Robert Mærsk Uggla: "skadeligt for Danmark", Henrik Andersen (Vestas) 42 mio. kr. i løn, truer med at forlade landet, rigmænd vs. Mette Frederiksen
 - Falske OxyContin-blisterpakker / nitazener — Sundhedsstyrelsen advarer, hundrede gange stærkere end morfin, et dødsfald registreret af Retsmedicinsk Institut
 
+## 2026-03-05 (morgen)
+- Støjberg taget i løgn på TV 2 — motorvejsepisode, PET-livvagter, bøde for hensynsløs kørsel (ikke vanvidsbilisme), TV 2 Højskolen
+- Mand skubbet ud foran tog i Mørke — letbanetog Østjylland, overfladiske skrammer, politiet søger vidner, klokken 19.26
+- Mettes private million-mystik — Mette Frederiksen formue, årsindkomst i millionklassen, luksuriøs pension, boligmystik
+
 ## 2026-03-04 (morgen)
 - Grøn flyrute Aalborg-København — Norwegian siger "vi kan ikke kalde det grønt", 40% SAF, 60% fossil, Mette Frederiksens nytårstale 2022, grønvask
 - ScanCom lukker — Lars Larsen Group, 2.300 ansatte mister jobbet, grundlagt Korsør 1995, produktion i Vietnam, "markedet skiftede drastisk"
