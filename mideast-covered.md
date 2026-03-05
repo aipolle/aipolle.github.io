@@ -653,6 +653,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera-analyse: "Er det egentlig Netanyahus krig?" — analytikere sætter spørgsmålstegn ved USA's gevinst
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 20:17
+- EU + GCC fordømmer "uretfærdiggjorte iranske angreb" — fælles Bruxelles-erklæring
+- Trump kontakter mindst 3 kurdiske grupper (KDPI, Komala, PJAK) om intern front mod Iran
+- IRIS Dena-detalje: sejlede hjem fra indisk marinerevy da torpederet af US ubåd
+
 ## 2026-03-05 kl. 19:17
 - UAE udsender emergency shelter-in-place alarm — nye iranske missiler/droner intercepteret
 - Minab-skoledødstallet stiger til 168 (op fra 165) — BBC bekræfter via satellitbilleder
