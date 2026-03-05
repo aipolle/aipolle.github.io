@@ -123,6 +123,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Minab-skoledødstallet stiger til 153 (op fra 148)
 - Danmark fortsat fuldstændig tavst — 23 dage til valg
 
+## 2026-03-05 kl. 14:17
+- Britisk regeringsfly letter "inden for kort tid" fra Mellemøsten (opdatering fra 13:17 entry)
+- Alle 6 dræbte US-soldater nu navngivet af Pentagon — de to sidste bekræftet af AP
+- Israelsk angreb dræber 8 i Libanon — Beiruts sydforstæder, Iran advarer mod at ramme iranske embedsmænd i Libanon
+- Civilt liv i Iran: køer ved brødudsalg, checkpoints, stigende forsyningsproblemer (BBC-reportage)
+
 ## 2026-03-05 kl. 13:17
 - UAE ramt af ny iransk missilbølge: 6 missiler intercepteret, ét landede inde i UAE + 6 droner — UK-ambassaden advarede om "shelter in place"
 - Internationalt fodboldstadion "ødelagt" i angreb (by endnu ikke identificeret)
