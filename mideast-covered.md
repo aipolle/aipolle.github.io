@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 01:17
+- Israel lukker al-Aqsa-moskéen for fredagsbøn — alle troende afvist, begrundet i konflikten
+- Trump fyrer indenrigssikkerhedsminister Kristi Noem, udpeger senator Markwayne Mullin som afløser
+- Dag 7 fortsætter: USA slår iranske mål "every single hour", War Powers udtømt i Kongressen
+
 ## 2026-03-06 kl. 00:17
 - Trump varsler kraftig optrapning: USA's ildkraft over Iran "will surge dramatically" — slår iranske mål "every single hour"
 - Sri Lanka evakuerer 200+ besætningsmedlemmer fra andet iransk krigsskib i Det Indiske Ocean (én dag efter IRIS Dena-sænkningen med 87 omkomne)
