@@ -60,6 +60,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Drama på bosted i Ørsted — 53-årig kvinde hældte benzin over ansat og forsøgte at sætte ild til vedkommende med lighter, grundlovsforhør Retten i Randers
 - "Græker"-sagen vokser — Nikolas Pornaris (34) styrer Casablanca-netværk fra Marokko, forkert mand dræbt i 2021, nye drab og drabsforsøg tilføjet sigtelserne
 
+## 2026-03-06 (middag)
+- Putin/russisk olie — USA lemper sanktioner 30 dage, Indien køber russisk olie strandet ved Hormuzstrædet, Scott Bessent, finansminister
+- Victoria's Secret toldregning — Trump-tariffer, 160 mio. dollars ekstra i 2026, aktie -12%, Hilliary Super topchef
+- Kong Frederik tredje ferie — privat weekendophold i udlandet, 52 feriedage i 2025, kronprins Christian regent i weekenden
+
 ## 2026-03-06 (morgen)
 - Mogens Jensen (S) teaterkonge — 42 fribilletter til Det Kongelige Teater (24.370 kr), 21 forestillinger, Finansudvalget, ledsager til alle forestillinger, klagede selv over fribilletter i 2017
 - CPR-sagen — 27-årig studentermedhjælper fra Rådhuset i København, CPR-oplysninger til bandebagmand, Unknown Team/Comanches, drabsforsøg og grov vold, Vielseskontoret
