@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 16:17
+- Trump kræver Irans "ubetingede overgivelse" — offentligt ultimatum fra USA
+- Første fredagsbøn i Iran siden krigsstart — iranere samles, sørger over Khamenei, skanderer mod USA/Israel
+- Teheran-beboere beskriver natten til fredag som "den hidtil værste nat" for israelske luftangreb
+
 ## 2026-03-06 kl. 15:17
 - Israel rammer lederbunker med 50 kampfly — ny rekordstor angrebsbølge (BBC live)
 - USA angriber iransk dronebærende skib til søs (AP) — separat fra IRIS Dena-sænkningen
