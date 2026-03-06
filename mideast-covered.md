@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 18:17
+- Israelske kampvogne og tropper samler sig ved Libanon-grænsen — BBC-reporter ved Metula ser tungt militærudstyr; fuld-skala landinvasion i Libanon tiltagende nær
+- Store røgsøjler over Beiruts sydforstæder — israelske luftangreb fortsætter (AP)
+- Europa og Australien deployerer militæraktiver til Mellemøsten — Frankrig, Spanien, Australien (Al Jazeera)
+
 ## 2026-03-06 kl. 17:17
 - Zelenskyy: Flere Patriot-interceptormissiler brugt på 3 dage i Iran-krigen end i Ukraine siden 2022 — bekymring for ukrainsk luftforsvar
 - IEA advarer mod stigende europæisk afhængighed af russisk energi — Iran-krigen sender efterspørgsel mod Moskva
