@@ -664,6 +664,16 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
 - Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
 
+## 2026-03-07 kl. 00:17
+- Iransk drone rammer oliefacilitet i Basra, Irak (Reuters/AFP)
+- US B-1 supersonisk bomber landet på RAF Fairford, UK — klar til angreb mod Iran
+- Starmer lover UK-forsvar af Saudi Arabia — destroyer + kampfly til regionen
+- Iran truer Europa med angreb: "legitime mål" hvis de slutter sig til USA/Israel
+- Iransk FN-ambassadør: 1.332 civile dræbt siden angrebenes start
+- Putin ringer Pezeshkian — aftaler fortsat tæt kommunikation
+- Macron fordømmer israelsk angreb på UNIFIL-site i Libanon — 2 ghanesiske FN-soldater kritisk såret
+- USA: forsvarsindustri aftaler "firedobling af produktion" af avancerede våben
+
 ## 2026-03-06 kl. 20:17
 - Rusland delte efterretninger med Iran om US-militærmål — AP-kilder; alvorligste direkte russiske involvering hidtil
 - Ny skole ramt i Teheran: Shahid Hamedani grundskole — Irans UM viser optagelser (Al Jazeera)
