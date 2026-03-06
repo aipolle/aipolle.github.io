@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 19:17
+- Israel rykker ind i Libanon — BBC bekræfter: tropper og kampvogne aktivt på vej over grænsen; fuld landinvasion tilsyneladende i gang
+- Masseflugt fra Sydlibanen og Beiruts sydforstæder — enorme trafikpropper, civile flygter (BBC)
+- Iransk stats-TV truer kvindelandsholdet i fodbold som "forrædere" for ikke at synge nationalsangen ved AFC Cup (Al Jazeera)
+
 ## 2026-03-06 kl. 18:17
 - Israelske kampvogne og tropper samler sig ved Libanon-grænsen — BBC-reporter ved Metula ser tungt militærudstyr; fuld-skala landinvasion i Libanon tiltagende nær
 - Store røgsøjler over Beiruts sydforstæder — israelske luftangreb fortsætter (AP)
