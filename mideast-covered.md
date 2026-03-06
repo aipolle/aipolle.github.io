@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 09:17
+- Teheranere beskriver "den hidtil værste nat" for israelske luftangreb — markant eskalering natten til fredag (BBC live)
+- Iran affyrer missiler mod Tel Aviv — angreb specifikt mod Israels største by
+- Saudi Arabia intercepterer fortsat iranske droner fredag morgen
+
 ## 2026-03-06 kl. 06:17
 - Israel rammer Beirut bredt efter "hidtidig uset" evakueringsordre — panik, store trafikpropper ud af Beirut
 - Trump: USA slår iranske mål "every single hour", ildkraft "about to surge dramatically"
