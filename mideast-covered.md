@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 14:17
+- Teheran "ghost town smelling of gunpowder" — civilt liv i efterdønningerne (BBC-feature)
+- USA's krigsomkostninger: $3,7 mia. i første 100 timer — ikke budgetteret, Pentagon ventes at anmode om ekstra bevillinger (Al Jazeera/tænketank)
+- BRICS splittet: Indien holder lav profil som formand; Rusland/Kina mod angrebene; ny geopolitisk analyse (Al Jazeera)
+
 ## 2026-03-06 kl. 13:17
 - USA bruger PrSM-missiler for første gang i Iran (CENTCOM bekræftet)
 - Aserbajdsjan sætter væbnede styrker i høj beredskab efter iranske droneangreb
