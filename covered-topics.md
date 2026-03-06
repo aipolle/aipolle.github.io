@@ -60,6 +60,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Drama på bosted i Ørsted — 53-årig kvinde hældte benzin over ansat og forsøgte at sætte ild til vedkommende med lighter, grundlovsforhør Retten i Randers
 - "Græker"-sagen vokser — Nikolas Pornaris (34) styrer Casablanca-netværk fra Marokko, forkert mand dræbt i 2021, nye drab og drabsforsøg tilføjet sigtelserne
 
+## 2026-03-06 (morgen)
+- Mogens Jensen (S) teaterkonge — 42 fribilletter til Det Kongelige Teater (24.370 kr), 21 forestillinger, Finansudvalget, ledsager til alle forestillinger, klagede selv over fribilletter i 2017
+- CPR-sagen — 27-årig studentermedhjælper fra Rådhuset i København, CPR-oplysninger til bandebagmand, Unknown Team/Comanches, drabsforsøg og grov vold, Vielseskontoret
+- Elpris gratis marts 2026 — OK energiselskab, sol og vind, gratis strøm midt på dagen, 21 uger siden sidst, "omlæg dine vaner"
+
 ## 2026-03-05 (morgen)
 - Støjberg taget i løgn på TV 2 — motorvejsepisode, PET-livvagter, bøde for hensynsløs kørsel (ikke vanvidsbilisme), TV 2 Højskolen
 - Mand skubbet ud foran tog i Mørke — letbanetog Østjylland, overfladiske skrammer, politiet søger vidner, klokken 19.26
