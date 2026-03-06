@@ -658,6 +658,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 12:17
+- Dag 7: Teheran ramt af hidtil mest intense bombardering — BBC/Al Jazeera bekræfter kraftig eskalering
+- Iran siger de rammer US-faciliteter i Kuwait, varsler angreb "inden for timer"
+- FN's menneskerettighedschef kræver undersøgelse af Minab-skole (168 dræbt)
+- Iran advarer: angreb i nordvest sigter mod at skabe vakuum for kurdiske oprørere
+- Iranske kurdiske eksilgrupper i Irak: "planer om at krydse grænsen" ind i Iran — ny potentiel front
+
 ## 2026-03-06 kl. 11:17
 - Aserbajdsjan trækker alle diplomater hjem fra Iran — diplomatisk brud
 - Iran rammer israelsk ambassade i Bahrain og Al Udeid Air Base i Qatar
