@@ -658,6 +658,17 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 03:17
+- USA evakuerer ambassaden i Kuwait — klassificeret materiale destrueres, sker natten til fredag
+- Iran angriber hotel + 2 beboelsesejendomme i Manama, Bahrain — materielle skader, ingen dræbte
+- Hegseth: "Firepower over Iran to surge dramatically" — ny markant optrapning annonceret
+- CENTCOM: 200 mål i 72h, 30+ iranske skibe sænket i alt
+- Trump: Iran beder om forhandlinger — "We want to fight now more than they do"
+- Trump vil personligt involveres i valget af Irans næste øverste leder (Axios-interview)
+- Ny bølge IDF-luftangreb mod Hizbollah-infrastruktur i Beiruts sydforstæder
+- Det Hvide Hus møde fredag med Lockheed, Raytheon m.fl. om acceleration af våbenproduktion
+- UK's første statsfly landet i London Stansted (fra Muscat, Oman)
+
 ## 2026-03-06 kl. 01:17
 - Israel lukker al-Aqsa-moskéen for fredagsbøn — alle troende afvist, begrundet i konflikten
 - Trump fyrer indenrigssikkerhedsminister Kristi Noem, udpeger senator Markwayne Mullin som afløser
