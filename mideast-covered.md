@@ -658,6 +658,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 17:17
+- Zelenskyy: Flere Patriot-interceptormissiler brugt på 3 dage i Iran-krigen end i Ukraine siden 2022 — bekymring for ukrainsk luftforsvar
+- IEA advarer mod stigende europæisk afhængighed af russisk energi — Iran-krigen sender efterspørgsel mod Moskva
+- Analyser: USA's våbendepoter (Patriot-interceptorer) under pres ved fortsat konflikt (BBC, Jonathan Beale)
+
 ## 2026-03-06 kl. 16:17
 - Trump kræver Irans "ubetingede overgivelse" — offentligt ultimatum fra USA
 - Første fredagsbøn i Iran siden krigsstart — iranere samles, sørger over Khamenei, skanderer mod USA/Israel
