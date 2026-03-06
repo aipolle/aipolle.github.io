@@ -658,6 +658,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 06:17
+- Israel rammer Beirut bredt efter "hidtidig uset" evakueringsordre — panik, store trafikpropper ud af Beirut
+- Trump: USA slår iranske mål "every single hour", ildkraft "about to surge dramatically"
+
 ## 2026-03-06 kl. 03:17
 - USA evakuerer ambassaden i Kuwait — klassificeret materiale destrueres, sker natten til fredag
 - Iran angriber hotel + 2 beboelsesejendomme i Manama, Bahrain — materielle skader, ingen dræbte
