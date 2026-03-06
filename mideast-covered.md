@@ -658,6 +658,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 22:17
+- Qatar energiminister advarer: Gulf-energieksport kan stoppes "inden for uger" (Al Jazeera)
+- Israel bruger "Gaza playbook" i Libanon — Medical Aid for Palestinians-rapport (Al Jazeera)
+- USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
+- Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
+
 ## 2026-03-06 kl. 20:17
 - Rusland delte efterretninger med Iran om US-militærmål — AP-kilder; alvorligste direkte russiske involvering hidtil
 - Ny skole ramt i Teheran: Shahid Hamedani grundskole — Irans UM viser optagelser (Al Jazeera)
