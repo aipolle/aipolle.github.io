@@ -658,6 +658,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 11:17
+- Aserbajdsjan trækker alle diplomater hjem fra Iran — diplomatisk brud
+- Iran rammer israelsk ambassade i Bahrain og Al Udeid Air Base i Qatar
+- Qatars energiminister advarer om global økonomisammenbrud
+- Bahrain: 78 missiler + 143 droner ødelagt i alt
+- Massive eksplosioner i boligkvarterer og nær Teheran Universitet natten til fredag
+
 ## 2026-03-06 kl. 10:17
 - Iran meddeler gradvis genoptagelse af administrative aktiviteter — første tegn på normalisering trods igangværende angreb
 - Militærakademi ramt af US/israelske angreb i Teheran (nyt mål natten til fredag)
