@@ -658,6 +658,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Demokrater: USA stod ikke over for "overhængende trussel" der retfærdiggør enesidede præsident-angreb
 - Trump har frit parlamentarisk løb — ingen lovgivningsmæssige forhindringer for Operation Epic Fury
 
+## 2026-03-06 kl. 10:17
+- Iran meddeler gradvis genoptagelse af administrative aktiviteter — første tegn på normalisering trods igangværende angreb
+- Militærakademi ramt af US/israelske angreb i Teheran (nyt mål natten til fredag)
+- Fire mistænkte iranske spioner anholdt i UK (Counter Terrorism Police)
+- Vrede på Cypern over brug af britiske baser (RAF Akrotiri) i angrebene
+- Trump karakteriserer Iran som "being demolished"
+
 ## 2026-03-06 kl. 09:17
 - Teheranere beskriver "den hidtil værste nat" for israelske luftangreb — markant eskalering natten til fredag (BBC live)
 - Iran affyrer missiler mod Tel Aviv — angreb specifikt mod Israels største by
