@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-07 kl. 19:17
+- Dag 8 / uge to: angreb fortsætter trods Pezeshkians undskyldning — BBC live fremhæver modsætning som signal om internt pres i Iran
+- Global økonomianalyse: Iran-krigen truer verdensøkonomien — energipriser, inflation, Hormuz (Al Jazeera)
+- Pakistan-balancen skærpes — fanget mellem Saudi Arabia og Iran, prøver at forblive neutralt
+- Houthierne holder sig fortsat udenfor — frygt for israelske gengældelsesstrik (Al Jazeera)
+
 ## 2026-03-07 kl. 17:17
 - Mindst 41 dræbt i israelsk luftangreb mod Bekaa-dalen i Libanon — tre libanesiske soldater; Hizbollah melder om regulære kampe med israelske landtropper i Libanon
 - HMS Prince of Wales sat i forhøjet beredskab — britisk hangarskib potentiel ny eskalering
