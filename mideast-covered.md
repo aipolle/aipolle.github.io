@@ -664,6 +664,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
 - Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
 
+## 2026-03-07 kl. 05:17
+- CENTCOM: 3.000 iranske mål ramt i første uge — ny milepæl-opgørelse
+- AP bekræfter: Rusland gav Iran intel om US-krigsskibe og aktiver — Hvid Hus downplayer, Peskov afviser
+- Trump ankommer til Miami: Shield of the Americas-topmøde + dignified transfer i Dover for 6 dræbte soldater
+
 ## 2026-03-07 kl. 04:17
 - Teherans Mehrabad Airport ramt — store eksplosioner og brændende fly, Israels hidtil mest intense angreb på lufthavnen
 - Iran affyrer ny missilbølge mod Israel — Israels militær udsender varsel, defensivsystemer aktiveret
