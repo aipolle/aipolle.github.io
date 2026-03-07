@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-07 kl. 21:17
+- Netanyahu lover "mange overraskelser" — ny angrebsbølge over Teheran natten til søndag (AP)
+- Irans UM: Trump "dræbte" forhandlingsmulighed med angrebene — BBC live (BBC)
+- Israelsk specialstyrke-raid i libanesisk landsby: søger efter 40 år gamle levn (Ron Arad?), mindst 41 dræbt, 40 sårede (BBC)
+
 ## 2026-03-07 kl. 20:17
 - UK charterfly fra Dubai planlagt tidligt næste uge for britiske statsborgere (ny by — hidtil kun Muscat/Oman)
 - Iransk kurdisk leder Hosseini bekræfter til Al Jazeera: indmarch i Iran "stærk sandsynlighed" — IRGC angriber oprørsmål
