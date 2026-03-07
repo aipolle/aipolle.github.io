@@ -664,6 +664,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
 - Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
 
+## 2026-03-07 kl. 02:17
+- Saudi Arabia intercepterer 6 droner mod Shaybah-oliefelt (1M tønder/dag) + ballistisk missil mod Prince Sultan Air Base
+- Airwars krigs-monitor: US/Israel-kampagne i "rekordtempo" — flere mål end nogen kampagne i årtier (overstiger Irak 2003)
+- Hegseth: Trump "fuldt bevidst om hvem der taler med hvem" re: russisk efterretningshjælp til Iran
+- UNIFIL-sårede opdateret til 3 ghanesiske soldater (fra 2)
+
 ## 2026-03-07 kl. 01:17
 - Iran parlamentsformand Ghalibaf afviser Trumps rolle i valg af ny øverste leder — kalder Trumps kreds "Epsteins bande"
 - BBC Lyse Doucet-analyse: Trump vil vælge Irans næste leder — eksperter tvivler på realistisk gennemførlighed
