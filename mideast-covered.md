@@ -830,6 +830,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 11:17
+- Ny drone nær Dubai Lufthavn — angreb lørdag formiddag, fly i holdingmønster
+- Pezeshkian: "Fjender må tage overgivelsesønsker med i graven" — skærper tonen trods morgenens nabostatundskyldning
+- AP-undersøgelse: Minab-skoleangreb (168 dræbt) "sandsynligvis et US-luftanslag" — CENTCOM uden kommentar
+- Sri Lanka overtager IRIS Bushehr — andet iransk krigsskib (dagen efter IRIS Dena sank med 87)
+- Houthier holder sig ude — Al Jazeera-analyse forklarer hvorfor Yemen ikke deltager
+
 ## 2026-03-07 kl. 10:17
 - Røde Halvmåne: 6.668 civile enheder ramt af US-israelske angreb siden start
 - Bahrain: 86 missiler + 148 droner intercepteret (opdateret total)
