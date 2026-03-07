@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-07 kl. 22:17
+- Iran advarer mod "femte kolonne" — Efterretningsministeriet fornyer krav om anmeldelse af mistænkelig aktivitet (Al Jazeera)
+- Pentagon-CTO sammenstød med Anthropic om autonome kampsystemer/AI i krigen (AP)
+- Dag 8 fortsætter — ny angrebsbølge over Teheran natten til søndag
+
 ## 2026-03-07 kl. 21:17
 - Netanyahu lover "mange overraskelser" — ny angrebsbølge over Teheran natten til søndag (AP)
 - Irans UM: Trump "dræbte" forhandlingsmulighed med angrebene — BBC live (BBC)
