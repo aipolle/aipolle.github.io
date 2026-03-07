@@ -830,6 +830,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 08:17
+- IDF bekræfter afsluttet angrebsbølge: 80+ F-jets, Imam Hossein militæruniversitet + ballistisk missilanlæg ramt
+- USA godkender nødsalg: $150 mio. i våben til Israel, 12.000+ bomber (State Department)
+- Dubai luftforsvar aktivt lørdag morgen — nye missilinterceptioner, fly i holdingmønster
+- Første Qatar Airways fly lettet fra Doha siden krigsstart (til London)
+
 ## 2026-03-07 kl. 07:17
 - Qatar delvist genåbner luftrum (fredag aften) — kun evakuerings- og fragtfly via nødruter; planlagte kommercielle afgange stadig suspenderet; 2.000+ fly aflyst siden 28. februar
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
