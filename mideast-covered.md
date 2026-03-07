@@ -830,6 +830,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 13:17
+- UAE ramt af 16 ballistiske missiler + 121 droner — hidtil højeste tal i én bølge
+- Hizbollah opfordrer israelske bybeboere til at evakuere — reciprokt eskaleringstrin
+- Israel beordrer evakuering af Tyrus by, Libanon
+- Trump truer med "meget hårde" slag; Iran: "vil aldrig overgive sig"
+- Hundredvis af strandede tyske krydstogtpassagerer ankommer til Frankfurt
+
 ## 2026-03-07 kl. 12:17
 - IRGC annoncerer 25. angrebsbølge med missiler og droner; eksplosioner i Teheran
 - IRGC: nabolandes suverænitet respekteres, men alle US/israelske baser er mål
