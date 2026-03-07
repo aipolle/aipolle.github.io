@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-07 kl. 23:17
+- Trump anklager Starmer for at forsøge at "deltage i krige efter vi allerede har vundet dem" — siger UK's hangarskibe "ikke nødvendige"
+- Dubai-beboer dræbt af shrapnel fra nedskudte iranske projektiler (ny hændelse, adskilt fra Abu Dhabi-dødsfald)
+- Angreb fortsætter mod Golfstater — ingen ny stor eskalering
+
 ## 2026-03-07 kl. 22:17
 - Iran advarer mod "femte kolonne" — Efterretningsministeriet fornyer krav om anmeldelse af mistænkelig aktivitet (Al Jazeera)
 - Pentagon-CTO sammenstød med Anthropic om autonome kampsystemer/AI i krigen (AP)
