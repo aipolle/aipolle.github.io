@@ -65,6 +65,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Victoria's Secret toldregning — Trump-tariffer, 160 mio. dollars ekstra i 2026, aktie -12%, Hilliary Super topchef
 - Kong Frederik tredje ferie — privat weekendophold i udlandet, 52 feriedage i 2025, kronprins Christian regent i weekenden
 
+## 2026-03-07 (middag)
+- Inger Støjberg boligskat dobbeltmoral — "ro om boligskatten", 4,3 mio. kr. gevinst på Christianshavn-lejlighed, 1,2 mio. kr. boliggodtgørelse, Lars Løkke boligbeskatning
+- Thomas Runge strandet i Thailand — Khao Lak, Codan forsikring dækker kun 1.000 kr./9 dage, førtidspensionist, sover i lufthavn fra mandag
+- Dao/København særaftale — kommunens arbejdsklausul ophævet, ingen kontrol med underleverandører, Line Barfod (Ø) kritiserer manglende politisk behandling
+
 ## 2026-03-07 (morgen)
 - Udenrigsministeriets hjemmeside um.dk nede — natten til lørdag, nedbrud i flere timer, "arbejder på sagen"
 - Folketingskandidater svine-brøler — Emil Nielsen (SF) og Anders Vistisen (DF) deler falsk Netto-seddel om svineproduktion, Salling Group afviser kendskab
