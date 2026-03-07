@@ -830,6 +830,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 15:17
+- Erdoğan ringer Starmer — kræver diplomatisk dialog om Iran
+- UKMTO: maritim hændelse nord for Jubail, Saudi Arabia
+- Libanon fordømmer angreb på UNIFIL-fredsbevarende styrker
+- Iran slammer angreb på fodbolstadion — FIFA "Peace Prize"-ironi fremhævet
+
 ## 2026-03-07 kl. 14:17
 - UAE intercepterer 15 nye ballistiske missiler lørdag (fortsat angrebsbølge)
 - Pezeshkian undskylder officielt til Golfstater for iranske missilangreb
