@@ -836,6 +836,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UK lovgiver anklager regeringen for involvering i angreb mod Iran
 - 28.000 amerikanske borgere sikkert hjemvendt fra Mellemøsten
 
+## 2026-03-07 kl. 18:17
+- Trump: vil ramme Iran endnu hårdere — svar på Pezeshkians undskyldning til nabolande (AP)
+- BBC-analyse: Pezeshkians undskyldning kan antyde politisk repositionering og splittelse i Iran
+- Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
+- Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
+
 ## 2026-03-07 kl. 17:17
 - Mindst 41 dræbt i israelsk luftangreb mod Bekaa-dalen i Libanon — tre libanesiske soldater; Hizbollah melder om regulære kampe med israelske landtropper i Libanon
 - HMS Prince of Wales sat i forhøjet beredskab — britisk hangarskib potentiel ny eskalering
