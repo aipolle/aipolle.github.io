@@ -830,6 +830,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 09:17
+- Pezeshkian undskylder til nabolande — Iran erklærer: vil ikke angribe nabolande medmindre angreb udgår derfra
+- Iran angriber Malta-flagget tankskib nær Hormuzstrædet
+- Israelske angreb på Nabi Chit, Libanon: 16 dræbt
+- Iransk kurdisk gruppe: "stærk sandsynlighed" for indmarch i Iran fra Irak
+- USA: 92.000 job tabt i februar, arbejdsløshed 4,4%; olie på højeste siden 2023
+- Qatar: forhøjet sikkerhedstrusselsniveau
+
 ## 2026-03-07 kl. 08:17
 - IDF bekræfter afsluttet angrebsbølge: 80+ F-jets, Imam Hossein militæruniversitet + ballistisk missilanlæg ramt
 - USA godkender nødsalg: $150 mio. i våben til Israel, 12.000+ bomber (State Department)
