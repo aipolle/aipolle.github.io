@@ -830,6 +830,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 16:17
+- Iran advarer: ethvert US-skib der enters Golfen går "to the bottom of the sea"
+- USA angriber iransk desalinationsanlæg (civil vandinfrastruktur)
+- UK lovgiver anklager regeringen for involvering i angreb mod Iran
+- 28.000 amerikanske borgere sikkert hjemvendt fra Mellemøsten
+
 ## 2026-03-07 kl. 15:17
 - Erdoğan ringer Starmer — kræver diplomatisk dialog om Iran
 - UKMTO: maritim hændelse nord for Jubail, Saudi Arabia
