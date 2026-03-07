@@ -664,6 +664,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
 - Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
 
+## 2026-03-07 kl. 06:17
+- FN-eksperter kræver uafhængig undersøgelse af Minab-skoleangreb (168 dræbt) — "intet kan retfærdiggøre drab på piger i et klasseværelse"
+- BBC-økonomianalytiker advarer om inflationsbølge: Hormuz-lukning + LNG-stop sender energipriser op globalt
+- Dag 8 starter — ingen større ny eskalation siden 05:17
+
 ## 2026-03-07 kl. 05:17
 - CENTCOM: 3.000 iranske mål ramt i første uge — ny milepæl-opgørelse
 - AP bekræfter: Rusland gav Iran intel om US-krigsskibe og aktiver — Hvid Hus downplayer, Peskov afviser
