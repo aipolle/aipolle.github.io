@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-07 kl. 20:17
+- UK charterfly fra Dubai planlagt tidligt næste uge for britiske statsborgere (ny by — hidtil kun Muscat/Oman)
+- Iransk kurdisk leder Hosseini bekræfter til Al Jazeera: indmarch i Iran "stærk sandsynlighed" — IRGC angriber oprørsmål
+- Dag 8 fortsat — ingen ny stor eskalering siden 19:17
+
 ## 2026-03-07 kl. 19:17
 - Dag 8 / uge to: angreb fortsætter trods Pezeshkians undskyldning — BBC live fremhæver modsætning som signal om internt pres i Iran
 - Global økonomianalyse: Iran-krigen truer verdensøkonomien — energipriser, inflation, Hormuz (Al Jazeera)
