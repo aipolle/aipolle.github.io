@@ -836,6 +836,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UK lovgiver anklager regeringen for involvering i angreb mod Iran
 - 28.000 amerikanske borgere sikkert hjemvendt fra Mellemøsten
 
+## 2026-03-07 kl. 17:17
+- Mindst 41 dræbt i israelsk luftangreb mod Bekaa-dalen i Libanon — tre libanesiske soldater; Hizbollah melder om regulære kampe med israelske landtropper i Libanon
+- HMS Prince of Wales sat i forhøjet beredskab — britisk hangarskib potentiel ny eskalering
+- Tyskland annoncerer ~$100 mio. i regional hjælp
+- Iran: US-forsvarssystemer kan have omdirigeret iranske missiler fra militære mål (ny iransk narrativ)
+- Irans ambassadør i UK: Iran fortsætter med at forsvare sig
+- Qatar: sikkerhedstrussel "elimineret"; Qatars PM mødes med Egyptens UM
+
 ## 2026-03-07 kl. 15:17
 - Erdoğan ringer Starmer — kræver diplomatisk dialog om Iran
 - UKMTO: maritim hændelse nord for Jubail, Saudi Arabia
