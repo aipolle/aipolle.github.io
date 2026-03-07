@@ -664,6 +664,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
 - Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
 
+## 2026-03-07 kl. 01:17
+- Iran parlamentsformand Ghalibaf afviser Trumps rolle i valg af ny øverste leder — kalder Trumps kreds "Epsteins bande"
+- BBC Lyse Doucet-analyse: Trump vil vælge Irans næste leder — eksperter tvivler på realistisk gennemførlighed
+- Teheran beboere: angreb "hvert par timer" — nat til lørdag fortsat med eksplosioner
+
 ## 2026-03-07 kl. 00:17
 - Iransk drone rammer oliefacilitet i Basra, Irak (Reuters/AFP)
 - US B-1 supersonisk bomber landet på RAF Fairford, UK — klar til angreb mod Iran
