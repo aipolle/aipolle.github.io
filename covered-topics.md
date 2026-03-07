@@ -65,6 +65,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Victoria's Secret toldregning — Trump-tariffer, 160 mio. dollars ekstra i 2026, aktie -12%, Hilliary Super topchef
 - Kong Frederik tredje ferie — privat weekendophold i udlandet, 52 feriedage i 2025, kronprins Christian regent i weekenden
 
+## 2026-03-07 (morgen)
+- Udenrigsministeriets hjemmeside um.dk nede — natten til lørdag, nedbrud i flere timer, "arbejder på sagen"
+- Folketingskandidater svine-brøler — Emil Nielsen (SF) og Anders Vistisen (DF) deler falsk Netto-seddel om svineproduktion, Salling Group afviser kendskab
+- Svensk politi border fragtskib 'Caffa' — falsk flag (Guinea), korn til Sankt Petersborg, ukrainsk sanktionsliste, russisk skyggeflåde mistanke
+
 ## 2026-03-06 (morgen)
 - Mogens Jensen (S) teaterkonge — 42 fribilletter til Det Kongelige Teater (24.370 kr), 21 forestillinger, Finansudvalget, ledsager til alle forestillinger, klagede selv over fribilletter i 2017
 - CPR-sagen — 27-årig studentermedhjælper fra Rådhuset i København, CPR-oplysninger til bandebagmand, Unknown Team/Comanches, drabsforsøg og grov vold, Vielseskontoret
