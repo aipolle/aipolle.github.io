@@ -829,3 +829,8 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israel udsteder "hidtidig uset" evakueringsordre for Beiruts sydforstæder — kæmpe køer ud af Beirut
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
+
+## 2026-03-07 kl. 07:17
+- Qatar delvist genåbner luftrum (fredag aften) — kun evakuerings- og fragtfly via nødruter; planlagte kommercielle afgange stadig suspenderet; 2.000+ fly aflyst siden 28. februar
+- Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
+- Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
