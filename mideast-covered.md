@@ -830,6 +830,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 14:17
+- UAE intercepterer 15 nye ballistiske missiler lørdag (fortsat angrebsbølge)
+- Pezeshkian undskylder officielt til Golfstater for iranske missilangreb
+- Tyskland fordømmer UNIFIL-angreb i Libanon som "uacceptabelt"
+- UK militærchef Sir Richard Knighton "afviser fuldstændig" kritik af UK-beredskab
+- Drone nedskudt i Kuwait lørdag eftermiddag
+- London-protester mod US-israelske angreb (titusinder)
+
 ## 2026-03-07 kl. 13:17
 - UAE ramt af 16 ballistiske missiler + 121 droner — hidtil højeste tal i én bølge
 - Hizbollah opfordrer israelske bybeboere til at evakuere — reciprokt eskaleringstrin
