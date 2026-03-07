@@ -664,6 +664,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - USA bruger Anthropic Claude AI til kampbeslutninger i Iran (Al Jazeera)
 - Israel lancerer ny angrebsbølge og ødelægger militær kommando-bunker (BBC live)
 
+## 2026-03-07 kl. 04:17
+- Teherans Mehrabad Airport ramt — store eksplosioner og brændende fly, Israels hidtil mest intense angreb på lufthavnen
+- Iran affyrer ny missilbølge mod Israel — Israels militær udsender varsel, defensivsystemer aktiveret
+- AP-kilder: Golfstater klagede over manglende varsel forud for US-angrebene på Iran
+
 ## 2026-03-07 kl. 02:17
 - Saudi Arabia intercepterer 6 droner mod Shaybah-oliefelt (1M tønder/dag) + ballistisk missil mod Prince Sultan Air Base
 - Airwars krigs-monitor: US/Israel-kampagne i "rekordtempo" — flere mål end nogen kampagne i årtier (overstiger Irak 2003)
