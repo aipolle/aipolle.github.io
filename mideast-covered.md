@@ -830,6 +830,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb dræber 10 i Libanon (op fra 8)
 - Iranske droner angriber US-base i Irak — dag 6 angreb fortsætter
 
+## 2026-03-07 kl. 12:17
+- IRGC annoncerer 25. angrebsbølge med missiler og droner; eksplosioner i Teheran
+- IRGC: nabolandes suverænitet respekteres, men alle US/israelske baser er mål
+- Israel ledte forgæves efter savnede Ron Arad som del af Libanon-operationen
+- BBC bekræfter drone nedskudt nær Dubai Lufthavn (video verificeret)
+
 ## 2026-03-07 kl. 11:17
 - Ny drone nær Dubai Lufthavn — angreb lørdag formiddag, fly i holdingmønster
 - Pezeshkian: "Fjender må tage overgivelsesønsker med i graven" — skærper tonen trods morgenens nabostatundskyldning
