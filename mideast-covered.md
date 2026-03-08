@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 14:17
+- Irans Ekspertforsamling melder konsensus om ny øverste leder — men procedurehindringer; Mojtaba Khamenei frontrunner; IDF truer deltagere
+- Første israelske soldat dræbt i Sydlibanon — bekræftet af israelsk hær
+- UAE under ny iransk missil- og droneangreb dag 9
+- Tre israelere såret af shrapnel i seneste bølge
+
 ## 2026-03-08 kl. 13:17
 - Norge: eksplosion ved US-ambassaden i Oslo — mulig terrorhensigt, nyt vesteuropæisk land potentielt berørt
 - Iran affyrer ny missilbølge mod Israel — bekræftet af IDF kl. ~13:00
