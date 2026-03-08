@@ -842,6 +842,16 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 09:17
+- IDF truer Ekspertforsamlingens ledervalg i Qom: "vi vil ikke tøve med at ramme jer"
+- Teherans himmel sort af Shahran oliedepotbrand — 4 lastbilchauffører dræbt, brand på Koohsar Boulevard
+- Kuwait City regerings Social Security-bygning bekræftet ramt af drone
+- Bahrain: desalinationsanlæg ramt af drone + 3 sårede ved universitetsbygning (missilfragmenter)
+- US ambassade i Bagdad angrebet (Iran-allierede militsgrupper)
+- IDF: nye evakueringsordrer for sydlibanesiske landsbyer (Arnoun, Yahmar, Zoutar)
+- FN's humanitære chef: "moment of grave peril" — hundredtusinder fordrevet
+- Starmer anklager Badenoch for "politiske spil" i Sunday Mirror
+
 ## 2026-03-08 kl. 07:17
 - Irans chefretsmyndighed modsiger Pezeshkians undskyldning til Golfstater — advarer om "tunge angreb" mod områder "til fjendens disposition" (intern iransk splittelse)
 - UAE's præsident erklærer officielt UAE "parat til at konfrontere trusler" — skærper Golfstaternes militære retorik
