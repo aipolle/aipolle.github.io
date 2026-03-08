@@ -70,6 +70,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Thomas Runge strandet i Thailand — Khao Lak, Codan forsikring dækker kun 1.000 kr./9 dage, førtidspensionist, sover i lufthavn fra mandag
 - Dao/København særaftale — kommunens arbejdsklausul ophævet, ingen kontrol med underleverandører, Line Barfod (Ø) kritiserer manglende politisk behandling
 
+## 2026-03-08 (middag)
+- Jesper Christensen "Ned med monarkiet" — æres-Bodil, kongehuset, 77-årig skuespiller, ribbede takkespeech
+- Far slog treårig søn i City2 Taastrup — grov vold, grundlovsforhør Retten i Glostrup, borgeranmeldelse
+- Kvindernes Internationale Kampdag / kvindelige iværksættere — 37% andel, 2018-2025 stille udvikling, Dinero-analyse, Dansk Erhverv
+
 ## 2026-03-08 (morgen)
 - René Redzepi / Noma — 35 tidligere ansatte beskylder for fysiske overgreb, slag, skub, psykisk terror, New York Times/Politiken, Instagram-undskyldning
 - Eksplosion ved USA's ambassade i Oslo — sprængstof ved indgangsparti natten til søndag, norsk politi efterforsker, kontekst: USA/Israel krig mod Iran
