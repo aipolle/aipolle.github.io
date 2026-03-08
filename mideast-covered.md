@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 12:17
+- UK's UM Yvette Cooper: UK "er ikke enig med Trump om ethvert spørgsmål" — skarpeste britiske svar på Trumps kritik
+- Trump: USA behøver ikke UKs hangarskibe, kalder krigen "already won"
+- IRGC hævder nye angreb mod israelske byer + luftbase i Jordan
+- AP: USA og Demokraterne i strid om risiko for US-våbendepoter
+
 ## 2026-03-08 kl. 11:17
 - Kuwaitisk regeringshøjhus ramt af iransk drone — flammer, bekræftet video (BBC live)
 - "Konsensus" om Irans øverste leder nær — Mojtaba Khamenei frontrunner, procedurehindringer mangler (Al Jazeera)
