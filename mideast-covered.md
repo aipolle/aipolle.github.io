@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 10:17
+- Irans Ekspertforsamling tæt på Khamenei-efterfølger — Mirbagheri: flertalsbeslutning nået, procedurehindringer; IDF gentager trussel mod alle deltagere
+- Ramada Hotel Beirut ramt — 4 dræbt, Israel: iranske kommandanter mål
+- Trump afviser Iran-fangstpåstande — Irans sikkerhedsråd: USA kamuflerer fanger som kampofre
+- Qatar Airways repatrieringsfly søndag fra Doha til europæiske byer — begrænset korridor åbnet
+
 ## 2026-03-08 kl. 09:17
 - IDF truer Ekspertforsamlingens ledervalg i Qom: "vi vil ikke tøve med at ramme jer"
 - Teherans himmel sort af Shahran oliedepotbrand — 4 lastbilchauffører dræbt, brand på Koohsar Boulevard
