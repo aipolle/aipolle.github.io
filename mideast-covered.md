@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 02:17
+- Trump afviser kurdisk deltagelse i Iran-krigen (AP live) — modsætning til march 5-rapporter om kontakt med KDPI/Komala/PJAK
+- Israelske angreb fortsætter natten til søndag — Netanyahu fastholder "mange overraskelser"
+- Dag 9 begynder, ingen de-eskalering, Hormuz fortsat lukket
+
 ## 2026-03-07 kl. 23:17
 - Trump anklager Starmer for at forsøge at "deltage i krige efter vi allerede har vundet dem" — siger UK's hangarskibe "ikke nødvendige"
 - Dubai-beboer dræbt af shrapnel fra nedskudte iranske projektiler (ny hændelse, adskilt fra Abu Dhabi-dødsfald)
