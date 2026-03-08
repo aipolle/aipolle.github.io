@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 19:17
+- IDF annoncerer "næste fase": 3.400 angreb + 7.500 missiler/bomber i første uge — nu udvider til "regimets nøgleproduktionssteder"
+- To israelske soldater dræbt i Sydlibanon (op fra én)
+- 517.000 fordrevne i Libanon (socialminister) — 117.228 i officielle nødcentre
+- Irans UM: ny øverste leder vælges "snart" af Ekspertforsamlingen — ingen navn nævnt endnu
+- Iransk kvindelandshold i Australien tvunget til at synge nationalsangen og salutere ved AFC Cup — eksiliranskere forsøger at stoppe holdet
+
 ## 2026-03-08 kl. 18:17
 - Isaac Herzog: "Mind boggles" ved tvivl om lovlighed — Israel handler i "selvforsvar" for Israel, regionen og Europa
 - Saudi Arabia melder 2 dræbte i iranske angreb — angrebsmål udvider sig til civil infrastruktur
