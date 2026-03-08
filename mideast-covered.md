@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 07:17
+- Irans chefretsmyndighed modsiger Pezeshkians undskyldning til Golfstater — advarer om "tunge angreb" mod områder "til fjendens disposition" (intern iransk splittelse)
+- UAE's præsident erklærer officielt UAE "parat til at konfrontere trusler" — skærper Golfstaternes militære retorik
+- Trump deltager i dignified transfer-ceremoni for de 6 dræbte US-soldater ved Dover Air Force Base
+
 ## 2026-03-08 kl. 06:17
 - Kuwait City-tårn i brand — BBCs live-topoverskrift, årsag ubekræftet, kontekst: iranske droneangreb mod Kuwait
 - Teheran olieraffinaderi-brand fortsat i fokus (dag 9)
