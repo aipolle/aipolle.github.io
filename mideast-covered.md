@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 06:17
+- Kuwait City-tårn i brand — BBCs live-topoverskrift, årsag ubekræftet, kontekst: iranske droneangreb mod Kuwait
+- Teheran olieraffinaderi-brand fortsat i fokus (dag 9)
+- Trump anklager Starmer for at søge at "deltage i krige efter vi allerede har vundet dem"
+
 ## 2026-03-08 kl. 03:17
 - Israelske angreb sætter olieraffinaderier i Teheran i brand — enorme flammer og røgsøjler over byen (BBC, verificeret)
 - Nyt type mål: olieinfrastruktur i selve Teheran
