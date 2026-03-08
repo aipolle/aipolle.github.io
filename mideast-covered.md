@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 11:17
+- Kuwaitisk regeringshøjhus ramt af iransk drone — flammer, bekræftet video (BBC live)
+- "Konsensus" om Irans øverste leder nær — Mojtaba Khamenei frontrunner, procedurehindringer mangler (Al Jazeera)
+- Dobbelt-tap missilangreb mod Najafabad, centrale Iran (Al Jazeera)
+- UK-topdiplomat slår ned på Tony Blair for kritik af UK's Iran-linje (Al Jazeera)
+
 ## 2026-03-08 kl. 10:17
 - Irans Ekspertforsamling tæt på Khamenei-efterfølger — Mirbagheri: flertalsbeslutning nået, procedurehindringer; IDF gentager trussel mod alle deltagere
 - Ramada Hotel Beirut ramt — 4 dræbt, Israel: iranske kommandanter mål
