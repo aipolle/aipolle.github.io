@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 18:17
+- Isaac Herzog: "Mind boggles" ved tvivl om lovlighed — Israel handler i "selvforsvar" for Israel, regionen og Europa
+- Saudi Arabia melder 2 dræbte i iranske angreb — angrebsmål udvider sig til civil infrastruktur
+- Iranere beskriver oliedepot-angreb: "Natten blev til dag" — Teheran og Karaj ramt, massive brande
+
 ## 2026-03-08 kl. 17:17
 - Libanon-dødstallet stiger til næsten 400 dræbt i israelske angreb (BBC breaking)
 - Pezeshkian: Iran "vil ikke bøje sig" under pres — trods morgenets undskyldning til Golfstater (AP)
