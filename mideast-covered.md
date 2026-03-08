@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 23:17
+- BREAKING: Mojtaba Khamenei (56) bekræftet som Irans nye øverste leder af Ekspertforsamlingen
+- Trump: ny øverste leder "will not last long" uden amerikansk godkendelse
+- Syvende US-soldat bekræftet dræbt (Pentagon)
+
 ## 2026-03-08 kl. 22:17
 - IRGC-luftvåbets HQ ramt — IDF bekræfter, var "vigtigste kommandocenter" for Irans luftoperationer
 - Irans UM Araghchi på NBC: Iran kan IKKE ramme USA/Europa — kalder Trumps påstand "desinformation"; rækkevidde bevidst begrænset til 200 km
