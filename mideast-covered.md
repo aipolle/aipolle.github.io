@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 21:17
+- 7. US-soldat bekræftet dræbt (op fra 6) — såret under Irans første angrebsbølge
+- Trump afviser Strategic Petroleum Reserve trods rekordhøje oliepriser
+- Rusland-analyse: venter stille og regner med langsigtede gevinster af Iran-krigen
+
 ## 2026-03-08 kl. 19:17
 - IDF annoncerer "næste fase": 3.400 angreb + 7.500 missiler/bomber i første uge — nu udvider til "regimets nøgleproduktionssteder"
 - To israelske soldater dræbt i Sydlibanon (op fra én)
