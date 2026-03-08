@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 15:17
+- Iran afviser fremmed indblanding i valg af ny øverste leder
+- Arabiske Liga ministermøde om iranske angreb på arabiske landes suverænitet
+- US-israelske olieangreb frigiver farlige kemikalier og giftige stoffer (Tehran + Alborz)
+- Doha genåbner delvist luftrum — første fly til Doha siden krigsstart
+
 ## 2026-03-08 kl. 14:17
 - Irans Ekspertforsamling melder konsensus om ny øverste leder — men procedurehindringer; Mojtaba Khamenei frontrunner; IDF truer deltagere
 - Første israelske soldat dræbt i Sydlibanon — bekræftet af israelsk hær
