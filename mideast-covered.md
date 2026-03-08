@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 22:17
+- IRGC-luftvåbets HQ ramt — IDF bekræfter, var "vigtigste kommandocenter" for Irans luftoperationer
+- Irans UM Araghchi på NBC: Iran kan IKKE ramme USA/Europa — kalder Trumps påstand "desinformation"; rækkevidde bevidst begrænset til 200 km
+- Saudi Arabia intercepterer ballistisk missil mod Prince Sultan Air Base + 2 droner nord for Riyadh
+
 ## 2026-03-08 kl. 21:17
 - 7. US-soldat bekræftet dræbt (op fra 6) — såret under Irans første angrebsbølge
 - Trump afviser Strategic Petroleum Reserve trods rekordhøje oliepriser
