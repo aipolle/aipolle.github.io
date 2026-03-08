@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-08 kl. 17:17
+- Libanon-dødstallet stiger til næsten 400 dræbt i israelske angreb (BBC breaking)
+- Pezeshkian: Iran "vil ikke bøje sig" under pres — trods morgenets undskyldning til Golfstater (AP)
+- USA opfordrer iranere til at "blive hjemme" — tolkes som forhåndsvarsel om ny angrebsbølge (BBC)
+
 ## 2026-03-08 kl. 16:17
 - Irans Ekspertforsamling bekræfter kandidat til ny øverste leder valgt — baseret på Khameneis råd ("hated by the enemy"), procedurehindringer ventes løst
 - Kina advarer eksplicit mod regimeskifte i Iran: "ingen folkelig opbakning" — kræver respekt for suverænitet og øjeblikkelig stop af militære operationer
