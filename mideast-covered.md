@@ -842,6 +842,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 11:17
+- Missilangreb dræber én ved byggeplads i central Israel (BBC Breaking)
+- Kraftige eksplosioner over Teheran (AFP)
+- Starmer advarer om britisk økonomieffekt — koordinerer med internationale partnere
+- UK gaspriser springer til 158p/therm (op fra under 80p før krigen)
+- Bapco-raffinaderi på Sitra Island, Bahrain ramt af iransk angreb
+- IDF angriber fortsat Dahieh-forstæder i Beirut
+
 ## 2026-03-09 kl. 09:17
 - G7-finansministre nødmøde i gang — mulig frigivelse af strategiske oliereserver drøftes (BBC)
 - Saudi Arabia skærper advarsel til Iran efter Mojtaba Khameneis bekræftelse (AP)
