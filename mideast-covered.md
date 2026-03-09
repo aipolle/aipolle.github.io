@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 09:17
+- G7-finansministre nødmøde i gang — mulig frigivelse af strategiske oliereserver drøftes (BBC)
+- Saudi Arabia skærper advarsel til Iran efter Mojtaba Khameneis bekræftelse (AP)
+- Oliepriser holder sig $110–115/tønde, markeder venter G7-udmelding
+
 ## 2026-03-09 kl. 08:17
 - G7-finansministre nødmøde om oliepriser — UK-kansler Reeves deltager (BBC)
 - Oliepriser kortvarigt over $115/tønde (AP) — ny prisspids
