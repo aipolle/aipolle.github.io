@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 21:17
+- Trump/Putin telefonopkald om Iran-krigen bekræftet af Kreml — første direkte kontakt siden krigsstart
+- Trump på CBS: "war is very complete, pretty much" / "we're very far ahead of schedule" — antyder snarlig krigsslutning
+- Wall Street lukker i plus efter at have slettet store intradag-tab; oliepriser faldt fra nær $120
+
 ## 2026-03-09 kl. 20:17
 - Healey bekræfter: RAF Akrotiri-drone kom fra Libanon eller Irak
 - Al Jazeera-analyse: krigen koster USA $2 mia./dag
