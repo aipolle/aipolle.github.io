@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 00:17
+- WHO-chef advarer om humanitær krise efter israelske angreb på iranske olieanlæg — børn og ældre i særlig risiko
+- AP afslører: forkrigs-efterretningsvurdering fastslog at USA-intervention sandsynligvis IKKE ville ændre Irans lederskab
+- Trump: "vil ikke lade Iran holde verden som gidsel" over olie — fastholder krigen trods $100–$115/tønde oliepriser
+
 ## 2026-03-09 kl. 23:17
 - Trump skifter tone: fra "krigen er næsten vundet" (CBS) til "ikke vundet nok endnu" + "mere beslutstet end nogensinde" på "ultimate victory"
 - Australien giver officielt visum til 5 iranske kvindefodboldspillere der protesterede ved AFC Cup
