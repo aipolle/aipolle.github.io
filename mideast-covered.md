@@ -842,6 +842,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 12:17
+- Frankrig kræver nødmøde i FN's Sikkerhedsråd om Libanon
+- UNICEF: mindst 83 børn dræbt i Libanon de seneste 7 dage
+- HRW: Israel brugte hvid fosfor ulovligt i Libanon (folkeretsbrud)
+- Bangladesh lukker universiteter og begrænser brændstofsalg — energimangel pga. krigen
+- Israelske luftangreb dræber to sanitetsfolk i Sydlibanon
+- Iran: "USA vil partitionere Iran og tage olien" — ny iransk narrativ
+
 ## 2026-03-09 kl. 11:17
 - Missilangreb dræber én ved byggeplads i central Israel (BBC Breaking)
 - Kraftige eksplosioner over Teheran (AFP)
