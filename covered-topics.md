@@ -75,6 +75,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Far slog treårig søn i City2 Taastrup — grov vold, grundlovsforhør Retten i Glostrup, borgeranmeldelse
 - Kvindernes Internationale Kampdag / kvindelige iværksættere — 37% andel, 2018-2025 stille udvikling, Dinero-analyse, Dansk Erhverv
 
+## 2026-03-09 (morgen)
+- Olieprisen over 100 dollar/tønde — Iran-krigen, Trump "kun fjolser", Hormuzstrædet, Mærsk indstiller sejlads
+- Europa verdens største våbenimportør — SIPRI-rapport, tredobling på 5 år, Polen/UK/Ukraine, USA 42% af verdensmarkedet
+- Drone-bande London — 50+ smuglerflyvninger med narko ind i fængsler, 22 års fængsel tilsammen, Metropolitan Police
+
 ## 2026-03-08 (morgen)
 - René Redzepi / Noma — 35 tidligere ansatte beskylder for fysiske overgreb, slag, skub, psykisk terror, New York Times/Politiken, Instagram-undskyldning
 - Eksplosion ved USA's ambassade i Oslo — sprængstof ved indgangsparti natten til søndag, norsk politi efterforsker, kontekst: USA/Israel krig mod Iran
