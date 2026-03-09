@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 14:17
+- Oliepris kortvarigt til ~$120/tønde (ny rekord intradag) — G7 nødmøde om mulig frigivelse af strategiske reserver
+- Wall Street falder kraftigt — globale markeder ned
+- Senator Graham: "Vi vil tjene en masse penge" — antyder krig handler om Irans olie
+- Iransk kvindelandshold: eksilprotester i Australien ("save our girls")
+
 ## 2026-03-09 kl. 12:17
 - Frankrig kræver nødmøde i FN's Sikkerhedsråd om Libanon
 - UNICEF: mindst 83 børn dræbt i Libanon de seneste 7 dage
