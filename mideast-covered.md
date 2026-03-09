@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 07:17
+- 32 civile såret i iransk droneangreb mod Bahrain — højeste antal sårede i enkelt Gulf-angreb siden krigsstart (BBC live)
+- BBC-feature: iranere beskriver oliedepotangreb i Teheran/Karaj natten til mandag — "natten blev til dag"
+- Energimarkeder fortsat under pres: "energy supply fears" dominerer BBC live-feed
+
 ## 2026-03-09 kl. 06:17
 - Oliepriser stiger til $114/tønde — AP bekræfter ny rekordhøj; Nikkei 225 falder 7%+ (AP)
 - Saudi Arabia skærper advarsel til Iran efter Mojtaba Khameneis udnævnelse (AP)
