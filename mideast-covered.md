@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 04:17
+- Oliepriser over $110/tønde — BBC breaking: "Oil prices surge above $110 and shares slide over Iran war"; globale aktier falder
+- Dag 10 fortsætter uden de-eskalering
+- Mojtaba Khamenei-valget sender Pezeshkian på offensiven mod Trumps ultimatum
+
 ## 2026-03-09 kl. 03:17
 - Pezeshkian afviser Trumps "ubetingede overgivelse"-krav: "De kan tage den drøm med i graven"
 - Iranere fejrer på gaderne efter Mojtaba Khameneis bekræftelse som ny øverste leder
