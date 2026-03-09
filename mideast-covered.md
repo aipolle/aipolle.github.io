@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 03:17
+- Pezeshkian afviser Trumps "ubetingede overgivelse"-krav: "De kan tage den drøm med i graven"
+- Iranere fejrer på gaderne efter Mojtaba Khameneis bekræftelse som ny øverste leder
+- Irans præsident truer med yderligere angreb mod US-mål
+- Oliepriser over $100/tønde bekræftet i bred mediedækning (BBC: "højeste i fire år")
+
 ## 2026-03-09 kl. 01:17
 - Oliepriser over $100/tønde: Brent $108,68 (+18%), WTI $108 (+20%) — højeste siden Ukraine-invasionen feb. 2022
 - Trump bagatelliserer olieprisstigningen på Truth Social: "very small price to pay for USA and World Safety and Peace"
