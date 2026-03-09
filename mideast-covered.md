@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 22:17
+- Frankrig forbereder Hormuz-eskortemission (rent defensiv, Macron)
+- G7 bekræfter "nødvendige foranstaltninger" for energiforsyning; oliepriser kortvarigt nær $120
+- US senatorer kræver undersøgelse af Minab-skoleangreb — dødstallet nu 170
+- Iransk ballistisk missil nedskudt af NATO over Gaziantep, Tyrkiet — ingen tab
+- Israel rammer Al-Qard al-Hasan (Hizbollahs banker); Libanon klar til forhandlinger
+
 ## 2026-03-09 kl. 21:17
 - Trump/Putin telefonopkald om Iran-krigen bekræftet af Kreml — første direkte kontakt siden krigsstart
 - Trump på CBS: "war is very complete, pretty much" / "we're very far ahead of schedule" — antyder snarlig krigsslutning
