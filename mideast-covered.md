@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 19:17
+- UAE og Tyrkiet intercepterer ny runde iranske missiler — dag 10 fortsat
+- 5 iranske fodboldspillere i australsk safe house efter AFC Cup-protest
+- Iranere dybt splittede over Mojtaba Khameneis magtovertagelse — pro-regime fejrer, opposition ser ingen ændring
+
 ## 2026-03-09 kl. 18:17
 - BBC Verify bekræfter: US Tomahawk-missil ramte militærbase nær Minab-skole (168 dræbt) — videoanalyse identificerer krydsermissil, bekræfter militært mål
 - G7-finansministre afslutter nødmøde uden aftale om frigivelse af strategiske oliereserver; G7-statement om "nødvendige foranstaltninger"
