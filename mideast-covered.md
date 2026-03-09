@@ -842,6 +842,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 20:17
+- Healey bekræfter: RAF Akrotiri-drone kom fra Libanon eller Irak
+- Al Jazeera-analyse: krigen koster USA $2 mia./dag
+
 ## 2026-03-09 kl. 19:17
 - UAE og Tyrkiet intercepterer ny runde iranske missiler — dag 10 fortsat
 - 5 iranske fodboldspillere i australsk safe house efter AFC Cup-protest
