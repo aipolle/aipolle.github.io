@@ -842,6 +842,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 23:17
+- Trump skifter tone: fra "krigen er næsten vundet" (CBS) til "ikke vundet nok endnu" + "mere beslutstet end nogensinde" på "ultimate victory"
+- Australien giver officielt visum til 5 iranske kvindefodboldspillere der protesterede ved AFC Cup
+
 ## 2026-03-09 kl. 22:17
 - Frankrig forbereder Hormuz-eskortemission (rent defensiv, Macron)
 - G7 bekræfter "nødvendige foranstaltninger" for energiforsyning; oliepriser kortvarigt nær $120
