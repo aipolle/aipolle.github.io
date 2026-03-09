@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 01:17
+- Oliepriser over $100/tønde: Brent $108,68 (+18%), WTI $108 (+20%) — højeste siden Ukraine-invasionen feb. 2022
+- Trump bagatelliserer olieprisstigningen på Truth Social: "very small price to pay for USA and World Safety and Peace"
+- US State Department beordrer ikke-nødvendige ambassadeansatte og familier til at forlade Saudi Arabia
+- IRGC erklærer "fuldstændig lydighed" til Mojtaba Khamenei
+- Iran-sikkerhedschef Larijani: ny leder valgt trods Trumps bombetrusler mod Ekspertforsamlingen
+
 ## 2026-03-08 kl. 23:17
 - BREAKING: Mojtaba Khamenei (56) bekræftet som Irans nye øverste leder af Ekspertforsamlingen
 - Trump: ny øverste leder "will not last long" uden amerikansk godkendelse
