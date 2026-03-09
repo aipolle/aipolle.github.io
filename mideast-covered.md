@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-09 kl. 15:17
+- Ny iransk missilbølge mod UAE, Qatar og Tyrkiet — Golfstater kalder det "reprehensible"; Qatar opfordrer til de-eskalering
+- Iran officielt dødstalstal: 1.255 dræbt (vicesundhedsminister Jafarian) — flertallet civile, snesevis af sundhedsfaciliteter beskadiget
+- BBC Live: Iranske missiler intercepteret over Tyrkiet, UAE og Qatar simultant; oliepriser holder $100+
+
 ## 2026-03-09 kl. 14:17
 - Oliepris kortvarigt til ~$120/tønde (ny rekord intradag) — G7 nødmøde om mulig frigivelse af strategiske reserver
 - Wall Street falder kraftigt — globale markeder ned
