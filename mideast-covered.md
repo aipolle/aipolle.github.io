@@ -842,6 +842,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 02:17
+- Trump "death, fire, and fury"-advarsel: vil ramme Iran 20x hårdere ved Hormuz-blokade
+- Oliepriser falder skarpt (Brent -8,5% til $92,50) efter Trumps antydning om snarlig krigsafslutning
+- Asiatiske markeder stiger (Nikkei +2,8%, Kospi +5%)
+- Canada holder nødparlamentarisk debat om Iran-krigen — Carney fraværende, Liberale splittede
+- Iransk angreb dræber 1 i Bahrain
+- Strømudfald i Teheran og Karaj efter angreb på oliedepoter
+
 ## 2026-03-10 kl. 00:17
 - WHO-chef advarer om humanitær krise efter israelske angreb på iranske olieanlæg — børn og ældre i særlig risiko
 - AP afslører: forkrigs-efterretningsvurdering fastslog at USA-intervention sandsynligvis IKKE ville ændre Irans lederskab
