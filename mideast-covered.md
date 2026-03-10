@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 12:17
+- IDF ny angrebsbølge mod Teheran
+- Patriot-missilforsvar deployeret i central Tyrkiet (NATO)
+- Bahrain ny total: 105 missiler + 176 droner intercepteret
+- Iransk topembedsmand truer Trump direkte (AP)
+- Oliepriser falder under $90/tønde — Trump ophæver sanktioner for visse olieproducenter
+
 ## 2026-03-10 kl. 11:17
 - Iran: 9 hospitaler ude af drift — humanitær krise i sundhedssektoren
 - Kreml: Putins Iran-forslag stadig på bordet — diplomatisk kanal åben
