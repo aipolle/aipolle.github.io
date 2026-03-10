@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 23:17
+- Irans politichef advarer mod anti-regime protester; Netanyahu opfordrer iranerne til at "vinde friheden"
+- Ny angrebsbølge mod Teheran + UAE luftforsvar aktiveret mod ny "missile threat" (dag 11, sen aften)
+- Pentagon: 140 US-soldater såret (8 alvorligt), 7 dræbt — Hegseth fastholder "most intense day"
+- Skyderi mod US-konsulat i Toronto — canadiske myndigheder undersøger, ingen tilskadekomne
+
 ## 2026-03-10 kl. 21:17
 - IEA indkalder nødmøde om frigivelse af strategiske oliereserver — vurderer globale energiforhold
 - Iran inviterer kvindelandsholdet hjem "med åbne arme" — 180-graders vending fra "forrædere"-retorik (5 spillere har fået australsk visum)
