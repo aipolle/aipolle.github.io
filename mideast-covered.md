@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 17:17
+- EU-rådsformand Costa: Rusland er eneste "vinder" af krigen — drager fordel af høje energipriser og afledning fra Ukraine
+- Pakistan indfører hårde austerity-foranstaltninger: fire-dages arbejdsuge for statsansatte, to ugers skolelukninger pga. energikrisen
+- Islamofobisk had-bølge i USA: over 25.300 islamofobiske opslag på X siden krigsstart
+
 ## 2026-03-10 kl. 15:17
 - Luftangreb dræber 4 Iran-tilknyttede kombattanter i Irak + IRGC angriber US-base i Irak; Iraks PM Sudani afviser at blive trukket ind i krigen
 - Israel ny angrebsbølge mod Sydlibanon og Østlibanon inkl. Tyrus — Israel vil udvide bufferzone
