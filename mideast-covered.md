@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 15:17
+- Luftangreb dræber 4 Iran-tilknyttede kombattanter i Irak + IRGC angriber US-base i Irak; Iraks PM Sudani afviser at blive trukket ind i krigen
+- Israel ny angrebsbølge mod Sydlibanon og Østlibanon inkl. Tyrus — Israel vil udvide bufferzone
+- Hundredtusinder samles i Teheran til støtte for ny øverste leder Mojtaba Khamenei
+- Kvinde dræbt i Bahrain under ny iransk missilbølge mod Golfstater
+
 ## 2026-03-10 kl. 14:17
 - Hegseth: i dag bliver "den mest intense" dag i krigen — rekord i kampfly, bombefly og angreb; "Trump gets to control the throttle"
 - Irans missilkapacitet ned 90% og dronangreb ned 83% fra krigsstart (Caine, Pentagon)
