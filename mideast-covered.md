@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 10:17
+- Australien sender missiler og overvågningsfly til UAE (Albanese bekræfter)
+- Irans parlamentsformand Ghalibaf: Iran "absolut ikke på udkig efter våbenhvile"
+- Bahrain's Gulf Air: alle flyvninger fortsat suspenderet
+- Trump: krigen slutter "very soon" men advarer om 20x hårdere slag ved Hormuz-blokade
+
 ## 2026-03-10 kl. 09:17
 - Trump overvejer at ophæve oliesanktioner mod visse lande for at dæmpe energipriserne — nævnte efter Putin-opkald, ingen præcisering
 - UAE's konsulat i Erbil (Kurdistan/Irak) ramt af drone — skader, ingen tilskadekomne
