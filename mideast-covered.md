@@ -842,6 +842,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 07:17
+- Trump om Minab-skoleangrebet: "Jeg ved ikke nok" — antyder Iran brugte Tomahawk (eksperter: absurd, ingen af parterne ejer Tomahawks)
+- Lyse Doucet-analyse: Mojtaba Khamenei mistede far, mor, kone og søn i angrebet — "intensely personal" krig; Trump advarer han "won't last long"
+- UK energiregninger rykker i centrum — Chris Mason/BBC: Labour under pres for Iran-krigens effekt på britiske husstande
+- Oliepriser fortsat faldende efter Trumps "pretty quickly"-udmelding
+
 ## 2026-03-10 kl. 03:17
 - GPS-jamming intensiveres i Golfen — iransk elektronisk krigsførelse forstyrrer navigation for skibe og fly
 - Putin tilbyder Europa olie/gas som erstatning for Golfenergi (Al Jazeera)
