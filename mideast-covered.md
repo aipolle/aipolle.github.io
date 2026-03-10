@@ -842,6 +842,18 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 20:17
+- "Sort regn" og hidtidig uset luftforurening i Teheran — 4 olieanlæg ramt, giftig røg/sort nedbør, værste forurening siden Iran-Irak-krigen (BBC videnskabelig analyse)
+- Beirut-hotelstrike: Israel siger Quds Force-operativer; Iran siger de dræbte var diplomater — fortsat strid om hvad der skete
+- Eksplosioner i Teheran dag 11 bekræftet — Hegseth fastholder "most intense day", BBC live bekræfter ny angrebsbølge
+
+## 2026-03-10 kl. 19:17
+- Oliepris falder skarpt til $82/tønde efter US-marineneskort af tanker gennem Hormuz — energiminister Wrights opslag sidenhen slettet
+- Iran affyrer ny missilbølge mod Israel — IDF aktiverer luftforsvar og mobilvarsler (dag 11, 3. bølge)
+- Witkoff: Putin sagde Rusland deler IKKE intel med Iran — modsætter AP-rapport fra 7. marts; Trump åben for dialog men ingen diplomatisk løsning synlig
+- Iransk Røde Halvmåne: 19.000+ civile enheder beskadiget, 69 skoler og 77 medicinske centre ramt
+- Iransk sikkerhedsembedsmand truer Trump personligt: "vær forsigtig, så du ikke selv bliver elimineret"
+
 ## 2026-03-10 kl. 18:17
 - Krigen udvider sig til centrale Beirut — Israel rammer luksuriøst hotel (Quds Force-møde)
 - HMS Dragon forlader Portsmouth mod Cypern — Royal Navy Type 45 udsendt til Middelhavet
