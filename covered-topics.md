@@ -75,6 +75,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Far slog treårig søn i City2 Taastrup — grov vold, grundlovsforhør Retten i Glostrup, borgeranmeldelse
 - Kvindernes Internationale Kampdag / kvindelige iværksættere — 37% andel, 2018-2025 stille udvikling, Dinero-analyse, Dansk Erhverv
 
+## 2026-03-10 (middag)
+- DSB rekordkompensation — 64,7 millioner kroner i 2025, 68% stigning på 3 år, januar 11,9 mio. kr. rekord for én måned, kan ikke overholde 75%-aftale
+- Radiodoktoren Carsten Vagn-Hansen — 87 år, DR's tv- og radiodoktor, "Spørg om Sundhed", døde tre dage efter sin hustru Joan efter 65 år sammen
+- Suspekt raser over Støjberg / Danmarksdemokraterne — "Stemte på hende i går" t-shirt video, reference til Suspekt-sang, kunstnere misbrugt af politikere, video taget ned
+
 ## 2026-03-10 (morgen)
 - Boligkaos i København — 8 ud af 10 førstegangskøbere får penge af forældre, 30% over 300.000 kr., Finans Danmark, Niels Arne Dam
 - Fugleinfluenza rekordniveau — højeste niveau nogensinde i Danmark, Dragør/Amager, Mette Kirkeskov Sie, hård vinter
