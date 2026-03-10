@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 13:17
+- Trump præciserer: krigen slutter "very soon, but not this week" — kalder det "tremendous success", men fastholder atomvåbenmål
+- Iran affyrer nye droner mod Saudi Arabia og Kuwait — ny angrebsbølge dag 11 (AP live)
+- Iran søger at intensivere pres på USA — AP beskriver eskalering som bevidst iransk strategi
+
 ## 2026-03-10 kl. 12:17
 - IDF ny angrebsbølge mod Teheran
 - Patriot-missilforsvar deployeret i central Tyrkiet (NATO)
