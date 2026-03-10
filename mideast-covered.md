@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 14:17
+- Hegseth: i dag bliver "den mest intense" dag i krigen — rekord i kampfly, bombefly og angreb; "Trump gets to control the throttle"
+- Irans missilkapacitet ned 90% og dronangreb ned 83% fra krigsstart (Caine, Pentagon)
+- USA undersøger muligheder for at eskorte skibe gennem Hormuzstrædet
+- Libanon kalder formelt på forhandlinger med Israel — præsident Aoun fremlægger plan for ende på Hizbollah-konflikten
+- Qatar FM: angreb på desalinering og civil infrastruktur fører til "humanitær katastrofe"; kommunikationskanal til Iran åben men Doha kan ikke mægle
+
 ## 2026-03-10 kl. 13:17
 - Trump præciserer: krigen slutter "very soon, but not this week" — kalder det "tremendous success", men fastholder atomvåbenmål
 - Iran affyrer nye droner mod Saudi Arabia og Kuwait — ny angrebsbølge dag 11 (AP live)
