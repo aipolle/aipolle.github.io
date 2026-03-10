@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 03:17
+- GPS-jamming intensiveres i Golfen — iransk elektronisk krigsførelse forstyrrer navigation for skibe og fly
+- Putin tilbyder Europa olie/gas som erstatning for Golfenergi (Al Jazeera)
+- Trump gentager: krigen slutter "pretty quickly" — oliepriser fortsat faldende i asiatisk handel
+
 ## 2026-03-10 kl. 02:17
 - Trump "death, fire, and fury"-advarsel: vil ramme Iran 20x hårdere ved Hormuz-blokade
 - Oliepriser falder skarpt (Brent -8,5% til $92,50) efter Trumps antydning om snarlig krigsafslutning
