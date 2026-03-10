@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 18:17
+- Krigen udvider sig til centrale Beirut — Israel rammer luksuriøst hotel (Quds Force-møde)
+- HMS Dragon forlader Portsmouth mod Cypern — Royal Navy Type 45 udsendt til Middelhavet
+- Op til 12 B-1 bombfly på RAF Fairford — tre letter, aktivitet bekræftet af BBC-reporter
+- Energipriser falder: Brent ~$88/tønde (fra $119), UK gas 126p/therm; Aramco-chef advarer om "katastrofale konsekvenser" ved fortsat Hormuz-blokade
+- Rusland tjener €510m/dag på fossil eksport — 14% over Februars gennemsnit (CREA)
+
 ## 2026-03-10 kl. 17:17
 - EU-rådsformand Costa: Rusland er eneste "vinder" af krigen — drager fordel af høje energipriser og afledning fra Ukraine
 - Pakistan indfører hårde austerity-foranstaltninger: fire-dages arbejdsuge for statsansatte, to ugers skolelukninger pga. energikrisen
