@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 09:17
+- Trump overvejer at ophæve oliesanktioner mod visse lande for at dæmpe energipriserne — nævnte efter Putin-opkald, ingen præcisering
+- UAE's konsulat i Erbil (Kurdistan/Irak) ramt af drone — skader, ingen tilskadekomne
+- Britiske gaspriser falder 10%+ til ~123p/therm — ned fra 171p mandag, fortsat over 80p fra krigsstart
+- Markeder stabiliserer sig: FTSE +1,3%, Nikkei +2,9%, Kospi +5,4%
+- Gulf natten til tirsdag: Saudi Arabia intercepterede missil + 5 droner; Kuwait 6 droner; Bahrain-alarm efter 29-årig kvinde dræbt i Manama
+
 ## 2026-03-10 kl. 08:17
 - Al Jazeera meningsmåling: flertallet af israelere støtter krigen; "folkemords-retorik vender tilbage"; modstandere trues og udsættes for vold
 - Libanon-dødstallet stiger til 486 (op fra "næsten 400" fra 8. marts)
