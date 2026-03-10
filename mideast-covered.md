@@ -842,6 +842,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 08:17
+- Al Jazeera meningsmåling: flertallet af israelere støtter krigen; "folkemords-retorik vender tilbage"; modstandere trues og udsættes for vold
+- Libanon-dødstallet stiger til 486 (op fra "næsten 400" fra 8. marts)
+- US ambassade i Beirut: aktiv evakueringsopfordring — borgere opfordres til at forlade Libanon via Middle East Airlines
+- Israel gentager evakueringsordre for Sydlibanon (syd for Litani-floden), fortsatte luftangreb mod Hizbollah
+- Oliepriser bekræftet under $90/tønde (ned fra $120 mandag intradag); Trumps "markedsroende telefonspree" mandag havde "desired effect"
+
 ## 2026-03-10 kl. 07:17
 - Trump om Minab-skoleangrebet: "Jeg ved ikke nok" — antyder Iran brugte Tomahawk (eksperter: absurd, ingen af parterne ejer Tomahawks)
 - Lyse Doucet-analyse: Mojtaba Khamenei mistede far, mor, kone og søn i angrebet — "intensely personal" krig; Trump advarer han "won't last long"
