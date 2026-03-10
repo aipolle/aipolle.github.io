@@ -842,6 +842,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk ambassadør i UK skærper tonen: "vær meget forsigtig" — eksplicit trussel om selvforsvar mod UK
 - Indonesien: præsidenten under pres fra hjemlige protestanter — verdens største muslimske nation tøver
 
+## 2026-03-10 kl. 21:17
+- IEA indkalder nødmøde om frigivelse af strategiske oliereserver — vurderer globale energiforhold
+- Iran inviterer kvindelandsholdet hjem "med åbne arme" — 180-graders vending fra "forrædere"-retorik (5 spillere har fået australsk visum)
+- GPS-jamming intensiveres i Golfen — iransk elektronisk krigsførelse forstyrrer navigation for skibe og fly
+
 ## 2026-03-10 kl. 20:17
 - "Sort regn" og hidtidig uset luftforurening i Teheran — 4 olieanlæg ramt, giftig røg/sort nedbør, værste forurening siden Iran-Irak-krigen (BBC videnskabelig analyse)
 - Beirut-hotelstrike: Israel siger Quds Force-operativer; Iran siger de dræbte var diplomater — fortsat strid om hvad der skete
