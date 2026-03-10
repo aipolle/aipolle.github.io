@@ -1242,3 +1242,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar delvist genåbner luftrum (fredag aften) — kun evakuerings- og fragtfly via nødruter; planlagte kommercielle afgange stadig suspenderet; 2.000+ fly aflyst siden 28. februar
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
+
+## 2026-03-11 kl. 00:17
+- CENTCOM: 16 iranske minelæggerskibe ødelagt ved Hormuzstrædet (dag 12)
+- Israel ny angrebsbølge mod Teheran + Beirut natten til onsdag
+- UAE luftforsvar aktivt — ny missiletrussel sen tirsdag aften
+- G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
+- Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
