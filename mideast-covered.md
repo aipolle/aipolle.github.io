@@ -1243,6 +1243,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 22:17
+- Ruslands UNSC-modresolution forkastet — kun 4 stemmer for, 9 krævedes (9 afholdt sig, 2 imod)
+- Trump/DFC + Chubb: op til $20 mia. statsgaranteret krigsforsikring for Hormuz-skibe — kun 4 fartøjer passeret siden mandag
+- 4 kommercielle skibe angrebet onsdag: Mayuree Naree, Express Rome, One Majesty, Star Gwyneth; Oman reddede 20 sømænd
+- Israel: "storskala"-luftangreb på Beirut onsdag aften; Libanon-dødstallet 634+ dræbt, 1.500+ sårede, ~1 million fordrevet
+- Israel erklærer krigen "uden tidsbegrænsning" — Katz: fortsætter til alle mål nået
+- 29 lande: fælleserklæring om Libanon — Hizbollah skal lægge våben ned, Israel undgå civil infrastruktur
+
 ## 2026-03-11 kl. 21:17
 - FN advarer om accelererende humanitær krise: 816.000 fordrevet i Libanon (op fra ~780.000 fra kl. 10:17)
 - Dag 12: ingen de-eskalering, UAE luftforsvar fortsat aktivt, Hormuz nærmest lukket
