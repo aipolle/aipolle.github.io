@@ -1243,6 +1243,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 00:17
+- Skibe fortsat ramt i Hormuzstrædet ved midnat (BBC "just now")
+- IRGC fastholder $200/tønde-trussel: "ikke en eneste liter olie passerer"
+- Bowen-analyse: Trumps oprørsopfordring — Irak 1991-advarsel
+- Israel: ingen tidsbegrænsning for krigen; Trump: slutter "snart" — modsatrettede signaler
+- Dag 13 begynder uden de-eskalering
+
 ## 2026-03-11 kl. 22:17
 - Ruslands UNSC-modresolution forkastet — kun 4 stemmer for, 9 krævedes (9 afholdt sig, 2 imod)
 - Trump/DFC + Chubb: op til $20 mia. statsgaranteret krigsforsikring for Hormuz-skibe — kun 4 fartøjer passeret siden mandag
