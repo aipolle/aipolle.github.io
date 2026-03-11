@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 14:17
+- IRGC erklærer US-israelske erhvervs- og bankinteresser i regionen som eksplicitte angrebsmål — konkret liste over amerikanske virksomheder med israelske forbindelser
+- AP-analyse: krigen koger ned til ét spørgsmål — hvem kan holde smerten længst? Hormuz som USA's vigtigste sårbarhed
+- Skibsophobning ved Ras Al-Khaimah (UAE) bekræfter nærmest total standsning af Hormuz-trafik
+
 ## 2026-03-11 kl. 13:17
 - Israel rammer beboelsesbygning i central Beirut — muligt attentat, mål ukendt
 - Missilinterceptioner over Tel Aviv — ny iransk angrebsbølge
