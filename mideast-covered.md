@@ -1243,6 +1243,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 17:17
+- Spanien trækker ambassadør hjem fra Israel — protest mod Iran-krig og Gaza-folkemord (EU diplomatisk splittelse)
+- IRGC truer med $200-olie: "ikke en eneste liter" passerer Hormuz — svar på IEA-frigivelse
+- Tre kommercielle skibe ramt af ukendte projektiler i Hormuzstrædet (op fra to)
+- UK forbyder Al-Quds Day-march i London — politiet citerer offentlig uro
+
 ## 2026-03-11 kl. 16:17
 - IEA bekræfter frigivelse af 400 mio. tønder olie fra 32 lande — "Largest ever" strategisk reserve-frigivelse
 - EU og UK kræver Israel stopper bosættervold på Vestbredden — 6 palæstinensere dræbt siden krigsstart (FN)
