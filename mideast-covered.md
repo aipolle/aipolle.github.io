@@ -1243,6 +1243,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 19:17
+- Trump: USA "not finished yet" — Irans ledere "er væk", advarer om "vi kan gøre det meget værre"
+- UAE bekræfter aktiv luftforsvar mod nye iranske missiler og droner onsdag aften
+- Pentagon bekræfter officielt brug af avancerede AI-værktøjer i krigen — Admiral Brad Cooper (Al Jazeera)
+- Iransk fodboldspiller i australsk safe house skifter mening og vender tilbage til holdet
+
 ## 2026-03-11 kl. 18:17
 - Irans sportsminister: Iran deltager "under ingen omstændigheder" i FIFA VM 2026 (Al Jazeera)
 - Efterretningseksperter: Iran kan bruge Kinas BeiDou satellitnavigation i krigsoperationer
