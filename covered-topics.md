@@ -80,6 +80,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Radiodoktoren Carsten Vagn-Hansen — 87 år, DR's tv- og radiodoktor, "Spørg om Sundhed", døde tre dage efter sin hustru Joan efter 65 år sammen
 - Suspekt raser over Støjberg / Danmarksdemokraterne — "Stemte på hende i går" t-shirt video, reference til Suspekt-sang, kunstnere misbrugt af politikere, video taget ned
 
+## 2026-03-11 (middag)
+- Tarek Osman / Vestre Landsret — bandekriminel fra Brabrand beholder statsborgerskab trods 16 år i fængsel, panserværnsraket/geværgranater/sprængstof, Brabrandgruppen, advokat Danni Richter Larsen, europæisk konvention om statsborgerret
+- Ellen Trane Nørby revser Troels Lunds vandplan — tidligere V-minister/Danva-formand, "frivillige aftaler har spillet fallit", nationalt sprøjteforbud, grundvandsbeskyttelse, Stephanie Lose, Hans Engell "Troels er klemt"
+
 ## 2026-03-11 (morgen)
 - Baby bortført fra barnevogn i Haderslev — 7 måneder gammel pige, 37-årig mand varetægtsfængslet, sigtet for frihedsberøvelse og voldtægtsforsøg mod spædbarn
 - Spanien gratis sundhedsydelser til udokumenterede migranter — kongeligt dekret, gik uden om parlamentet, venstreorienteret mindretalsregering
