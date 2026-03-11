@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 15:17
+- Al Jazeera rapport: mindst 85 lande har registreret brændstofprisstigninger siden angrebene 28. februar
+- BBC: lasteskib fortsat i brand i Hormuzstrædet; tre fartøjer ramt; Pentagon frigiver video af 16 ødelagte iranske minelæggerskibe
+- UNSC-afstemning om Golfstaternes resolution ventes onsdag aften — Rusland forventes at nedlægge veto
+
 ## 2026-03-11 kl. 14:17
 - IRGC erklærer US-israelske erhvervs- og bankinteresser i regionen som eksplicitte angrebsmål — konkret liste over amerikanske virksomheder med israelske forbindelser
 - AP-analyse: krigen koger ned til ét spørgsmål — hvem kan holde smerten længst? Hormuz som USA's vigtigste sårbarhed
