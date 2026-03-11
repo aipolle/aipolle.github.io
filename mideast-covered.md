@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 07:17
+- Drone nedskudt i Irans Kerman by onsdag morgen
+- Beirut-beboere: "ingen steder er sikre" efter seneste israelske angreb mod central Beirut
+- Røgskyer fra interceptede droner fast scenebillede over GCC-lande dag 12
+
 ## 2026-03-11 kl. 06:17
 - Israel lancerer ny morgen-angrebsbølge mod Iran og Libanon — dag 12 fortsætter
 - UAE luftforsvar aktivt mod ny missiletrussel onsdag morgen
