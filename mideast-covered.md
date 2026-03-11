@@ -1243,6 +1243,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 10:17
+- Mojtaba Khamenei tilsyneladende såret — præsidentens søn siger han er "i sikkerhed"; Khamenei ikke set offentligt siden udnævnelse
+- Gulf Air rykker flyflåde fra Bahrain til Saudi Arabia — Bahrain lufthavn fortsat lukket; kanonader hørt i Bahrain
+- 780.000 fordrevne i Libanon siden israelske angreb begyndte
+- Drone rammer US Baghdad Diplomatic Support Center — Islamisk Modstand i Irak (Iran-milits), ingen sårede
+- Trump: Irans fodboldlandshold "velkommen" til VM i USA (FIFA-møde)
+
 ## 2026-03-11 kl. 09:17
 - UKMTO: nyt fartøj ramt af projektil nordvest for Dubai
 - 4 sårede af droner nær Dubai Lufthavn
