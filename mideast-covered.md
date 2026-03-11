@@ -1243,6 +1243,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 21:17
+- FN advarer om accelererende humanitær krise: 816.000 fordrevet i Libanon (op fra ~780.000 fra kl. 10:17)
+- Dag 12: ingen de-eskalering, UAE luftforsvar fortsat aktivt, Hormuz nærmest lukket
+
 ## 2026-03-11 kl. 20:17
 - Shell erklærer force majeure på LNG-kontrakter fra Qatar — første store energiselskab der aktiverer nødklausulen
 - Bowen-analyse: Trump opfordrer til iransk opstand, men Irak 1991-lektionen lurer
