@@ -1243,6 +1243,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 11:17
+- Qatar FM: "regionale lande er ikke Irans fjende" — Hormuz skal holdes åbent; Qatar/Oman kan ikke mægle mens de er under angreb
+- Oliepriser svinger voldsomt på modstridende signaler
+- Demokraterne: intet svar på krigsmål efter 11 dage — "foruroligende" mangel på klarhed
+- Drone ved Omans Duqm — nedskudt, en anden falder i havet; Thailand sender marinhjælp til lastskib i Hormuz
+- Qatar: anden sikkerhedstrussel "elimineret", Doha normal
+
 ## 2026-03-11 kl. 10:17
 - Mojtaba Khamenei tilsyneladende såret — præsidentens søn siger han er "i sikkerhed"; Khamenei ikke set offentligt siden udnævnelse
 - Gulf Air rykker flyflåde fra Bahrain til Saudi Arabia — Bahrain lufthavn fortsat lukket; kanonader hørt i Bahrain
