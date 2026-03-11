@@ -1243,6 +1243,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 09:17
+- UKMTO: nyt fartøj ramt af projektil nordvest for Dubai
+- 4 sårede af droner nær Dubai Lufthavn
+- Frankrig sender 60 tons humanitærhjælp til Libanon
+- Nordkorea støtter Iran/Mojtaba Khamenei, fordømmer USA/Israel
+- Iran: næsten 10.000 civile ejendomme ramt siden krigsstart
+
 ## 2026-03-11 kl. 08:17
 - Iran annoncerer "35. angrebsbølge" — "mest ødelæggende operation" siden krigsstart — Al Udeid, Camp Arifjan, Harir, US 5. flåde ramt
 - Israelsk angreb i central Beirut (Aisha Bakkar) — beboelsesblok ramt, al-Jamaa al-Islamiya som mål, folk frygter "ingen steder er sikre"
