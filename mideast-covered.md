@@ -1243,6 +1243,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 12:17
+- Lasteskib i brand i Hormuzstrædet — tre fartøjer ramt af ukendte projektiler (eskalation fra to ramte kl. 08:17)
+- Iran truer med at blokere "ikke en eneste liter" olie til fjender — skarpeste Hormuz-retorik hidtil
+- USA bekræfter 16 iranske minelæggerskibe elimineret, Pentagon video frigivet
+- Pentagon: 140 US-soldater såret i alt
+
 ## 2026-03-11 kl. 11:17
 - Qatar FM: "regionale lande er ikke Irans fjende" — Hormuz skal holdes åbent; Qatar/Oman kan ikke mægle mens de er under angreb
 - Oliepriser svinger voldsomt på modstridende signaler
