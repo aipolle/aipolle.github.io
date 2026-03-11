@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 06:17
+- Israel lancerer ny morgen-angrebsbølge mod Iran og Libanon — dag 12 fortsætter
+- UAE luftforsvar aktivt mod ny missiletrussel onsdag morgen
+- Demokraterne: Hvide Hus har ikke givet klar begrundelse for krigens mål efter 11 dage
+
 ## 2026-03-11 kl. 01:17
 - Hvide Hus dementer officielt Hormuz-eskorte-påstand — Wrights slettede post om US marineneskort af tanker tilbagekaldt af Leavitt; eskorte skete ikke
 - Globale flyselskaber hæver billetpriser markant pga. krigens olieprisstigninger
