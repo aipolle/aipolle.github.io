@@ -1243,6 +1243,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 08:17
+- Iran annoncerer "35. angrebsbølge" — "mest ødelæggende operation" siden krigsstart — Al Udeid, Camp Arifjan, Harir, US 5. flåde ramt
+- Israelsk angreb i central Beirut (Aisha Bakkar) — beboelsesblok ramt, al-Jamaa al-Islamiya som mål, folk frygter "ingen steder er sikre"
+- To kommercielle skibe ramt af projektiler i Hormuzstrædet — begge besætninger evakueret, brand om bord (UKMTO)
+- UNSC stemmer i dag for første gang — Golfstaters resolution vs. russisk modresolution
+
 ## 2026-03-11 kl. 07:17
 - Drone nedskudt i Irans Kerman by onsdag morgen
 - Beirut-beboere: "ingen steder er sikre" efter seneste israelske angreb mod central Beirut
