@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-11 kl. 16:17
+- IEA bekræfter frigivelse af 400 mio. tønder olie fra 32 lande — "Largest ever" strategisk reserve-frigivelse
+- EU og UK kræver Israel stopper bosættervold på Vestbredden — 6 palæstinensere dræbt siden krigsstart (FN)
+- Al Jazeera explainer: kan USA sende landtropper til Iran?
+
 ## 2026-03-11 kl. 15:17
 - Al Jazeera rapport: mindst 85 lande har registreret brændstofprisstigninger siden angrebene 28. februar
 - BBC: lasteskib fortsat i brand i Hormuzstrædet; tre fartøjer ramt; Pentagon frigiver video af 16 ødelagte iranske minelæggerskibe
