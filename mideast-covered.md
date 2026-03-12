@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 17:17
+- UK-styrker ved Irak-base nedskyder 2 iranske droner — Healey bekræfter
+- Mojtaba Khameneis første fulde statement: kampagtig, lover Hormuz-blokade fastholdes
+- Demokrater øger pres på Hegseth om mulig US-involvering i Minab-skoleangreb
+
 ## 2026-03-12 kl. 16:17
 - Israel bomber Beiruts forstæder efter Hezbollah-raketangreb — 8 dræbt ved havnefronten
 - Al Jazeera filmer ødelæggelse i beboelseskvarter i Teheran
