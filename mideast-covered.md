@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 07:17
+- To yderligere udenlandske skibe ramt af eksplosioner i Golfen (ud over de to fra 06:17) — dag 13 morgen, angreb på skibsfart intensiveres
+- Oliepris stiger tilbage til ~$100 efter kortvarigt dyk — IEA-frigivelse kan ikke dæmpe markedet
+- Hormuz-blokade dag 13 fastholdt, ingen de-eskalering
+
 ## 2026-03-12 kl. 06:17
 - Iranske angreb på skibe i Golfen intensiveres: to nye skibe ramt med eksplosioner (udover Basra-tankere fra 05:17)
 - Oliepris holder sig over $100 trods IEA's rekordstore reservefrigivelse (400 mio. tønder)
