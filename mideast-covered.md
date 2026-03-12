@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 01:17
+- Norge: tre brødre anholdt for bombeangreb mod US-ambassaden i Oslo — norske statsborgere med irakisk baggrund
+- Hormuzstrædet: skibe fortsat ramt; lande koordinerer frigivelse af strategiske oliereserver
+- Qatar til FN: Rådets manglende handling sender "farligt signal"
+
 ## 2026-03-12 kl. 00:17
 - Skibe fortsat ramt i Hormuzstrædet ved midnat (BBC "just now")
 - IRGC fastholder $200/tønde-trussel: "ikke en eneste liter olie passerer"
