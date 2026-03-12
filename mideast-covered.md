@@ -1464,3 +1464,8 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UAE luftforsvar aktivt — ny missiletrussel sen tirsdag aften
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
+
+## 2026-03-13 kl. 00:17
+- US militær bekræfter: ikke klar til at eskorte olietankere gennem Hormuzstrædet — Mojtaba Khamenei fastholder blokaden, Trump hævder USA tjener på høje oliepriser
+- Terrorangreb ved synagoge i Michigan, USA: bilvåben + skyderi ved Temple Israel, West Bloomfield Township — gerningsmand fundet død; FBI undersøger som terrorhandling
+- Israel-Libanon: angreb mod Beiruts forstæder og sydlibanon fortsætter natten til fredag
