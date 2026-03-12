@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 10:17
+- 6 skibe angrebet i Golfen med droner og sprængstoflæssede dronejoller (sea mines) — Irak lukker Basra-terminaler
+- Oliepris "back near $100" trods IEA's 400 mio. tønder reserve-frigivelse
+- 8 arabiske/islamiske lande fordømmer Israels lukning af Al-Aqsa (12 dage lukket)
+
 ## 2026-03-12 kl. 09:17
 - FN's Sikkerhedsråd vedtager resolution der fordømmer Irans angreb i Golfen — 135 lande bag
 - Italiens militærbase i Erbil, Kurdistan/Irak, ramt af missil — ingen tab
