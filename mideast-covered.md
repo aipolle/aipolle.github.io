@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 05:17
+- To olietankere ramt nær Basra-havnen, Irak: 1 dræbt, 38 reddet — iransk sprængstoflæsset båd mistænkt; irakiske oliehavne lukket (BBC breaking)
+- UNICEF: 1.100+ børn dræbt/såret siden 28. februar — 200 Iran, 91 Libanon, 4 Israel, 1 Kuwait
+- FBI advarer LA-politiet om muligt iransk droneangreb mod Californien fra havet — ingen specifik aktuel trussel; Trump: "undersøges"
+
 ## 2026-03-12 kl. 04:17
 - Oliepris over $100/tønde igen trods IEA-frigivelse (9% stigning, asiatisk handel)
 - Eks-CIA-chef Petraeus bekræfter på BBC: USA "sandsynligvis" bag Minab-skoleangreb — forældet måldata
