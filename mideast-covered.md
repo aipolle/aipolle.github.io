@@ -1243,6 +1243,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 04:17
+- Oliepris over $100/tønde igen trods IEA-frigivelse (9% stigning, asiatisk handel)
+- Eks-CIA-chef Petraeus bekræfter på BBC: USA "sandsynligvis" bag Minab-skoleangreb — forældet måldata
+- Næsten alle demokratiske senatorer kræver svar fra Hegseth om Minab-krigsforbrydelsesregler
+- Iran-hackere rammer Stryker (medicinsk gigant) — 50 TB data stjålet som hævn
+
 ## 2026-03-12 kl. 01:17
 - Norge: tre brødre anholdt for bombeangreb mod US-ambassaden i Oslo — norske statsborgere med irakisk baggrund
 - Hormuzstrædet: skibe fortsat ramt; lande koordinerer frigivelse af strategiske oliereserver
