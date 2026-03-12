@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 13:17
+- 3 nye fragskibe ramt i Golfen natten til torsdag — mindst 1 dræbt (første dødsfald bekræftet fra skibsangreb)
+- Oliepris tilbage nær $100 trods IEA's 400 mio. tønder-frigivelse fra 32 lande — markedet reagerer ikke
+- Frankrig "walks fine line": Macron kritiserer krigen men ender med at give Iran skylden (Al Jazeera)
+
 ## 2026-03-12 kl. 12:17
 - Trump-admin officiel opgørelse: krigen kostede $11,3 mia. i første 6 dage; $50 mia. mere forventet
 - Al Jazeera-analyse: hvem løber tør for missiler først — USA/Israels interceptorlagre under pres
