@@ -84,6 +84,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Tarek Osman / Vestre Landsret — bandekriminel fra Brabrand beholder statsborgerskab trods 16 år i fængsel, panserværnsraket/geværgranater/sprængstof, Brabrandgruppen, advokat Danni Richter Larsen, europæisk konvention om statsborgerret
 - Ellen Trane Nørby revser Troels Lunds vandplan — tidligere V-minister/Danva-formand, "frivillige aftaler har spillet fallit", nationalt sprøjteforbud, grundvandsbeskyttelse, Stephanie Lose, Hans Engell "Troels er klemt"
 
+## 2026-03-12 (morgen)
+- Carlsberg Cambodja reklamer — "Angkor Sky", unge under 25 i markedsføring, strider mod Carlsbergs eget kodeks, Danwatch-afsløring, Ulrik Becker alkoholforsker kritik
+- Nina Østergaard / Dansk Erhverv bestyrelse — datter af Torben Østergaard (Nordic Waste-skandalen), USTC, 500 mio. kr. oprydningsregning, 3 måneder efter USTC-medlemskab, Brian Mikkelsen
+- Kæmpe strømafbrydelse i Svendborg — over 1400 husstande, Flow Elnet, onsdag aften klokken 21.20
+
 ## 2026-03-11 (morgen)
 - Baby bortført fra barnevogn i Haderslev — 7 måneder gammel pige, 37-årig mand varetægtsfængslet, sigtet for frihedsberøvelse og voldtægtsforsøg mod spædbarn
 - Spanien gratis sundhedsydelser til udokumenterede migranter — kongeligt dekret, gik uden om parlamentet, venstreorienteret mindretalsregering
