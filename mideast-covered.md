@@ -1243,6 +1243,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 08:17
+- Iran sætter 3 fredsbetingelser: Pezeshkian kræver anerkendelse af Tehrans rettigheder, krigsskadeserstatning og internationale garantier mod fremtidig aggression
+- Irak lukker olieudskibningsoperationer efter angreb mod to tankere nær Basra
+- US efterretning: Irans regering ikke i fare for kollaps
+- Angreb mod Arak, Iran: 7 sårede, 2 kritisk
+- Saudi Arabia intercepterer nye droner mod Shaybah-oliefelt; Kuwait strømledninger ramt af drone-debris
+
 ## 2026-03-12 kl. 07:17
 - To yderligere udenlandske skibe ramt af eksplosioner i Golfen (ud over de to fra 06:17) — dag 13 morgen, angreb på skibsfart intensiveres
 - Oliepris stiger tilbage til ~$100 efter kortvarigt dyk — IEA-frigivelse kan ikke dæmpe markedet
