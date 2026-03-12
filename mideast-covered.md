@@ -1243,6 +1243,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 22:17
+- Israel lancerer ny Teheran-angrebsbølge umiddelbart efter Mojtaba Khameneis første officielle statement (BBC Live)
+- Mojtaba Khameneis første statement læst på iransk statTV: bekræfter Hormuz-blokade fastholdes, angreb mod US-baser fortsætter
+- UAE: 1.800+ droner og missiler affyret mod landet siden krigsstart — Emirati minister til BBC
+- Britisk mand sigtet i Dubai for angiveligt at have filmet iranske missiler
+
 ## 2026-03-12 kl. 20:17
 - BBC-tracker: 18 fartøjer total angrebet i krigen; 6 på under 48 timer — Hormuz søangreb intensiveres
 - Irans FN-ambassadør: 1.348 civile dræbt (op fra 1.332); 200 kvinder, 168 børn (Minab)
