@@ -1243,6 +1243,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 15:17
+- Mojtaba Khameneis første offentlige udtalelse: lover at fastholde Hormuz-blokaden (states-TV)
+- Iran trapper energiangreb op: to tankere ramt nær Basra/Irak; angreb i Bahrain og Oman
+- Al Jazeera filmer bunker-busting bombs lastet på US fly ved britisk base
+- Hezbollah-raket rammer hus i Tel Avivs forstæder
+- Iran anklager Israel for hospitalsangreb; missilalarmer i Jerusalem
+
 ## 2026-03-12 kl. 14:17
 - Iranske støtter til krigen begynder at tvivle — lærere, ingeniører, butiksejere frygter Iran ender i kaos (BBC-feature)
 - Sydøstasien ramt: Indonesien og Vietnam lukker kontorer, begrænser brændstof — ny region direkte påvirket (Al Jazeera)
