@@ -1243,6 +1243,16 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 09:17
+- FN's Sikkerhedsråd vedtager resolution der fordømmer Irans angreb i Golfen — 135 lande bag
+- Italiens militærbase i Erbil, Kurdistan/Irak, ramt af missil — ingen tab
+- 8 dræbt i israelsk angreb på Beiruts havnefront (Ramlet al-Baida) — civile mål i central Beirut
+- Dubai-skyskraber ramt af drone nær Dubai Creek Harbour — brand slukket, ingen tilskadekomne
+- Bahrain: Kæmpe brand ved olie/brændstoftanke nær lufthavnen, røgalarm til borgere
+- Oman: brand i Salalah + evakuering af skibe ved olieeksportterminal
+- Internationale banker lukker Gulf-kontorer: HSBC, Citi, Standard Chartered
+- Oliepris kortvarigt over $100 trods IEA-rekordreservefrigivelse — falder let til ~$97
+
 ## 2026-03-12 kl. 08:17
 - Iran sætter 3 fredsbetingelser: Pezeshkian kræver anerkendelse af Tehrans rettigheder, krigsskadeserstatning og internationale garantier mod fremtidig aggression
 - Irak lukker olieudskibningsoperationer efter angreb mod to tankere nær Basra
