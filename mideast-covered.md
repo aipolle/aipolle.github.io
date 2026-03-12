@@ -1243,6 +1243,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 20:17
+- BBC-tracker: 18 fartøjer total angrebet i krigen; 6 på under 48 timer — Hormuz søangreb intensiveres
+- Irans FN-ambassadør: 1.348 civile dræbt (op fra 1.332); 200 kvinder, 168 børn (Minab)
+- Dag 13 fortsætter uden de-eskalering
+
 ## 2026-03-12 kl. 19:17
 - IRGC-talsmand truer eksplicit med $200/tønde olie — "Gør jer klar"
 - Iraghchi bekræfter Irans ældste bank bombet mens ansatte var inde — Iran truer finanssektor
