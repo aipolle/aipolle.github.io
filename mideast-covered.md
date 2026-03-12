@@ -1243,6 +1243,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar Airways: repatrieringsfly lørdag 7. marts til London, Paris, Madrid, Rom, Frankfurt; prioritet strandede familier/ældre/medicinsk kritiske
 - Dag 8 fortsætter — Iran ny missilbølge mod Israel; Teheran beboere beskriver "anden forfærdelige nat i træk" ved Mehrabad Airport
 
+## 2026-03-12 kl. 23:17
+- US militær tankfly styrtet ned i Irak — ikke nedskudt af fjendtlig eller venlig ild, redningsaktion i gang
+- Israel rammer Beiruts forstæder og Sydlibanon efter Hezbollah-raketangreb — 12 dræbt langs havnefronten
+
 ## 2026-03-12 kl. 22:17
 - Israel lancerer ny Teheran-angrebsbølge umiddelbart efter Mojtaba Khameneis første officielle statement (BBC Live)
 - Mojtaba Khameneis første statement læst på iransk statTV: bekræfter Hormuz-blokade fastholdes, angreb mod US-baser fortsætter
