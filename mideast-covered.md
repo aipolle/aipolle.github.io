@@ -1465,6 +1465,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 14:17
+- Hegseth: Mojtaba Khamenei "sandsynligvis lemlæstet" — fortsat ikke set offentligt
+- Israel angriber Beirut + Sydlibanon efter Hezbollah-angreb: 25+ dræbt, rammer nye kvarterer
+- US KC-135 tankfly: 4 besætningsmedlemmer dræbt, redningsaktion i gang i Irak (CENTCOM)
+
 ## 2026-03-13 kl. 13:17
 - NATO intercepterer TREDJE iransk missil i tyrkisk luftrum — stigende pres på NATO/Tyrkiet
 - Golfstater erklærer force majeure på olie/gas-leverancer — energijuridisk eskalering
