@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 23:17
+- Kurdiske eksilkrigere i Irak "klar til at gå hjem" — venter på at entre Iran, IRGC angriber oprørsmål i Irak
+- Ukraine + EU fordømmer USA's midlertidige lempelse af russiske oliesanktioner — Zelenskyy: "does not help peace"
+- Ukraine ny rolle: leverer droneekspertise og forsvar til USA og Golfstater mod iranske angreb
+
 ## 2026-03-13 kl. 22:17
 - USA sender Marines og yderligere krigsskibe til Mellemøsten (CBS/BBC) — enheder fra Japan-baserede styrker muligvis overflyttet
 - Mojtaba Khameneis første statement leveret via TV-vært, ikke direkte — iranere tvivler på hans autoritet og hvem der reelt styrer
