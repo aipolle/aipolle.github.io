@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 19:17
+- Trump advarer om at ramme Iran "very hard" i de kommende dage — Irans ledere deltager i Quds Day-marcher i Teheran
+- Mojtaba Khamenei fortsat ikke set offentligt — spørgsmål om hvem der reelt styrer
+- Dag 14 fortsætter uden de-eskalering
+
 ## 2026-03-13 kl. 18:17
 - Beirut havnefront: 12 dræbt langs Ramlet el-Baida efter israelske angreb som svar på Hezbollah-raketter
 - Iranere stiller spørgsmål om hvem der reelt styrer: Mojtaba Khameneis første statement leveret via TV-vært, ikke direkte
