@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 16:17
+- KC-135 opdatering: alle 6 besætningsmedlemmer bekræftet dræbt (CENTCOM)
+- Eksplosioner nær Quds Day-march i Teheran: 1 kvinde dræbt af shrapnel (Al Jazeera)
+- Iran afviser Trumps trussel om FIFA VM 2026-udelukkelse
+
 ## 2026-03-13 kl. 14:17
 - Hegseth: Mojtaba Khamenei "sandsynligvis lemlæstet" — fortsat ikke set offentligt
 - Israel angriber Beirut + Sydlibanon efter Hezbollah-angreb: 25+ dræbt, rammer nye kvarterer
