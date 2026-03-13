@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 21:17
+- Quds Day-masseprotester globalt: Kuala Lumpur, Jakarta, Kashmir, Srinagar — muslimske lande viser støtte til Iran
+- Qatars indenrigsminister: sikkerhedssituation "stabil", vil "ikke tøve" med at sikre Qatars stabilitet
+- BBC-analyse: "Mission accomplished?" — paralleller til Irak 2003 advarsler mod for tidlig sejrsretorik
+
 ## 2026-03-13 kl. 20:17
 - Luftangreb rammer Teheran mens Irans chefretsmyndighed giver live TV-interview ved Quds Day-marchen (Al Jazeera-video)
 - Netanyahu under stigende politisk pres hjemme: "regime change hopes fade" — BBC-analyse
