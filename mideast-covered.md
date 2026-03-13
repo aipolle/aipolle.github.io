@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 20:17
+- Luftangreb rammer Teheran mens Irans chefretsmyndighed giver live TV-interview ved Quds Day-marchen (Al Jazeera-video)
+- Netanyahu under stigende politisk pres hjemme: "regime change hopes fade" — BBC-analyse
+- Dag 14: ingen nye store angrebsbølger siden 19:17
+
 ## 2026-03-13 kl. 19:17
 - Trump advarer om at ramme Iran "very hard" i de kommende dage — Irans ledere deltager i Quds Day-marcher i Teheran
 - Mojtaba Khamenei fortsat ikke set offentligt — spørgsmål om hvem der reelt styrer
