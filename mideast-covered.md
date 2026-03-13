@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 18:17
+- Beirut havnefront: 12 dræbt langs Ramlet el-Baida efter israelske angreb som svar på Hezbollah-raketter
+- Iranere stiller spørgsmål om hvem der reelt styrer: Mojtaba Khameneis første statement leveret via TV-vært, ikke direkte
+- BBC-analyse: "Mission accomplished?" 2003-Bush-paralleller i medielandskabet
+
 ## 2026-03-13 kl. 17:17
 - Iran + Hezbollah lancerer FÆLLES missilangreb mod Israel — ny koordinering som én operation
 - Mojtaba Khamenei "sandsynligvis deformeret" (Hegseth: "likely disfigured")
