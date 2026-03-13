@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 22:17
+- USA sender Marines og yderligere krigsskibe til Mellemøsten (CBS/BBC) — enheder fra Japan-baserede styrker muligvis overflyttet
+- Mojtaba Khameneis første statement leveret via TV-vært, ikke direkte — iranere tvivler på hans autoritet og hvem der reelt styrer
+- Netanyahu under politisk pres: "regime change"-håb svinder ifølge BBC-analyse
+
 ## 2026-03-13 kl. 21:17
 - Quds Day-masseprotester globalt: Kuala Lumpur, Jakarta, Kashmir, Srinagar — muslimske lande viser støtte til Iran
 - Qatars indenrigsminister: sikkerhedssituation "stabil", vil "ikke tøve" med at sikre Qatars stabilitet
