@@ -1465,6 +1465,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 02:17
+- CENTCOM: 6.000 mål ramt i Iran — ny samlet opgørelse, ~60 skibe + 30 minelæggerfartøjer sænket/beskadiget
+- USA ophæver midlertidigt russiske oliesanktioner for olie allerede i transit — gyldigt til 11. april (Finansminister Bessent)
+- 6 franske soldater såret i droneangreb mod Erbil, Irak — nyt land med direkte militære tab
+- US undersøgelse: amerikanske styrker "sandsynligvis" ansvarlige for Minab-skoleangreb (168 dræbt), ikke endelig konklusion
+
 ## 2026-03-13 kl. 01:17
 - Ali Larijani truer USA for "grov fejlberegning" — "hele regionen går mørkt" ved angreb på Irans strøminfrastruktur
 - US redningsaktion ved tankfly-styrt i Irak fortsat i gang — ikke skudt ned
