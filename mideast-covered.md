@@ -1465,6 +1465,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 08:17
+- Netanyahu første tale siden krigsstart: Israel "stærkere end nogensinde", krigen forhindrede Iran i at gøre nukleare projekter "immune"
+- Islamisk Modstand i Irak kræver ansvar for US KC-135-nedskydning — modsiger US militærs "ikke fjendtlig ild"-udmelding
+- Israel: Iran affyrer ny missilbølge fredag morgen
+- Britisk mand sigtet i Dubai for filmning af iranske missiler
+
 ## 2026-03-13 kl. 07:17
 - Missilangreb på Zarzir, nordlige Israel (nær Nazareth): 58 behandlet — 1 i moderat tilstand (shrapnel), 57 lettere (glasskader)
 - Olieprisen over $100 i asiatisk handel; USA giver 30-dages licens til russisk sanktioneret olie på skibe
