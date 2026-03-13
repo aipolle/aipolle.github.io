@@ -1465,6 +1465,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 12:17
+- NATO nedskyder iransk ballistisk missil i tyrkisk luftrum
+- Israel angriber tæt på Quds Day-march i central Teheran (eksplosioner nær Enghelab Square)
+- FN's Guterres ankommer til Beirut på solidaritetsbesøg
+- Merz: "Tyskland ønsker ikke at blive del af Iran-krigen"
+- Israelsk angreb dræber 8 i Sidon, Sydlibanon
+- UK UM Cooper besøger britiske tropper i Saudi Arabia — anklager Rusland+Iran for at "kapre verdensøkonomien"
+- Olierigbrand undersøges nord for Jebal Ali, UAE
+
 ## 2026-03-13 kl. 11:17
 - US KC-135 tankfly: 4 dræbt bekræftet, 2 savnede — CENTCOM; Islamisk Modstand i Irak fastholder nedskydning
 - Sri Lanka repatrierer 84 iranske sømænds lig fra IRIS Dena; 32 overlevende forbliver
