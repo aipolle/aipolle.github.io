@@ -89,6 +89,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - 30-årig hvidvasker 78 millioner kroner — kurér i netværk, Retten i Odense, 3 år ubetinget, udvisning 12 år, 665.000 kr. konfiskeret, 21-årig i samme sag: 120 millioner
 - Restaurant Flammen rekord 2025 — 1,3 millioner kunder, overskud 26 mio. kr. efter skat, stigende fødevarepriser, 4 nye restauranter i 2026, første i Sverige
 
+## 2026-03-13 (middag)
+- Danmark frigiver 124.600 tønder nødolie — Lars Aagaard (M), IEA-anmodning, Hormuzstrædet, oliepris 101 dollars/tønde, 80 dages reserve
+- Renten stiger — ECB forventes at hæve 0,25 procentpoint inden juni, variable lån, Mikkel Høegh (Jyske Bank), Jan Størup Nielsen (Nordea), inflationsfrygt efter Iran-krig
+
 ## 2026-03-13 (morgen)
 - SF ni kandidater forbudt reklame — Jacob Mark, EU-regler, Meta/Facebook/Instagram, Pia Olsen Dyhr, mundkurv på kandidater
 - Ulveadvarsel Vestjylland — børn under ti år ikke alene, borgermøde Oksbøl, én meter fra kvinde Blåvand, 73-årig sigtet for at skyde ulv, Naturstyrelsen
