@@ -1465,6 +1465,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 01:17
+- Ali Larijani truer USA for "grov fejlberegning" — "hele regionen går mørkt" ved angreb på Irans strøminfrastruktur
+- US redningsaktion ved tankfly-styrt i Irak fortsat i gang — ikke skudt ned
+- Mojtaba Khameneis første fulde statement: Hormuz-blokade fastholdes, angreb mod US-baser fortsætter
+
 ## 2026-03-13 kl. 00:17
 - US militær bekræfter: ikke klar til at eskorte olietankere gennem Hormuzstrædet — Mojtaba Khamenei fastholder blokaden, Trump hævder USA tjener på høje oliepriser
 - Terrorangreb ved synagoge i Michigan, USA: bilvåben + skyderi ved Temple Israel, West Bloomfield Township — gerningsmand fundet død; FBI undersøger som terrorhandling
