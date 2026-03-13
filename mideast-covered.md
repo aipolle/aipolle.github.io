@@ -1465,6 +1465,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 15:17
+- Drone-angreb mod Omans Sohar-provins: 2 udenlandske statsborgere dræbt, direkte angreb bekræftet (Al Jazeera)
+- Saudi Arabia ramt af nye droner (Al Jazeera)
+- Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
+- KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
+
 ## 2026-03-13 kl. 14:17
 - Hegseth: Mojtaba Khamenei "sandsynligvis lemlæstet" — fortsat ikke set offentligt
 - Israel angriber Beirut + Sydlibanon efter Hezbollah-angreb: 25+ dræbt, rammer nye kvarterer
