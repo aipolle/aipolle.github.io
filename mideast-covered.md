@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-13 kl. 17:17
+- Iran + Hezbollah lancerer FÆLLES missilangreb mod Israel — ny koordinering som én operation
+- Mojtaba Khamenei "sandsynligvis deformeret" (Hegseth: "likely disfigured")
+- Netanyahu under politisk pres hjemme — BBC: "regime change hopes fade"
+- 25+ dræbt i Libanon; Israel rammer nye Beirut-kvarterer aldrig ramt i denne konflikt eller 2024-krigen
+
 ## 2026-03-13 kl. 16:17
 - KC-135 opdatering: alle 6 besætningsmedlemmer bekræftet dræbt (CENTCOM)
 - Eksplosioner nær Quds Day-march i Teheran: 1 kvinde dræbt af shrapnel (Al Jazeera)
