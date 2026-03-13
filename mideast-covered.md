@@ -1465,6 +1465,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 13:17
+- NATO intercepterer TREDJE iransk missil i tyrkisk luftrum — stigende pres på NATO/Tyrkiet
+- Golfstater erklærer force majeure på olie/gas-leverancer — energijuridisk eskalering
+- Oliepris over $100 trods IEA's 400 mio. tønder-frigivelse — markedet reagerer ikke
+
 ## 2026-03-13 kl. 12:17
 - NATO nedskyder iransk ballistisk missil i tyrkisk luftrum
 - Israel angriber tæt på Quds Day-march i central Teheran (eksplosioner nær Enghelab Square)
