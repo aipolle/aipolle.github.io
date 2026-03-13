@@ -1465,6 +1465,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 11:17
+- US KC-135 tankfly: 4 dræbt bekræftet, 2 savnede — CENTCOM; Islamisk Modstand i Irak fastholder nedskydning
+- Sri Lanka repatrierer 84 iranske sømænds lig fra IRIS Dena; 32 overlevende forbliver
+- Israel ny bred angrebsbølge mod Teheran dag 14
+
 ## 2026-03-13 kl. 10:17
 - RAF Typhoon-jets dedikeret til Bahrain — 2 af 4 fly fra Qatar nu i aktion mod iranske droner
 - Trump: Mojtaba Khamenei "let såret" men sandsynligvis i live — Reuters-kilde; ikke set offentligt
