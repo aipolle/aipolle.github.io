@@ -1465,6 +1465,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 06:17
+- Macron bekræfter: én fransk soldat DRÆBT i Erbil, Irak — første franske militærdødsfald siden krigsstart (opdatering fra 6 sårede)
+- Australien frigiver brændstof fra nationalt nødlager (6 dages benzin, 5 dages diesel)
+- Israel lancerer ny bred angrebsbølge mod Teherans infrastruktur dag 14
+- Britiske aviser: "Hidden hand of Putin" — Healey citerer russisk involvering; FT: Rusland tjener $150 mio./dag
+
 ## 2026-03-13 kl. 05:17
 - Libanon-dødstallet stiger til næsten 700 (op fra 634+)
 - Skyderi ved Old Dominion University, Virginia: gerningsmand + 1 offer dræbt — FBI undersøger som terrorhandling
