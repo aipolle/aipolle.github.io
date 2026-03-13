@@ -1465,6 +1465,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 09:17
+- 2 dræbt af drone-debris i Oman — ny hændelse
+- Missilfragmenter fundet i Adana, Tyrkiet — TUR forsvarsmin. ingen kommentar endnu
+- 2.975 israelere såret siden krigsstart (opdateret total)
+- Iran arresterer 4 for samarbejde med fjendtlige netværk
+- Israel lancerer nye angreb mod Teheran dag 14
+- Oliepris over $100 trods IEA's 400 mio. tønder-frigivelse
+
 ## 2026-03-13 kl. 08:17
 - Netanyahu første tale siden krigsstart: Israel "stærkere end nogensinde", krigen forhindrede Iran i at gøre nukleare projekter "immune"
 - Islamisk Modstand i Irak kræver ansvar for US KC-135-nedskydning — modsiger US militærs "ikke fjendtlig ild"-udmelding
