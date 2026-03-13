@@ -89,6 +89,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - 30-årig hvidvasker 78 millioner kroner — kurér i netværk, Retten i Odense, 3 år ubetinget, udvisning 12 år, 665.000 kr. konfiskeret, 21-årig i samme sag: 120 millioner
 - Restaurant Flammen rekord 2025 — 1,3 millioner kunder, overskud 26 mio. kr. efter skat, stigende fødevarepriser, 4 nye restauranter i 2026, første i Sverige
 
+## 2026-03-13 (morgen)
+- SF ni kandidater forbudt reklame — Jacob Mark, EU-regler, Meta/Facebook/Instagram, Pia Olsen Dyhr, mundkurv på kandidater
+- Ulveadvarsel Vestjylland — børn under ti år ikke alene, borgermøde Oksbøl, én meter fra kvinde Blåvand, 73-årig sigtet for at skyde ulv, Naturstyrelsen
+- Messerschmidt benzin-valgstunt — betaler benzin over 9,50 kr/liter, syv tankstationer, "kender ikke beløbet", Dansk Folkeparti, valgkamp 24. marts
+
 ## 2026-03-12 (morgen)
 - Carlsberg Cambodja reklamer — "Angkor Sky", unge under 25 i markedsføring, strider mod Carlsbergs eget kodeks, Danwatch-afsløring, Ulrik Becker alkoholforsker kritik
 - Nina Østergaard / Dansk Erhverv bestyrelse — datter af Torben Østergaard (Nordic Waste-skandalen), USTC, 500 mio. kr. oprydningsregning, 3 måneder efter USTC-medlemskab, Brian Mikkelsen
