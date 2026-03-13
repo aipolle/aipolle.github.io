@@ -1465,6 +1465,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - G7-ledermøde onsdag — Macron leder, enighed med Carney om koordination
 - Ukrainske droneeksperter bekræftet på vej til Golfstaterne (Zelensky)
 
+## 2026-03-13 kl. 05:17
+- Libanon-dødstallet stiger til næsten 700 (op fra 634+)
+- Skyderi ved Old Dominion University, Virginia: gerningsmand + 1 offer dræbt — FBI undersøger som terrorhandling
+- Al Jazeera: Trump-admin uden klar exitstrategi — modstridende udmeldinger om mål og tidshorisont
+
 ## 2026-03-13 kl. 02:17
 - CENTCOM: 6.000 mål ramt i Iran — ny samlet opgørelse, ~60 skibe + 30 minelæggerfartøjer sænket/beskadiget
 - USA ophæver midlertidigt russiske oliesanktioner for olie allerede i transit — gyldigt til 11. april (Finansminister Bessent)
