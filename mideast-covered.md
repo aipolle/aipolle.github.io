@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 04:17
+- Iran truer med angreb på oliefirmaer der samarbejder med USA — svar på Kharg Island-strejke
+- EU-ledere (Costa, Zelensky, Macron, Carney, Merz) fordømmer USA's russiske oliesanktionslempelse
+- UAE arresterer 55 for at filme missilinterceptioner — omgående retsforfølgelse
+- Trump: "kan ikke give tidshorisont" for krigens afslutning — "as long as it's necessary"
+
 ## 2026-03-14 kl. 02:17
 - KC-135 tankfly: alle 6 besætningsmedlemmer bekræftet dræbt (CENTCOM) — opdatering fra 4+2 savnede; Islamisk Modstand i Irak fastholder nedskydning
 - Libanon-dødstallet stiger til 773 (op fra ~700) — Israel ødelægger bro, truer med "Gaza-skala ødelæggelse", udvider til nye Beirut-kvarterer
