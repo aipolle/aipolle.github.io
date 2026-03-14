@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 08:17
+- USA bomber Kharg Island — militære mål ramt, ingen skade på olieinfrastruktur (iransk statsmedia); Iran truer med angreb på US-tilknyttede energifirmaer
+- US ambassade i Bagdad ramt af missil — røg, helipad ramt; USA beordrer ikke-nødvendigt personale ud af Oman
+- Qatar evakuerer centrale Doha-distrikt (Musheireb) — US erhvervsinteresser som mål; Qatar intercepterede 2 missilangreb natten til lørdag
+- Mindst 12 sundhedspersonale dræbt i israelsk angreb på klinik i Burj Qalawiya, Libanon — Libanon-dødstallet 773+
+
 ## 2026-03-14 kl. 04:17
 - Iran truer med angreb på oliefirmaer der samarbejder med USA — svar på Kharg Island-strejke
 - EU-ledere (Costa, Zelensky, Macron, Carney, Merz) fordømmer USA's russiske oliesanktionslempelse
