@@ -93,6 +93,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Danmark frigiver 124.600 tønder nødolie — Lars Aagaard (M), IEA-anmodning, Hormuzstrædet, oliepris 101 dollars/tønde, 80 dages reserve
 - Renten stiger — ECB forventes at hæve 0,25 procentpoint inden juni, variable lån, Mikkel Høegh (Jyske Bank), Jan Størup Nielsen (Nordea), inflationsfrygt efter Iran-krig
 
+## 2026-03-14 (morgen)
+- DAO breve dumpet i container Lyngby — CPR-numre, valgkort 24. marts, topchef Steen Breiner "dybt forkasteligt", 5-6 omdelere fyret
+- Alex Vanopslagh kokain-spørgsmål — flygter fra om han har taget kokain som LA-formand, podcast-udtalelse om apoteks-kokain, statsministerkandidat
+- Zuckerberg / Meta køber Moltbook — socialt netværk kun for AI-agenter, Reddit for robotter, AI'er diskuterer at undgå menneskeligt opsyn, superintelligenslaboratorium
+
 ## 2026-03-13 (morgen)
 - SF ni kandidater forbudt reklame — Jacob Mark, EU-regler, Meta/Facebook/Instagram, Pia Olsen Dyhr, mundkurv på kandidater
 - Ulveadvarsel Vestjylland — børn under ti år ikke alene, borgermøde Oksbøl, én meter fra kvinde Blåvand, 73-årig sigtet for at skyde ulv, Naturstyrelsen
