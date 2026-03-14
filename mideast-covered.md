@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 02:17
+- KC-135 tankfly: alle 6 besætningsmedlemmer bekræftet dræbt (CENTCOM) — opdatering fra 4+2 savnede; Islamisk Modstand i Irak fastholder nedskydning
+- Libanon-dødstallet stiger til 773 (op fra ~700) — Israel ødelægger bro, truer med "Gaza-skala ødelæggelse", udvider til nye Beirut-kvarterer
+- BBC shipping-tracker: 18 fartøjer total angrebet, 6 på under 48 timer — Hormuz-søangreb eskalerer
+- RAF Typhoon-jets i aktiv aktion over Bahrain — 2 af 4 fly fra Qatar nu dedikeret
+
 ## 2026-03-14 kl. 01:17
 - USA bomber Kharg Island — Trump: "totally obliterated every MILITARY target"; 90% af Irans olieeksport; truer med at ramme olieinfrastrukturen ved Hormuz-blokade
 - Iran + Hezbollah fælles missilangreb mod Israel — IDF shelter-varsler aktiveret
