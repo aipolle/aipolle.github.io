@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 10:17
+- USA forbereder operationer mod flere iranske øer (Al Jazeera)
+- Mindst 112 dræbt i Irans Kurdistan-provins — iransk embedsmand bekræfter
+- Japan frigiver olie fra nationale nødlagre — slutter sig til IEA-koordineret frigivelse
+- Regional fordrivelse accelererer — ny Al Jazeera-opdatering
+
 ## 2026-03-14 kl. 09:17
 - IRGC 48. angrebsbølge mod Israel — simultant med Hezbollah
 - IDF evakueringsadvarsel for industrizone i Tabriz, vestlige Iran — angreb varslet "inden for få timer"
