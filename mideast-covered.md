@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 09:17
+- IRGC 48. angrebsbølge mod Israel — simultant med Hezbollah
+- IDF evakueringsadvarsel for industrizone i Tabriz, vestlige Iran — angreb varslet "inden for få timer"
+- IDF rammer Hezbollah-våbendepot i Al-Majadel, Sydlibanon
+
 ## 2026-03-14 kl. 08:17
 - USA bomber Kharg Island — militære mål ramt, ingen skade på olieinfrastruktur (iransk statsmedia); Iran truer med angreb på US-tilknyttede energifirmaer
 - US ambassade i Bagdad ramt af missil — røg, helipad ramt; USA beordrer ikke-nødvendigt personale ud af Oman
