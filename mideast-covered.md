@@ -1476,6 +1476,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Hezbollah afviser diplomati: "fast besluttet på at fortsætte kampen" trods FN-pres; Libanons regering forbereder delegation til Israel (ikke inkl. Hezbollah)
 - IRGC: Hormuzstrædet lukket for "tankskibe og fjenders skibe" — Trump hævder "mange lande" sender krigsskibe; ingen bekræftet endnu
 
+## 2026-03-15 kl. 00:17
+- USA advarer officielt sine statsborgere om at forlade Irak — ny land-specifik evakueringsopfordring
+- Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
+- Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
+
 ## 2026-03-14 kl. 22:17
 - FN-chef Guterres i Beirut: "ingen militær løsning, kun diplomati" for Libanon — Libanon forbereder delegation til forhandlinger med Israel
 - To yderligere iranske kvindefodboldspillere trækker australsk asylansøgning tilbage — kun tre af fem spillere fortsat i safe house
