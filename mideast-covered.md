@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 21:17
+- To indiske skibe krydser Hormuzstrædet med Irans tilladelse — første undtagelse fra blokaden; diplomatisk signal til Indien
+- Israel bomber Basij-checkpoints i Teheran (Al Jazeera)
+- Trump fastholder krav om at UK/Frankrig/Japan/Sydkorea/Kina sender krigsskibe til Hormuz — ingen bekræftelse
+- Irans sjette angrebsbølge mod Israel bekræftet (dag 15 fortsat)
+
 ## 2026-03-14 kl. 19:17
 - Irans sjette angrebsbølge mod Israel bekræftet af IDF lørdag aften (dag 15)
 - Kuwaitisk luftbase ramt af to iranske droner
