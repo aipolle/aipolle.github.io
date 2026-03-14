@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 16:17
+- Trump opfordrer UK, Frankrig, Japan, Sydkorea og Kina til at sende krigsskibe til Hormuzstrædet — "one way or the other" åbent; hævder 100% af Irans militære kapacitet ødelagt
+- Ny iransk missilbølge mod Israel — sirener i Jerusalem, tilskadekomne i Eilat
+- Iran: 200+ studerende og lærere dræbt siden krigsstart; 120 skoler beskadiget; Azadi Tower ramt; 42.914 civile ejendomme beskadiget
+
 ## 2026-03-14 kl. 15:17
 - Fujairah Havn-brand bekræftet som droneangreb — BBCs live-topoverskrift specificerer årsag (drone rammer UAE-havn)
 - Iran intensiverer angreb mod Golfstater dag 15 — Saudi Arabia og Qatar ramt, interceptions rapporteret
