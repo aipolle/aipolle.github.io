@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 19:17
+- Irans sjette angrebsbølge mod Israel bekræftet af IDF lørdag aften (dag 15)
+- Kuwaitisk luftbase ramt af to iranske droner
+- Redningshold i Teheran hiver familier ud af ruinerne (Al Jazeera-video)
+
 ## 2026-03-14 kl. 18:17
 - Ny iransk missilbølge mod Israel — nye sirener i Jerusalem, IDF bekræfter fortsat angreb (ny bølge efter 16:17-Eilat-angrebet)
 - 84 IRIS Dena-sømænds lig repatrieres fra Sri Lanka til Iran — 32 overlevende forbliver; torpederet 4. marts af US ubåd
