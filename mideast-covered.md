@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 12:17
+- Irak søger alternativer til Hormuzstrædet (Ceyhan-rørledning, Saudi Arabia-ruter)
+- Japan beder Australien øge LNG-produktion — energidiplomati som svar på Hormuz-blokade
+- Israel bekræfter ny interception af iranske missiler — dag 15 fortsætter
+- Iransk embedsmand: olieeksport fra Kharg Island uafbrudt trods USA-angreb
+
 ## 2026-03-14 kl. 11:17
 - IRGC erklærer US-tilknyttede steder i UAE som "legitime mål" efter Kharg Island-angreb
 - Iran truer med at reducere US-tilknyttede olieanlæg til "aske" — modsvar på Kharg-angreb
