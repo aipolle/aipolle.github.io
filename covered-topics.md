@@ -93,6 +93,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Danmark frigiver 124.600 tønder nødolie — Lars Aagaard (M), IEA-anmodning, Hormuzstrædet, oliepris 101 dollars/tønde, 80 dages reserve
 - Renten stiger — ECB forventes at hæve 0,25 procentpoint inden juni, variable lån, Mikkel Høegh (Jyske Bank), Jan Størup Nielsen (Nordea), inflationsfrygt efter Iran-krig
 
+## 2026-03-14 (middag)
+- C25 / danske aktier — Danmarks aktier dårligst i Europa, -9% i 2026, Novo Nordisk trækker markedet ned, Norge +19% pga. Iran-krig
+- Malene Pedersen bussex-chok — mand onanerer på 5C på Amager, buschauffør griber ikke ind, slår ud med armene, Movia fyrer chauffør efterfølgende
+
 ## 2026-03-14 (morgen)
 - DAO breve dumpet i container Lyngby — CPR-numre, valgkort 24. marts, topchef Steen Breiner "dybt forkasteligt", 5-6 omdelere fyret
 - Alex Vanopslagh kokain-spørgsmål — flygter fra om han har taget kokain som LA-formand, podcast-udtalelse om apoteks-kokain, statsministerkandidat
