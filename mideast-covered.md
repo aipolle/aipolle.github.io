@@ -1471,6 +1471,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 11:17
+- IRGC erklærer US-tilknyttede steder i UAE som "legitime mål" efter Kharg Island-angreb
+- Iran truer med at reducere US-tilknyttede olieanlæg til "aske" — modsvar på Kharg-angreb
+- Iransk Røde Halvmåne: 36.500 civile enheder beskadiget (stigning fra 19.000 den 10. marts)
+- Bahrain opdateret total: 124 missiler + 203 droner intercepteret siden krigsstart
+- Oliepriser over $100/tønde — IEA-frigivelse dæmper ikke markedet; US markeder rystet
+- Pentagon varsler yderligere optrappning af kampagnen — dag 15
+- Analytikere: USA's "no quarter, no mercy"-erklæring krænker folkeretten
+
 ## 2026-03-14 kl. 10:17
 - USA forbereder operationer mod flere iranske øer (Al Jazeera)
 - Mindst 112 dræbt i Irans Kurdistan-provins — iransk embedsmand bekræfter
