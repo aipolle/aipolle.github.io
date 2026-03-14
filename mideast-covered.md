@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 23:17
+- Libanon-dødstallet over 800 (Lebanese health ministry) + 800.000+ fordrevet — FN's Guterres: "stop kampen, stop bombningen"
+- Hezbollah afviser diplomati: "fast besluttet på at fortsætte kampen" trods FN-pres; Libanons regering forbereder delegation til Israel (ikke inkl. Hezbollah)
+- IRGC: Hormuzstrædet lukket for "tankskibe og fjenders skibe" — Trump hævder "mange lande" sender krigsskibe; ingen bekræftet endnu
+
 ## 2026-03-14 kl. 22:17
 - FN-chef Guterres i Beirut: "ingen militær løsning, kun diplomati" for Libanon — Libanon forbereder delegation til forhandlinger med Israel
 - To yderligere iranske kvindefodboldspillere trækker australsk asylansøgning tilbage — kun tre af fem spillere fortsat i safe house
