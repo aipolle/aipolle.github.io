@@ -1471,6 +1471,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 22:17
+- FN-chef Guterres i Beirut: "ingen militær løsning, kun diplomati" for Libanon — Libanon forbereder delegation til forhandlinger med Israel
+- To yderligere iranske kvindefodboldspillere trækker australsk asylansøgning tilbage — kun tre af fem spillere fortsat i safe house
+
 ## 2026-03-14 kl. 21:17
 - To indiske skibe krydser Hormuzstrædet med Irans tilladelse — første undtagelse fra blokaden; diplomatisk signal til Indien
 - Israel bomber Basij-checkpoints i Teheran (Al Jazeera)
