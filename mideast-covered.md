@@ -1471,6 +1471,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 13:17
+- Fujairah Havn (UAE) ramt — enorme røgskyer, brand ved en af Mellemøstens største olielagringsterminalerne (BBC breaking)
+- Trump: alle militære mål på Kharg Island "totalt ødelagt" — Iran hævder olieinfrastrukturen intakt
+- Iran truer med at reducere US-tilknyttede olieanlæg til "aske" ved yderligere Kharg-angreb
+- Dag 15: USA bruger Kharg-angrebet som pres mod Irans Hormuz-blokade — truer med olieinfrastruktur næste
+
 ## 2026-03-14 kl. 12:17
 - Irak søger alternativer til Hormuzstrædet (Ceyhan-rørledning, Saudi Arabia-ruter)
 - Japan beder Australien øge LNG-produktion — energidiplomati som svar på Hormuz-blokade
