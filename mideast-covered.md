@@ -1471,6 +1471,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 01:17
+- USA bomber Kharg Island — Trump: "totally obliterated every MILITARY target"; 90% af Irans olieeksport; truer med at ramme olieinfrastrukturen ved Hormuz-blokade
+- Iran + Hezbollah fælles missilangreb mod Israel — IDF shelter-varsler aktiveret
+- USA sender Marines fra Japan (31. MEU, ~5.000 mand + USS Tripoli) — mulig Kharg Island-landing overvejet
+- Qatar evakueringsordre for dele af landet; Bahrain shelter-alarm
+- F1 Grand Prix i Bahrain og Saudi Arabia aflyses næste måned
+
 ## 2026-03-13 kl. 23:17
 - Kurdiske eksilkrigere i Irak "klar til at gå hjem" — venter på at entre Iran, IRGC angriber oprørsmål i Irak
 - Ukraine + EU fordømmer USA's midlertidige lempelse af russiske oliesanktioner — Zelenskyy: "does not help peace"
