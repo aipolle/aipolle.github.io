@@ -1471,6 +1471,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Britisk ambassade advarer UK-borgere i UAE: fotografer/film ikke missilangreb (BBC)
 - KC-135-ulykke i Irak: redningsaktion igangværende, 4 dræbt; Islamisk Modstand i Irak fastholder nedskydning
 
+## 2026-03-14 kl. 14:17
+- Hamas opfordrer Iran til at stoppe angreb på Golfstater — bekræfter dog Irans ret til selvforsvar
+- Fujairah Havn-brand fortsat i fokus
+- Dag 15: Iran fortsætter intensiverede angreb mod Golfstater (Saudi Arabia, Qatar)
+
 ## 2026-03-14 kl. 13:17
 - Fujairah Havn (UAE) ramt — enorme røgskyer, brand ved en af Mellemøstens største olielagringsterminalerne (BBC breaking)
 - Trump: alle militære mål på Kharg Island "totalt ødelagt" — Iran hævder olieinfrastrukturen intakt
