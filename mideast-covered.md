@@ -1481,6 +1481,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 17:17
+- Iransk minister: "Iran har ikke bedt om våbenhvile og ser ingen grund til forhandlinger med USA" — direkte modsvar til Trumps deal-påstand (BBC live-tophistorie)
+- Israelske angreb mod Iran og Libanon fortsætter dag 16; UAE luftforsvar aktivt
+- Iransk regering: over 42.000 civile steder beskadiget siden krigsstart (Al Jazeera)
+
 ## 2026-03-15 kl. 16:17
 - Overnight israelske angreb dræber 4 i Libanon (Al Jazeera)
 - Israel "wide-scale" angreb mod Iran + UAE intercepterer ny runde iranske missiler/droner (BBC live)
