@@ -1481,6 +1481,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 16:17
+- Overnight israelske angreb dræber 4 i Libanon (Al Jazeera)
+- Israel "wide-scale" angreb mod Iran + UAE intercepterer ny runde iranske missiler/droner (BBC live)
+- Trump fastholder: USA ikke klar til aftale med Iran
+
 ## 2026-03-15 kl. 15:17
 - Tusinder protesterer i Paris mod US-israelske militæroperationer — 85+ demonstrationer over hele Frankrig søndag (Al Jazeera)
 - Demonstranter samles foran Det Hvide Hus i Washington mod krigen mod Iran (Al Jazeera)
