@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 22:17
+- Starmer-Trump telefonopkald om Hormuzstrædets genåbning og global skibsfart
+- Irans UM Araghchi afviser at Iran har bedt om våbenhvile — modsiger Trumps deal-påstand
+- Israel: fortsat "tusindvis af mål" i Iran, dag 16 ingen de-eskalering
+- Israelske natangreb dræber 4 i Libanon
+
 ## 2026-03-15 kl. 21:17
 - Frankrig tilbyder eksplicit mægling i Libanon-Israel-forhandlinger — nyt diplomatisk initiativ fra Paris
 - Irans kaptajn i kvindefodboldlandshold trækker australsk asylansøgning tilbage — nu 5 af 7 spillere vender hjem
