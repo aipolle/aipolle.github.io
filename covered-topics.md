@@ -97,6 +97,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - C25 / danske aktier — Danmarks aktier dårligst i Europa, -9% i 2026, Novo Nordisk trækker markedet ned, Norge +19% pga. Iran-krig
 - Malene Pedersen bussex-chok — mand onanerer på 5C på Amager, buschauffør griber ikke ind, slår ud med armene, Movia fyrer chauffør efterfølgende
 
+## 2026-03-15 (morgen)
+- Quittr anti-gokke-app datalæk — 600.000 brugere, onanivaner og følelser lækket, 100.000 mindreårige, Alex Slater og Connor McLaren, "app-mafiaen", 3,2 mio. kr./md, sikkerhedsekspert ignoreret i måneder
+- DAO-kaosset fortsætter — breve til læger dukker op i frittilgængelige skraldespande flere steder i landet, indhold "dybt rystende"
+
 ## 2026-03-14 (morgen)
 - DAO breve dumpet i container Lyngby — CPR-numre, valgkort 24. marts, topchef Steen Breiner "dybt forkasteligt", 5-6 omdelere fyret
 - Alex Vanopslagh kokain-spørgsmål — flygter fra om han har taget kokain som LA-formand, podcast-udtalelse om apoteks-kokain, statsministerkandidat
