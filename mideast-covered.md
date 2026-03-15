@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 15:17
+- Tusinder protesterer i Paris mod US-israelske militæroperationer — 85+ demonstrationer over hele Frankrig søndag (Al Jazeera)
+- Demonstranter samles foran Det Hvide Hus i Washington mod krigen mod Iran (Al Jazeera)
+- Israel dræber palæstinensisk par og to børn (Mohammed, 5 år, og Othman, 7 år) på Vestbredden — palæstinensisk sundhedsministerium bekræfter (BBC)
+- USA og Kina holder handelsforhandlinger i Paris — baner vej for Trump-Xi-topmøde; Iran-krigen i baggrunden af stormagtsforholdet (Al Jazeera)
+
 ## 2026-03-15 kl. 14:17
 - UK energiminister Miliband: UK undersøger "alle muligheder" inkl. minesvejerdrones for Hormuzstrædet; vil gribe ind på energiregninger "om nødvendigt"
 - Kuwait + Qatar topdiplomater diskuterer eskalerende militære spændinger i regionen
