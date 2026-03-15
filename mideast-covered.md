@@ -1481,6 +1481,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 13:17
+- Ny iransk missilbølge mod Israel (IDF bekræfter, BBC breaking)
+- US efterretning: Ali Khamenei troede Mojtaba var "ikke særlig klog" og ukvalificeret (CBS)
+- Israels UM Saar afviser lav interceptorforsyning + Libanon-fredsforhandlinger
+- Norge: US-Israel krigsplan "uklart" som krigen eskalerer
+- Israel godkender nødforsvarsbevilling
+- MotoGP udskyder Qatar GP til november
+
 ## 2026-03-15 kl. 12:17
 - Larijani hævder "Epsteins bande" planlægger 9/11-lignende hændelse for at give Iran skylden (Al Jazeera)
 - Isfahan ramt igen, missilsirener i Israel — dag 16 fortsætter
