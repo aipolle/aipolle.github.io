@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 05:17
+- Fujairah Havn brand fortsat brændende dag 16 (droneangreb 14. marts, brand ikke slukket)
+- Trump gentager krav om allierede krigsskibe til Hormuz (UK, Frankrig, Japan, Sydkorea, Kina)
+- USA fastholder evakueringsopfordring til borgere i Irak
+- Dag 16 ingen ny stor eskalering natten til søndag
+
 ## 2026-03-15 kl. 01:17
 - Trump-administrationen truer nyhedsmedier for kritisk Iran-dækning — FCC-formand varsler licensinddragelse for "forvrænget" dækning
 - Libanon-dødstallet over 800, 800.000+ fordrevet — Guterres: "stop kampen, stop bombningen"
