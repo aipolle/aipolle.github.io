@@ -1487,6 +1487,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israel: fortsat "tusindvis af mål" i Iran, dag 16 ingen de-eskalering
 - Israelske natangreb dræber 4 i Libanon
 
+## 2026-03-15 kl. 23:17
+- Irans ambassadør i Saudi Arabia afviser angreb på saudiske olieanlæg, siger relationer "skrider naturligt fremad"
+- UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
+- Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
+
 ## 2026-03-15 kl. 21:17
 - Frankrig tilbyder eksplicit mægling i Libanon-Israel-forhandlinger — nyt diplomatisk initiativ fra Paris
 - Irans kaptajn i kvindefodboldlandshold trækker australsk asylansøgning tilbage — nu 5 af 7 spillere vender hjem
