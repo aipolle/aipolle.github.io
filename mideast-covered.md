@@ -1481,6 +1481,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 18:17
+- US-italiensk fællesbase Ali Al Salem i Kuwait ramt af drone — alt personel uskadt
+- Iran FM Araghchi: Iran "åben for lande der vil tale" om sikker Hormuz-passage — diplomatisk signal
+- Irans sidste telekomnetværk (AS12880) kollapseret — fuldstændig blackout dag 16 (NetBlocks)
+- IEA: 400 mio. tønder nødolie "vil snart flyde" fra 32 lande; tilgængeligt umiddelbart i Asien/Oceanien
+- US Hassett: $12 mia. brugt, "ahead of schedule", 4-6 uger fra start
+- US UN-ambassadør Waltz: Irans atomprogram "uacceptabel trussel mod verden"
+
 ## 2026-03-15 kl. 17:17
 - Iransk minister: "Iran har ikke bedt om våbenhvile og ser ingen grund til forhandlinger med USA" — direkte modsvar til Trumps deal-påstand (BBC live-tophistorie)
 - Israelske angreb mod Iran og Libanon fortsætter dag 16; UAE luftforsvar aktivt
