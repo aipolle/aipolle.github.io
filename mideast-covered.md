@@ -1481,6 +1481,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 10:17
+- Araghchi bekræfter Mojtaba Khamenei "ved godt helbred" og "fuldt i kontrol" — Hormuz åbent for ikke-fjender, ingen fredsinitiativ på bordet
+- IRGC's 52. angrebsbølge — truer med at "forfølge og dræbe" Netanyahu
+- Israel "wide-scale" angreb mod vestlige Iran; skader i Holon syd for Tel Aviv
+- Trump til NBC: Iran ville "lave deal" men vilkår ikke gode nok; truer med at ramme Kharg Island "for sjov"
+- Saudi Arabia 26 droner nedskudt; UAE aktiveret; USA evakuerer ikke-nødvendigt personale fra Oman
+- 20 anholdt i Urmia for angiveligt at have delt militærpositioner med Israel
+
 ## 2026-03-15 kl. 09:17
 - US-israelske angreb dræber 15 ved fabrik i Isfahan (Al Jazeera)
 - Iranske kvindefodboldspillere i Australien: nu 4 af 7 trukket asylansøgning — 3 fortsat i safe house
