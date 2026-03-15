@@ -1481,6 +1481,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 09:17
+- US-israelske angreb dræber 15 ved fabrik i Isfahan (Al Jazeera)
+- Iranske kvindefodboldspillere i Australien: nu 4 af 7 trukket asylansøgning — 3 fortsat i safe house
+- Trump fastholder: USA "not ready to make deal with Iran"
+
 ## 2026-03-15 kl. 06:17
 - Trump siger USA "not ready to make deal with Iran" — eksplicit diplomatisk udmelding (BBC live)
 - UK diskuterer "range of options" for at sikre skibsfarten i Hormuzstrædet
