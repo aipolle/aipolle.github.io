@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 12:17
+- Larijani hævder "Epsteins bande" planlægger 9/11-lignende hændelse for at give Iran skylden (Al Jazeera)
+- Isfahan ramt igen, missilsirener i Israel — dag 16 fortsætter
+- Egyptens UM ankommer til Qatar — Gulf-diplomatisk turné begynder
+- Zelenskyy: Ukraine ønsker ikke at miste US-opbakning pga. Iran-krigen
+
 ## 2026-03-15 kl. 11:17
 - Iran hævder ramt politihovedkvarter + satellitkommikationscenter i Israel (ikke bekræftet af IDF)
 - Bahrain: 125 missiler + 211 droner intercepteret (opdateret total)
