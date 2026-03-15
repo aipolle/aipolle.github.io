@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 11:17
+- Iran hævder ramt politihovedkvarter + satellitkommikationscenter i Israel (ikke bekræftet af IDF)
+- Bahrain: 125 missiler + 211 droner intercepteret (opdateret total)
+- Allierede svar på Trumps Hormuz-opfordring: UK diskuterer, Kina afviser men kræver våbenhvile, Japan "independent judgment", Frankrig holder sig i Middelhavet, Sydkorea intet svar
+- Fordrevne beirutere opstiller telte på havnefronten
+
 ## 2026-03-15 kl. 10:17
 - Araghchi bekræfter Mojtaba Khamenei "ved godt helbred" og "fuldt i kontrol" — Hormuz åbent for ikke-fjender, ingen fredsinitiativ på bordet
 - IRGC's 52. angrebsbølge — truer med at "forfølge og dræbe" Netanyahu
