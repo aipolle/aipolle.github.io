@@ -1481,6 +1481,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 01:17
+- Trump-administrationen truer nyhedsmedier for kritisk Iran-dækning — FCC-formand varsler licensinddragelse for "forvrænget" dækning
+- Libanon-dødstallet over 800, 800.000+ fordrevet — Guterres: "stop kampen, stop bombningen"
+- Dag 16 fortsat uden de-eskalering
+
 ## 2026-03-14 kl. 22:17
 - FN-chef Guterres i Beirut: "ingen militær løsning, kun diplomati" for Libanon — Libanon forbereder delegation til forhandlinger med Israel
 - To yderligere iranske kvindefodboldspillere trækker australsk asylansøgning tilbage — kun tre af fem spillere fortsat i safe house
