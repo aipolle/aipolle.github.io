@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 21:17
+- Frankrig tilbyder eksplicit mægling i Libanon-Israel-forhandlinger — nyt diplomatisk initiativ fra Paris
+- Irans kaptajn i kvindefodboldlandshold trækker australsk asylansøgning tilbage — nu 5 af 7 spillere vender hjem
+- Dag 16 angreb fortsætter sen søndag aften — ny iransk missilbølge mod Israel, UAE luftforsvar aktivt
+- Mojtaba Khamenei fortsat ikke set offentligt
+
 ## 2026-03-15 kl. 18:17
 - US-italiensk fællesbase Ali Al Salem i Kuwait ramt af drone — alt personel uskadt
 - Iran FM Araghchi: Iran "åben for lande der vil tale" om sikker Hormuz-passage — diplomatisk signal
