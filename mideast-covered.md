@@ -1481,6 +1481,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Israelske angreb i Libanon: BBC-rapport fra efterdønningerne — pårørende hævder dræbte var civile, IDF siger "terrorinfrastruktur"
 - Hormuzstrædet fortsat blokeret, iranske angrebsbølger mod Israel og Golfstater fortsætter dag 16
 
+## 2026-03-15 kl. 14:17
+- UK energiminister Miliband: UK undersøger "alle muligheder" inkl. minesvejerdrones for Hormuzstrædet; vil gribe ind på energiregninger "om nødvendigt"
+- Kuwait + Qatar topdiplomater diskuterer eskalerende militære spændinger i regionen
+- Bahrain arresterer 5 mistænkte for iransk spionage
+- 4 nye sårede i Israel efter seneste raketangreb
+
 ## 2026-03-15 kl. 13:17
 - Ny iransk missilbølge mod Israel (IDF bekræfter, BBC breaking)
 - US efterretning: Ali Khamenei troede Mojtaba var "ikke særlig klog" og ukvalificeret (CBS)
