@@ -1498,6 +1498,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar FM kræver Iran stopper Golfangreb — anklager Iran for civile mål
 - Iran giver sikker passage til visse landes skibe i Hormuzstrædet
 
+## 2026-03-16 kl. 20:17
+- Trump: Hormuz-hjælp "on the way" — afviser at navngive lande; allierede fastholder afvisning
+- BBC Verify analyserer Royal Navy's mulige rolle i Hormuz-sikring
+- Al Jazeera-explainer: Iran kan fortsat affyre missiler strategisk trods påstået 90% degradering af kapacitet
+
 ## 2026-03-16 kl. 18:17
 - Merz: Iran-krigen "er ikke et NATO-anliggende" — Tyskland ikke konsulteret, mangler mandat; deltagelse "opstår ikke"
 - Trump: 7.000 mål ramt, 100+ skibe sænket, 3 iranske fabrikker angrebet i dag; truer med at destruere Irans olierørledninger
