@@ -1492,6 +1492,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 08:17
+- IRGC svarer på Trumps Hormuz-koalitionskrav: "Lad ham sende sine skibe" — international respons afdæmpet
+- Irans kvindelandshold: kaptajn trækker australsk asylansøgning tilbage — 5 af 7 hjemvendt
+- Dag 17 ingen ny eskalering, Hormuz blokeret, angreb fortsætter
+- Danmark fortsat tavst — 8 dage til valg
+
 ## 2026-03-16 kl. 07:17
 - Israel fastholder: "stadig tusindvis af mål" i Iran — dag 17 ingen de-eskalering
 - Irans ambassadør til Saudi Arabia afviser angreb på saudiske olieanlæg, siger relationer "skrider naturligt fremad" — diplomatisk signal
