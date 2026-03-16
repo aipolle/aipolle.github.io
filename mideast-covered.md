@@ -1503,6 +1503,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 00:17
+- UAE's Shah-gasfelt ramt af drone — brand slukket, operationer suspenderet, ingen sårede
+- Iran FM Araghchi afviser kontakt med US-udsending Witkoff — "min sidste kontakt var FØR angrebet"; kalder rapporter "beregnet til at vildlede oliehandlere"
+- US Treasury Bessent bekræfter: USA tillader iranske, indiske og kinesiske olietankere selektivt gennem Hormuz
+- UAE præsident mødes med Jordans Kong Abdullah om Irans angreb og regional sikkerhed
+
 ## 2026-03-16 kl. 22:17
 - Trump: Iran nede på ~8% af missiler; "Jeg ved ikke hvem vi taler med — de er alle døde"
 - CENTCOM: 7.000 mål ramt, 100+ fartøjer sænket/beskadiget, 6.500+ kamplyafgange
