@@ -1498,6 +1498,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar FM kræver Iran stopper Golfangreb — anklager Iran for civile mål
 - Iran giver sikker passage til visse landes skibe i Hormuzstrædet
 
+## 2026-03-16 kl. 22:17
+- Trump: Iran nede på ~8% af missiler; "Jeg ved ikke hvem vi taler med — de er alle døde"
+- CENTCOM: 7.000 mål ramt, 100+ fartøjer sænket/beskadiget, 6.500+ kamplyafgange
+- US markeder bedste dag siden krigsstart; oliepris falder til $93 (fra $102 morgen)
+- UK/Canada/Frankrig/Tyskland/Italien fælleserklæring om Libanon — "grave concern"
+- EU-ledere afviser formelt militær deltagelse i Hormuz
+- Iran planlægger 'Trump-burning' ved Chaharshanbe Suri-festival
+- Trump overvejer at udskyde Kina-rejse en måned
+
 ## 2026-03-16 kl. 20:17
 - Trump: Hormuz-hjælp "on the way" — afviser at navngive lande; allierede fastholder afvisning
 - BBC Verify analyserer Royal Navy's mulige rolle i Hormuz-sikring
