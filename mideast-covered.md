@@ -1492,6 +1492,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 10:17
+- US-israelske angreb rammer Hamadan by i Iran — ny by angrebet
+- EU's Kallas foreslår "Black Sea model" for Hormuz-genåbning — nyt diplomatisk forslag
+- Brent crude over $106/tønde — ny prishøjde; markeder ser "ingen ende i sigte"
+- Drone-angreb tænder brand nær Dubai Lufthavn (adskilt fra Fujairah-branden)
+- Internett-blackout dag 17 i Iran
+
 ## 2026-03-16 kl. 09:17
 - Trump truer NATO: allierede der ikke hjælper med at genåbne Hormuz vil stå over for "very bad" fremtid
 - Israelsk minister: krigen "very likely" varer adskillige uger mere
