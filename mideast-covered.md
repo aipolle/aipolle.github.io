@@ -1492,6 +1492,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 18:17
+- Merz: Iran-krigen "er ikke et NATO-anliggende" — Tyskland ikke konsulteret, mangler mandat; deltagelse "opstår ikke"
+- Trump: 7.000 mål ramt, 100+ skibe sænket, 3 iranske fabrikker angrebet i dag; truer med at destruere Irans olierørledninger
+- Rubio annoncerer snart Hormuz-støtteland; Trump vurderer Macron 8/10, forventer fransk hjælp; beder om hjælp "for at se reaktioner"
+- Mojtaba Khamenei: Trump "vi ved ikke om han er levende"; Reuters: "let såret"; ikke set offentligt
+
 ## 2026-03-16 kl. 17:17
 - Starmer bekræfter officielt: UK vil IKKE trækkes ind i "bredere krig" — men arbejder med allierede om Hormuz-sikringsplan
 - AFC: ingen notifikation fra Iran om VM 2026-udtræden — Irans kvindehold fortsat registreret
