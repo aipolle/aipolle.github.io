@@ -101,6 +101,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Quittr anti-gokke-app datalæk — 600.000 brugere, onanivaner og følelser lækket, 100.000 mindreårige, Alex Slater og Connor McLaren, "app-mafiaen", 3,2 mio. kr./md, sikkerhedsekspert ignoreret i måneder
 - DAO-kaosset fortsætter — breve til læger dukker op i frittilgængelige skraldespande flere steder i landet, indhold "dybt rystende"
 
+## 2026-03-16 (middag)
+- Lillebælt Montage ApS bøde 73.800 kr. — 55-årig mand dræbt i arbejdsulykke i Thisted, faldt fra 2,5 meters højde, reolmontage, Midt- og Vestjyllands Politi, TV Midtvest
+- UniCredit køber Commerzbank — 35 mia. euro / 261 mia. kr. bud, italiensk storbank, tysk stat og medarbejdere imod, Bloomberg/AFP
+- Meningitis-udbrud i England — University of Kent, 13 tilfælde, 2 dødsfald, campus aflyst, forebyggende antibiotika, 13.-15. marts
+
 ## 2026-03-16 (morgen)
 - Troels Lund Poulsen: Mette Frederiksen "har talt usandt" om værnepligtsforhandlinger — valgkampsdebat, DR, fordobling til 6500 værnepligtige inden 2035
 - DSB skinnebrud ved Helsingør — aflysninger Næstved-Helsingør og Kbh H-Helsingør, erstatningsbusser, Banedanmark forventer normal drift tidligst tirsdag
