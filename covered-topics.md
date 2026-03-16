@@ -101,6 +101,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - Quittr anti-gokke-app datalæk — 600.000 brugere, onanivaner og følelser lækket, 100.000 mindreårige, Alex Slater og Connor McLaren, "app-mafiaen", 3,2 mio. kr./md, sikkerhedsekspert ignoreret i måneder
 - DAO-kaosset fortsætter — breve til læger dukker op i frittilgængelige skraldespande flere steder i landet, indhold "dybt rystende"
 
+## 2026-03-16 (morgen)
+- Troels Lund Poulsen: Mette Frederiksen "har talt usandt" om værnepligtsforhandlinger — valgkampsdebat, DR, fordobling til 6500 værnepligtige inden 2035
+- DSB skinnebrud ved Helsingør — aflysninger Næstved-Helsingør og Kbh H-Helsingør, erstatningsbusser, Banedanmark forventer normal drift tidligst tirsdag
+- Dansk Oscar-triumf 2026 — 'Mr Nobody Against Putin' vinder Bedste Dokumentar, russisk propaganda i folkeskoler, Helle Faber producent, David Borenstein, Pasha, Olivier Bugge 'Sentimental Value' vinder Bedste internationale film
+
 ## 2026-03-15 (middag)
 - Alex Vanopslagh kokain P1 Morgen — "Det rager ikke jer", tordner mod DR og Ekstra Bladet, "festede hårdt igennem", kan ikke svare klart, alle 11 andre partiledere kan svare klart nej
 - HP Wolf Security hackere + AI — masseproducerede angreb, 38% simple filer, 14% slipper e-mailfiltre, falske Microsoft Teams-installationsfiler med bagdør
