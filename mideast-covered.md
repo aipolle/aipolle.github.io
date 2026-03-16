@@ -1492,6 +1492,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 13:17
+- Drone rammer Dubai Lufthavn — flyvninger suspenderet, brand; mindst 1 dræbt i Abu Dhabi
+- Starmer bekræfter efter Trump-opkald: UK "arbejder med allierede" om Hormuz-plan
+- Japan frigiver nationalt nødlagerolie — slutter sig til IEA-frigivelse fra 32 lande
+- Brent crude over $106/tønde — markeder ser "ingen ende i sigte"
+
 ## 2026-03-16 kl. 12:17
 - Grækenland og Tyskland afviser militær deltagelse i Hormuz-operationer
 - Irans UM Araghchi: Iran "klar til at tage krigen så langt som nødvendigt"
