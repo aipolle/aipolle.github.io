@@ -1492,6 +1492,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 12:17
+- Grækenland og Tyskland afviser militær deltagelse i Hormuz-operationer
+- Irans UM Araghchi: Iran "klar til at tage krigen så langt som nødvendigt"
+- Qatar FM: "Iran er nødt til at stoppe angrebene"
+
 ## 2026-03-16 kl. 11:17
 - IDF angriber Tehran, Shiraz og Tabriz simultant — Shiraz ny by
 - Tysk UM afviser NATO-rolle i Hormuz-sikkerhed
