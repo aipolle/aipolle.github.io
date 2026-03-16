@@ -1492,6 +1492,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 06:17
+- Iran indfører nye sikkerhedstjekposter i Teheran for at forhindre anti-regime-protester — kropsvisitationer i hele hovedstaden
+- Araghchi fastholder: Iran har IKKE bedt om våbenhvile, ser ingen grundlag for forhandlinger med USA
+- Dag 17 begynder: ingen de-eskalering, Hormuz blokeret, angreb mod Israel og Golfstater fortsætter
+
 ## 2026-03-15 kl. 21:17
 - Frankrig tilbyder eksplicit mægling i Libanon-Israel-forhandlinger — nyt diplomatisk initiativ fra Paris
 - Irans kaptajn i kvindefodboldlandshold trækker australsk asylansøgning tilbage — nu 5 af 7 spillere vender hjem
