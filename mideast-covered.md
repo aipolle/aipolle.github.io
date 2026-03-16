@@ -1492,6 +1492,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 19:17
+- Trump "not happy with UK": bad Starmer sende to hangarskibe — Starmer tilbød "after the war had ended"
+- Mojtaba Khameneis første skriftlige besked: embedsmænd forbliver på post under eksisterende direktiver; stadig ikke fotograferet siden 8. marts
+- Qatar FM kræver Iran stopper Golfangreb — anklager Iran for civile mål
+- Iran giver sikker passage til visse landes skibe i Hormuzstrædet
+
 ## 2026-03-16 kl. 18:17
 - Merz: Iran-krigen "er ikke et NATO-anliggende" — Tyskland ikke konsulteret, mangler mandat; deltagelse "opstår ikke"
 - Trump: 7.000 mål ramt, 100+ skibe sænket, 3 iranske fabrikker angrebet i dag; truer med at destruere Irans olierørledninger
