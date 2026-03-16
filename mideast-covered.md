@@ -1492,6 +1492,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 14:17
+- Israel iværksætter "begrænsede landoperationer" i Sydlibanon — IDF's 91. division mod Khiam-området
+- Fujairah havn + Dubai Lufthavn ramt af iranske droner igen — UAE intercepterede 6 ballistiske missiler + 21 droner mandag; brand ved Fujairah, olieopladning standset midlertidigt
+- Trump hævder Iran vil forhandle — Iran afviser; Starmer afviser "bredere krig" men støtter Hormuz-plan med allierede
+- Danmark fortsat tavst — 8 dage til valg
+
 ## 2026-03-16 kl. 13:17
 - Drone rammer Dubai Lufthavn — flyvninger suspenderet, brand; mindst 1 dræbt i Abu Dhabi
 - Starmer bekræfter efter Trump-opkald: UK "arbejder med allierede" om Hormuz-plan
