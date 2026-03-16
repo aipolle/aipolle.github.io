@@ -1498,6 +1498,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Qatar FM kræver Iran stopper Golfangreb — anklager Iran for civile mål
 - Iran giver sikker passage til visse landes skibe i Hormuzstrædet
 
+## 2026-03-16 kl. 23:17
+- Qatar Airways annoncerer begrænsede flyvninger til/fra Doha fra 18. marts — første kommercielle flygenoptagelse fra berørt Golfhavn siden krigsstart
+- Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
+- Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
+
 ## 2026-03-16 kl. 22:17
 - Trump: Iran nede på ~8% af missiler; "Jeg ved ikke hvem vi taler med — de er alle døde"
 - CENTCOM: 7.000 mål ramt, 100+ fartøjer sænket/beskadiget, 6.500+ kamplyafgange
