@@ -1492,6 +1492,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - UEFA aflyst Finalissima (Spanien-Argentina) i Qatar pga. krigen
 - Irans fodboldkaptajn Zahra Ghanbari trækker australsk asylansøgning tilbage — 5 af 7 spillere nu vendt hjem
 
+## 2026-03-16 kl. 11:17
+- IDF angriber Tehran, Shiraz og Tabriz simultant — Shiraz ny by
+- Tysk UM afviser NATO-rolle i Hormuz-sikkerhed
+- 3.350+ israelere såret (opdateret total)
+- Iran iværksætter kropsvisitationer i Teheran mod anti-regime-protester
+
 ## 2026-03-16 kl. 10:17
 - US-israelske angreb rammer Hamadan by i Iran — ny by angrebet
 - EU's Kallas foreslår "Black Sea model" for Hormuz-genåbning — nyt diplomatisk forslag
