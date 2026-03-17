@@ -1947,3 +1947,14 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - US militær bekræfter: ikke klar til at eskorte olietankere gennem Hormuzstrædet — Mojtaba Khamenei fastholder blokaden, Trump hævder USA tjener på høje oliepriser
 - Terrorangreb ved synagoge i Michigan, USA: bilvåben + skyderi ved Temple Israel, West Bloomfield Township — gerningsmand fundet død; FBI undersøger som terrorhandling
 - Israel-Libanon: angreb mod Beiruts forstæder og sydlibanon fortsætter natten til fredag
+
+## 2026-03-17 kl. 17:17
+- Netanyahu bekræfter Larijani + Basij-chef Soleimani dræbt — IDF beordret til at "fortsætte jagten"; Iran bekræfter ikke
+- UK Cooper i Underhuset: 100.000 briter hjemfløjet, UK sender 4 extra Typhoons + helikoptere, £10 mio. humanitær nødhjælp til Libanon
+- UAE: 45 droner + 10 ballistiske missiler intercepteret i dag, 2.000+ total, 8 dræbt i UAE
+- FN's menneskerettighedskontor: israelske angreb i Libanon "kan udgøre krigsforbrydelser"
+- 1 million fordrevne i Libanon bekræftet
+- Trump Truth Social-tirade: NATO laver "tåbelig fejl", USA "behøver slet ikke jeres hjælp — VI HAR ALDRIG GJORT DET!"
+- FN/WFP: 45 millioner flere risikerer akut sult globalt hvis krigen fortsætter
+- US ambassade i Bagdad direkte ramt natten til tirsdag: drone ned inde i anlægget (BBC Verify bekræftet)
+- Araghchi: opfordrer verden til at fordømme US-israelsk "militær aggression" mod Hormuz
