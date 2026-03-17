@@ -1503,6 +1503,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 13:17
+- Ali Larijani dræbt i israelsk strike — Irans sikkerhedschef og faktiske leder efter Khameneis død elimineret i lejlighed med sin søn
+- Ny iransk missilbølge mod Israel bekræftet af IDF
+- FN søger adgang til Iran for Minab-undersøgelse
+- Iran konfiskerer "hundredvis af Starlink-enheder"
+- En million fordrevet i Libanon — ny milepæl bekræftet af Al Jazeera; israelske angreb i Beiruts sydforstæder, 5 dræbt
+
 ## 2026-03-17 kl. 08:17
 - Saudi Arabia intercepterer nye droner dag 18
 - Israelsk arméenhed udvider jordoperationer i Sydlibanon
