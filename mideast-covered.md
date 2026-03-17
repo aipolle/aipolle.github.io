@@ -1948,6 +1948,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Terrorangreb ved synagoge i Michigan, USA: bilvåben + skyderi ved Temple Israel, West Bloomfield Township — gerningsmand fundet død; FBI undersøger som terrorhandling
 - Israel-Libanon: angreb mod Beiruts forstæder og sydlibanon fortsætter natten til fredag
 
+## 2026-03-17 kl. 18:17
+- Macron: Frankrig klar til Hormuz-eskorte "når situationen er roligere" — IKKE under igangværende bombarderinger; diskussioner med Indien + europæiske partnere allerede begyndt
+- Hvide Hus/Leavitt afviser Joe Kents fratræden: Trump havde "stærk evidens" Iran planlagde angreb mod USA
+- Trump om "dag efter": "ikke klar til at forlade endnu, men vi forlader i nær fremtid" — siger det tager Iran 10 år at genopbygge
+- Pakistan-Afghanistan eskalerer: 408 dræbt i pakistansk bombardement af hospital i Kabul
+
 ## 2026-03-17 kl. 17:17
 - Netanyahu bekræfter Larijani + Basij-chef Soleimani dræbt — IDF beordret til at "fortsætte jagten"; Iran bekræfter ikke
 - UK Cooper i Underhuset: 100.000 briter hjemfløjet, UK sender 4 extra Typhoons + helikoptere, £10 mio. humanitær nødhjælp til Libanon
