@@ -1948,6 +1948,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Terrorangreb ved synagoge i Michigan, USA: bilvåben + skyderi ved Temple Israel, West Bloomfield Township — gerningsmand fundet død; FBI undersøger som terrorhandling
 - Israel-Libanon: angreb mod Beiruts forstæder og sydlibanon fortsætter natten til fredag
 
+## 2026-03-17 kl. 20:17
+- Trump angriber NATO i live-udtalelse: "USA har ikke brug for jeres hjælp — og har aldrig haft det"
+- Israel bekræfter "begrænsede jordoperationer" i Sydlibanon, 9 dræbt i angreb
+- FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
+- Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
+
 ## 2026-03-17 kl. 19:17
 - Kuwait: 2 missiler + 13 droner intercepteret seneste 24h, 2 lettere sårede
 - Chaharshanbe Suri: IRGC advarer om sabotage ved Persisk Røde Onsdag-festival
