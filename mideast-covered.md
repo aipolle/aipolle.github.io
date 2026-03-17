@@ -1948,6 +1948,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Terrorangreb ved synagoge i Michigan, USA: bilvåben + skyderi ved Temple Israel, West Bloomfield Township — gerningsmand fundet død; FBI undersøger som terrorhandling
 - Israel-Libanon: angreb mod Beiruts forstæder og sydlibanon fortsætter natten til fredag
 
+## 2026-03-17 kl. 19:17
+- Kuwait: 2 missiler + 13 droner intercepteret seneste 24h, 2 lettere sårede
+- Chaharshanbe Suri: IRGC advarer om sabotage ved Persisk Røde Onsdag-festival
+- Basij-chef Soleimani: iransk statsmedia læste forudindspillet besked op — ikke set live, Iran bekræfter ikke hans død
+- Irans selektive Hormuz-blokade: venligsindede lande passerer via iransk territorialfarvand, 8 skibe 16. marts, Indien forhandler
+- Starmer + Zelenskyy mødes: opfordrer til fokus på Ukraine
+
 ## 2026-03-17 kl. 18:17
 - Macron: Frankrig klar til Hormuz-eskorte "når situationen er roligere" — IKKE under igangværende bombarderinger; diskussioner med Indien + europæiske partnere allerede begyndt
 - Hvide Hus/Leavitt afviser Joe Kents fratræden: Trump havde "stærk evidens" Iran planlagde angreb mod USA
