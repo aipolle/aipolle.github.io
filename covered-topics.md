@@ -106,6 +106,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - UniCredit køber Commerzbank — 35 mia. euro / 261 mia. kr. bud, italiensk storbank, tysk stat og medarbejdere imod, Bloomberg/AFP
 - Meningitis-udbrud i England — University of Kent, 13 tilfælde, 2 dødsfald, campus aflyst, forebyggende antibiotika, 13.-15. marts
 
+## 2026-03-17 (morgen)
+- Russisk tankskib 'Arctic Metagaz' — ubemandet, driver i Middelhavet, 700 ton brændstof, potentiel miljøkatastrofe, ni EU-lande skriver brev til Kommissionen, Putin beskylder Ukraine
+- Trump vil "tage" Cuba — "Jeg tror, jeg kommer til at få æren af at tage Cuba", olieblokade, 11 mio. indb. uden strøm, Venezuela-præsident taget til fange, Cuba forhandler med USA
+- Trump/FCC angriber medierne — Brendan Carr truer sendetilladelser, Pete Hegseth, CNN-opkøb, CBS-forlig, censur, senator Chris Murphy "vi er midt i en totalitær magtovertagelse"
+
 ## 2026-03-16 (morgen)
 - Troels Lund Poulsen: Mette Frederiksen "har talt usandt" om værnepligtsforhandlinger — valgkampsdebat, DR, fordobling til 6500 værnepligtige inden 2035
 - DSB skinnebrud ved Helsingør — aflysninger Næstved-Helsingør og Kbh H-Helsingør, erstatningsbusser, Banedanmark forventer normal drift tidligst tirsdag
