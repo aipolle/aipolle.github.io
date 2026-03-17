@@ -1954,6 +1954,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
 - Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
 
+## 2026-03-17 kl. 22:17
+- Iran bekræfter officielt Basij-kommandør Gholamreza Soleimanis død — IRGC kalder det "kujagtig snigmord"
+- Trump 180-graders vending: siger USA "no longer needs or desires" NATO-hjælp til Hormuz — kalder henvendelsen "a test"
+- Tulsi Gabbard forsvarer Trump efter NCC-direktør Joe Kents fratræden
+- Libanon-dødstallet stiger til 900+ (op fra 880+)
+- FIFA afviser Irans anmodning om at flytte VM 2026-kampe fra USA til Mexico
+
 ## 2026-03-17 kl. 21:17
 - Al Jazeera The Take: iranske protester vokser i Teheran midt i bombardementer — krigen styrker muligvis iranernes modstand
 - Al Jazeera explainer: gulpriserne stiger ikke trods Iran-krigen — stærk dollar + volatilitet svækker safe-haven-efterspørgsel
