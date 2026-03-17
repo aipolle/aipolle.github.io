@@ -1503,6 +1503,19 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 16:17
+- Netanyahu bekræfter Larijani + Basij-chef Soleimani dræbt — IDF beordret til at "fortsætte jagten på Irans ledelse"; vil give iranere chance for at "fjerne regimet"
+- UK Cooper i Underhuset: 100.000 britiske statsborgere hjemfløjet (milepæl), Iran 900+ missiler + 3.000+ droner mod 13 lande, £10 mio. humanitær nødhjælp til Libanon, 4 extra Typhoons + helikoptere
+- UAE: 45 droner + 10 ballistiske missiler intercepteret I DAG, 2.000+ total, 8 dræbt i UAE siden start
+- FN's menneskerettighedskontor: israelske angreb i Libanon "kan udgøre krigsforbrydelser"
+- 1 million fordrevne i Libanon bekræftet (Al Jazeera)
+
+## 2026-03-17 kl. 15:17
+- US National Counterterrorism Center-direktør Joe Kent fratræder — "cannot in good conscience support the ongoing war in Iran", siger Iran "posed no imminent threat"
+- UAE og Qatar intercepterer aktive iranske missiler/droner (seneste time)
+- HMS Dragon set i Gibraltar en route til Cypern (BBC Verify, billeder)
+- Libanon-dødstallet stiger til 880+ dræbt, 1 million fordrevne
+
 ## 2026-03-17 kl. 14:17
 - Israel hævder dræbt Basij-kommandør — højeste niveau-elimination siden Khamenei (Al Jazeera)
 - Iranske droner antænder ny brand ved Fujairah-oliehavn (UAE) — gentagne angreb mod Hormuz-alternativ
