@@ -1954,6 +1954,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
 - Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
 
+## 2026-03-17 kl. 21:17
+- Al Jazeera The Take: iranske protester vokser i Teheran midt i bombardementer — krigen styrker muligvis iranernes modstand
+- Al Jazeera explainer: gulpriserne stiger ikke trods Iran-krigen — stærk dollar + volatilitet svækker safe-haven-efterspørgsel
+- BBC bekræfter formelt Larijani dræbt i israelske luftangreb — Iran bekræfter fortsat ikke
+
 ## 2026-03-17 kl. 19:17
 - Kuwait: 2 missiler + 13 droner intercepteret seneste 24h, 2 lettere sårede
 - Chaharshanbe Suri: IRGC advarer om sabotage ved Persisk Røde Onsdag-festival
