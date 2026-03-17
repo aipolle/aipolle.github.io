@@ -1503,6 +1503,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 05:17
+- UAE genåbner luftrum efter iranske missilangreb — Dubai + Abu Dhabi lufthavne genoptager flytrafik
+- US ambassade i Bagdad bekræftet "mest intense" angreb siden krigsstart — Islamisk Modstand i Irak bag
+- Dag 18 fortsat — ingen de-eskalering, Hormuz blokeret
+
 ## 2026-03-17 kl. 03:17
 - Iran affyrer ny missilbølge mod Israel (Breaking) — IDF shelter-alarmer aktiveret
 - US ambassade i Bagdad ramt af droner/raketter — "hidtil mest intense angrebsbølge" (Reuters/AFP)
