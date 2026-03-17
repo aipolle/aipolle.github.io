@@ -1503,6 +1503,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 02:17
+- UAE lukker luftrum som "ekstraordinær forebyggende foranstaltning" — forsvarsministerium bekræfter interception af iranske missiler og droner
+- Rescuere hiver civile ud af murbrokkerne i Teheran (Al Jazeera)
+- Dag 18 fortsætter: Hormuz blokeret, ingen de-eskalering
+
 ## 2026-03-17 kl. 01:17
 - Amnesty International officiel rapport: USA ansvarlig for Minab-skoleangreb (170 dræbt), Tomahawk-missil sandsynligvis benyttet — kræver international efterforskning
 - Trump "not happy with UK" / Starmer bekræfter UK ikke trækkes ind i bredere krig (BBCs live-tophistorie)
