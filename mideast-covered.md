@@ -1503,6 +1503,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 07:17
+- Én dræbt af missilskrot i Abu Dhabi — pakistansk statsborger dræbt af shrapnel fra missile-interception
+- Asien indfører energirationering: Sri Lanka Wednesday-fridag, Myanmar, Bangladesh, Filippinerne — 90% af Hormuz-olie går til Asien
+- Iransk fodboldforbund forhandler med FIFA om VM-kampe i Mexico — sikkerhedshensyn, Trump kan ikke garantere holdets sikkerhed
+- IDF ny evakueringsadvarsel for Arab al-Jal, Sydlibanon + israelske luftangreb mod tre Beirut-kvarterer
+- Finlands præsident Stubb forsvarer Starmer, kalder angrebet et "overraskelsesangreb", kræver fredsmægling
+
 ## 2026-03-17 kl. 05:17
 - UAE genåbner luftrum efter iranske missilangreb — Dubai + Abu Dhabi lufthavne genoptager flytrafik
 - US ambassade i Bagdad bekræftet "mest intense" angreb siden krigsstart — Islamisk Modstand i Irak bag
