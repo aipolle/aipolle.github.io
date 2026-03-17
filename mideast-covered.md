@@ -1503,6 +1503,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 03:17
+- Iran affyrer ny missilbølge mod Israel (Breaking) — IDF shelter-alarmer aktiveret
+- US ambassade i Bagdad ramt af droner/raketter — "hidtil mest intense angrebsbølge" (Reuters/AFP)
+- Dødstalstal dag 18: 13 US-soldater dræbt, ~200 sårede; 3.000+ total (HRANA); Libanon 886 dræbt
+- Oliepriser +2,8% til $103/tønde i asiatisk handel; Kospi +2,5%, Nikkei +0,25%
+
 ## 2026-03-17 kl. 02:17
 - UAE lukker luftrum som "ekstraordinær forebyggende foranstaltning" — forsvarsministerium bekræfter interception af iranske missiler og droner
 - Rescuere hiver civile ud af murbrokkerne i Teheran (Al Jazeera)
