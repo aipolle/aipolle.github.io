@@ -1954,6 +1954,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
 - Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
 
+## 2026-03-17 kl. 23:17
+- Iran bekræfter officielt Ali Larijani dræbt: SNSC-kontor bekræfter dræbt med søn Morteza, SNSC-deputeret Alireza Bayat og livvagter i datters hjem i Pardis
+- USA bekræfter 157 dræbt i maritime angreb — 47 fartøjer angrebet; eksperter: "ekstrajudicielle" (Al Jazeera)
+- Hezbollah affyrer nye raketter mod Israel — IDF intercepterer og angriber raketramper i Libanon
+
 ## 2026-03-17 kl. 22:17
 - Iran bekræfter officielt Basij-kommandør Gholamreza Soleimanis død — IRGC kalder det "kujagtig snigmord"
 - Trump 180-graders vending: siger USA "no longer needs or desires" NATO-hjælp til Hormuz — kalder henvendelsen "a test"
