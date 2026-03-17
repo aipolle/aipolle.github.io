@@ -1503,6 +1503,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 08:17
+- Saudi Arabia intercepterer nye droner dag 18
+- Israelsk arméenhed udvider jordoperationer i Sydlibanon
+- Israel: 3.530 sårede siden krigsstart (opdateret tal)
+- Trump bekræftet udskyder Kina-besøg ca. en måned pga. Iran-krigen (AP)
+- 4 dræbt i Bagdad, Jadriyah, ved udveksling af ild US styrker ↔ Iran-støttede grupper
+
 ## 2026-03-17 kl. 07:17
 - Én dræbt af missilskrot i Abu Dhabi — pakistansk statsborger dræbt af shrapnel fra missile-interception
 - Asien indfører energirationering: Sri Lanka Wednesday-fridag, Myanmar, Bangladesh, Filippinerne — 90% af Hormuz-olie går til Asien
