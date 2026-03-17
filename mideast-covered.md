@@ -1503,6 +1503,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Al Jazeera: Iran tillader selektiv Hormuz-passage for visse landes skibe — explainer om fritagne nationaliteter
 - Trump/UK/Hormuz-pres fortsat dominerende tophistorie på BBC live
 
+## 2026-03-17 kl. 14:17
+- Israel hævder dræbt Basij-kommandør — højeste niveau-elimination siden Khamenei (Al Jazeera)
+- Iranske droner antænder ny brand ved Fujairah-oliehavn (UAE) — gentagne angreb mod Hormuz-alternativ
+- US benzinpriser stiger kraftigt — politisk pres på Trump vokser
+
 ## 2026-03-17 kl. 13:17
 - Ali Larijani dræbt i israelsk strike — Irans sikkerhedschef og faktiske leder efter Khameneis død elimineret i lejlighed med sin søn
 - Ny iransk missilbølge mod Israel bekræftet af IDF
