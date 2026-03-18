@@ -2079,3 +2079,8 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - NATO deployerer ny Patriot-enhed til Incirlik Air Base i Tyrkiet — svar på gentagne iranske missilinterceptioner i tyrkisk luftrum
 - Iran fremstår som de facto Hormuz-gatekeeper — lande indgår bilaterale aftaler med Iran om selektiv passage frem for at slutte sig til Trumps flådekoalition (Al Jazeera)
 - Iranske kvindefodboldspillere ankommer til østlige Tyrkiet ved iransk grænse på vej hjem fra Australien
+
+## 2026-03-18 kl. 16:17
+- Iran bekræfter officielt efterretningsminister Khatib dræbt — Pezeshkian bekræfter; tredje iranske topfigur likvideret på to dage
+- Iran truer med at ramme Golfstaternes energianlæg som svar på South Pars-angrebet
+- Qatar fordømmer South Pars-angrebet som "farligt og uansvarligt skridt"
