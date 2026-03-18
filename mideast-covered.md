@@ -2023,6 +2023,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Friske angreb mod US-ambassaden i Bagdad (Green Zone) natten til onsdag
 - Saudi Arabia intercepterer 6 droner i øst; Kuwait luftforsvar aktiveret
 
+## 2026-03-18 kl. 09:17
+- US-israelske angreb dræber 7 i Lorestan-provinsen (ny provins ramt)
+- US benzinprisstigninger forværrer Trumps politiske stilling — intern politisk pres vokser
+- Israelernes opbakning til krigen fortsat høj trods lav Netanyahu-tillid (Al Jazeera-analyse)
+
 ## 2026-03-18 kl. 08:17
 - Iran affyrer cluster-missiler mod Tel Aviv — 2 dræbt (hævn for Larijani)
 - UAE fornyet angrebsbølge: 2 eksplosioner i Dubai, luftforsvar aktiveret, 2.000+ projektiler mod UAE siden start
