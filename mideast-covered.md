@@ -1954,6 +1954,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
 - Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
 
+## 2026-03-18 kl. 12:17
+- Irans efterretningsminister Esmail Khatib bekræftet dræbt — Israels forsvarsminister Katz bekræfter "eliminering"
+- Israelske strike i hjertet af Beirut: mindst 10 dræbt, 27 sårede
+- Iran affyrer "hævn"-missilbølge mod Israel efter Larijani/Soleimani/Khatib-attentater
+
 ## 2026-03-18 kl. 02:17
 - BBC Fergal Keane-feature fra Teheran dag 19: dobbelt pres — US-israelske bomber + total regime-undertrykkelse
 - Baran (forretningskvinde, 30'erne): for bange til at gå på arbejde, "det er som at gamble med mit liv"
