@@ -2074,3 +2074,8 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - IDF får blankt mandat til at angribe iransk ledelse for egen vilje — efter Larijani/Soleimani/Khatib-attentater
 - Over 20 dræbt i Israels Libanon-angreb onsdag (central Beirut + syd + øst); Hezbollah kæmper israelske landstyrker i syd
 - Iranske kvindefodboldspillere vender hjem fra Australien — flertallet trækker asylansøgning tilbage
+
+## 2026-03-18 kl. 15:17
+- NATO deployerer ny Patriot-enhed til Incirlik Air Base i Tyrkiet — svar på gentagne iranske missilinterceptioner i tyrkisk luftrum
+- Iran fremstår som de facto Hormuz-gatekeeper — lande indgår bilaterale aftaler med Iran om selektiv passage frem for at slutte sig til Trumps flådekoalition (Al Jazeera)
+- Iranske kvindefodboldspillere ankommer til østlige Tyrkiet ved iransk grænse på vej hjem fra Australien
