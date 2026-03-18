@@ -1954,6 +1954,13 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
 - Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
 
+## 2026-03-18 kl. 02:17
+- BBC Fergal Keane-feature fra Teheran dag 19: dobbelt pres — US-israelske bomber + total regime-undertrykkelse
+- Baran (forretningskvinde, 30'erne): for bange til at gå på arbejde, "det er som at gamble med mit liv"
+- Regime-checkpoints i hele Teheran, pro-regime-konvojer om natten som advarsel, uafhængig journalistik umulig
+- Ali (40'erne): "Byen ser ud som de dødes by", på antidepressiva
+- Dag 19 begynder: Hormuz blokeret, ingen de-eskalering
+
 ## 2026-03-17 kl. 23:17
 - Iran bekræfter officielt Ali Larijani dræbt: SNSC-kontor bekræfter dræbt med søn Morteza, SNSC-deputeret Alireza Bayat og livvagter i datters hjem i Pardis
 - USA bekræfter 157 dræbt i maritime angreb — 47 fartøjer angrebet; eksperter: "ekstrajudicielle" (Al Jazeera)
