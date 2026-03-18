@@ -2023,6 +2023,15 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Friske angreb mod US-ambassaden i Bagdad (Green Zone) natten til onsdag
 - Saudi Arabia intercepterer 6 droner i øst; Kuwait luftforsvar aktiveret
 
+## 2026-03-18 kl. 10:17
+- Hormuz: maritime data viser næsten fordoblet skibstrafik de seneste dage — mulig gradvis lempelse
+- Larijani + Soleimani + 84 IRIS Dena-sømænd begraves i Teheran kl. 13:30 lokal tid
+- Israel ødelægger bygning nær downtown Beirut — 6 dræbt, 24 sårede; IDF fornyer evakueringsordre syd for Zahrani
+- IDF erkender at tank skød mod UNIFIL-position i sydlibanon
+- Irans efterretningsminister angiveligt måltaget af israelske angreb (ikke bekræftet)
+- Iran henretter "israelsk spion" Koroush Keyvani — arresteret under juni 2025-krigen
+- Trump bekræfter officielt Xi-møde udsat en måned pga. Iran-krigen
+
 ## 2026-03-18 kl. 09:17
 - US-israelske angreb dræber 7 i Lorestan-provinsen (ny provins ramt)
 - US benzinprisstigninger forværrer Trumps politiske stilling — intern politisk pres vokser
