@@ -2069,3 +2069,8 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Iransk hærchef Hatami truer "afgørende" gengæld for Larijani; IRGC allerede affyret missilbølge mod central Israel
 - Golf-angreb natten til onsdag: UAE, Qatar, Kuwait, Saudi Arabia — UAE hårdest ramt med halvdelen af 3.000+ projektiler total
 - Gulf-økonomirapport: produktion faldt fra 21 til 14 mio. tønder/dag; recessionrisiko vokser for GCC
+
+## 2026-03-18 kl. 14:17
+- IDF får blankt mandat til at angribe iransk ledelse for egen vilje — efter Larijani/Soleimani/Khatib-attentater
+- Over 20 dræbt i Israels Libanon-angreb onsdag (central Beirut + syd + øst); Hezbollah kæmper israelske landstyrker i syd
+- Iranske kvindefodboldspillere vender hjem fra Australien — flertallet trækker asylansøgning tilbage
