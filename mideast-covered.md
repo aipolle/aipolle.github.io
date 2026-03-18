@@ -2023,6 +2023,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Friske angreb mod US-ambassaden i Bagdad (Green Zone) natten til onsdag
 - Saudi Arabia intercepterer 6 droner i øst; Kuwait luftforsvar aktiveret
 
+## 2026-03-18 kl. 11:17
+- Ny israelsk strike i hjertet af Beirut — Hezbollah-tilknyttet bygning nær downtown, ingen kendte tab
+- Iran affyrer nye missiler og droner mod Qatar, UAE, Kuwait, Saudi Arabia — krigen nærmer 3-ugers-mærket
+- Araghchi: Larijanis likvidering "destabiliserer ikke" Irans politiske system
+
 ## 2026-03-18 kl. 10:17
 - Hormuz: maritime data viser næsten fordoblet skibstrafik de seneste dage — mulig gradvis lempelse
 - Larijani + Soleimani + 84 IRIS Dena-sømænd begraves i Teheran kl. 13:30 lokal tid
