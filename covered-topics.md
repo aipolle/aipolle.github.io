@@ -106,6 +106,11 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - UniCredit køber Commerzbank — 35 mia. euro / 261 mia. kr. bud, italiensk storbank, tysk stat og medarbejdere imod, Bloomberg/AFP
 - Meningitis-udbrud i England — University of Kent, 13 tilfælde, 2 dødsfald, campus aflyst, forebyggende antibiotika, 13.-15. marts
 
+## 2026-03-18 (morgen)
+- DAO brevskandalen Fredericia genbrugsplads — et par hundrede breve i papircontainer og pizzabakker, Affald & Genbrug, Fyens Distribution, Trafikstyrelsen, Hans Peter Nissen "helt uhørt"
+- Martin Jensen villa Karlslunde 20 millioner — strandvejsvilla, solgte Islands Brygge-lejlighed, X Factor-dommer, husselv bestemte
+- Trump sammenligner europæere med Hitler — "værste siden Hitler", Europa og Iran, Trump-melding 17. marts 2026
+
 ## 2026-03-17 (morgen)
 - Russisk tankskib 'Arctic Metagaz' — ubemandet, driver i Middelhavet, 700 ton brændstof, potentiel miljøkatastrofe, ni EU-lande skriver brev til Kommissionen, Putin beskylder Ukraine
 - Trump vil "tage" Cuba — "Jeg tror, jeg kommer til at få æren af at tage Cuba", olieblokade, 11 mio. indb. uden strøm, Venezuela-præsident taget til fange, Cuba forhandler med USA
