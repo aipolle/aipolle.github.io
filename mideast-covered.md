@@ -2022,3 +2022,10 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Libanon: 6 dræbt, 24 sårede i israelske angreb mod central Beirut (Zuqaq al-Blat + Basta)
 - Friske angreb mod US-ambassaden i Bagdad (Green Zone) natten til onsdag
 - Saudi Arabia intercepterer 6 droner i øst; Kuwait luftforsvar aktiveret
+
+## 2026-03-18 kl. 07:17
+- US bruger 5.000-punds "deep penetrator munitions" (bunker busters) mod iranske missilsteder langs Hormuzstrædet (CENTCOM)
+- Israel demolerer bygning i central Beirut (Bachoura) — 6 dræbt, 24 sårede; 1 million fordrevne i Libanon bekræftet
+- Iransk hærchef Hatami truer "afgørende" gengæld for Larijani; IRGC allerede affyret missilbølge mod central Israel
+- Golf-angreb natten til onsdag: UAE, Qatar, Kuwait, Saudi Arabia — UAE hårdest ramt med halvdelen af 3.000+ projektiler total
+- Gulf-økonomirapport: produktion faldt fra 21 til 14 mio. tønder/dag; recessionrisiko vokser for GCC
