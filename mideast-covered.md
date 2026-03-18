@@ -2023,6 +2023,17 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Friske angreb mod US-ambassaden i Bagdad (Green Zone) natten til onsdag
 - Saudi Arabia intercepterer 6 droner i øst; Kuwait luftforsvar aktiveret
 
+## 2026-03-18 kl. 08:17
+- Iran affyrer cluster-missiler mod Tel Aviv — 2 dræbt (hævn for Larijani)
+- UAE fornyet angrebsbølge: 2 eksplosioner i Dubai, luftforsvar aktiveret, 2.000+ projektiler mod UAE siden start
+- Saudi Arabia nedskyder drone mod ambassadedistrikt i Riyadh
+- Kuwait, Qatar og Bahrain: alle rapporterede natte-interceptions
+- Israel demolerer bygning i central Beirut
+- Iran begynder at tillade flere skibe through Hormuz (maritime data: næsten fordobling)
+- Ukraine sender 201 militæreksperter til Golf mod iranske droner; Zelenskyy: Irans droner indeholder russiske komponenter
+- Araghchi: Larijani-drab destabiliserer ikke Iran
+- IMO indkalder nødmøde om Golfskibsfart
+
 ## 2026-03-18 kl. 07:17
 - US bruger 5.000-punds "deep penetrator munitions" (bunker busters) mod iranske missilsteder langs Hormuzstrædet (CENTCOM)
 - Israel demolerer bygning i central Beirut (Bachoura) — 6 dræbt, 24 sårede; 1 million fordrevne i Libanon bekræftet
