@@ -106,6 +106,10 @@ Denne fil opdateres automatisk af cron-jobbene. Undgå at skrive om de samme his
 - UniCredit køber Commerzbank — 35 mia. euro / 261 mia. kr. bud, italiensk storbank, tysk stat og medarbejdere imod, Bloomberg/AFP
 - Meningitis-udbrud i England — University of Kent, 13 tilfælde, 2 dødsfald, campus aflyst, forebyggende antibiotika, 13.-15. marts
 
+## 2026-03-18 (middag)
+- Store Bededag comeback / DI-beregning — 4.100 kroner i lønedgang per familie, arbejdsgivere vs. lønmodtagere, valgkampens abespil, ingen vil betale regningen
+- Marius Borg Høiby dom — anklagemyndighed kræver 7 år og 7 måneder, 40 tiltaleforhold inkl. fire voldtægter, narkotransport, norsk papprins
+
 ## 2026-03-18 (morgen)
 - DAO brevskandalen Fredericia genbrugsplads — et par hundrede breve i papircontainer og pizzabakker, Affald & Genbrug, Fyens Distribution, Trafikstyrelsen, Hans Peter Nissen "helt uhørt"
 - Martin Jensen villa Karlslunde 20 millioner — strandvejsvilla, solgte Islands Brygge-lejlighed, X Factor-dommer, husselv bestemte
