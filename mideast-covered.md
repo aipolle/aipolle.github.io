@@ -2001,3 +2001,18 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN/WFP: 45 millioner flere risikerer akut sult globalt hvis krigen fortsætter
 - US ambassade i Bagdad direkte ramt natten til tirsdag: drone ned inde i anlægget (BBC Verify bekræftet)
 - Araghchi: opfordrer verden til at fordømme US-israelsk "militær aggression" mod Hormuz
+
+## 2026-03-18 kl. 02:17
+- BBC Fergal Keane-feature fra Teheran dag 19: dobbelt pres — US-israelske bomber + total regime-undertrykkelse
+- Baran (forretningskvinde): for bange til at gå på arbejde, "det er som at gamble med mit liv"
+- Regime-checkpoints i hele Teheran, pro-regime-konvojer om natten som advarsel, uafhængig journalistik umulig
+- Ali (40'erne): "Byen ser ud som de dødes by", på antidepressiva
+- Dag 19 begynder: Hormuz blokeret, ingen de-eskalering
+
+## 2026-03-18 kl. 03:17
+- IAEA bekræfter: projektil rammer Bushehr-atomkraftværket — ingen skader eller personale kvæstet; Grossi kræver "maksimal tilbageholdenhed for at forhindre risiko for atomulykke"
+- Irans hærchef Hatami truer med "afgørende, afskrækkende og fortrydelsesfuld" gengæld; IRGC allerede affyret missilbølge mod central Israel "som hævn" for Larijani
+- To civile dræbt i iransk missilangreb mod Tel Aviv-forstæder (Ramat Gan)
+- Libanon: 6 dræbt, 24 sårede i israelske angreb mod central Beirut (Zuqaq al-Blat + Basta)
+- Friske angreb mod US-ambassaden i Bagdad (Green Zone) natten til onsdag
+- Saudi Arabia intercepterer 6 droner i øst; Kuwait luftforsvar aktiveret
