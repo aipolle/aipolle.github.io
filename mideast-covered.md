@@ -1954,6 +1954,11 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - FN's menneskerettighedskontor: israelske Libanon-angreb "kan udgøre krigsforbrydelser"
 - Macron-analyse: Frankrig forbereder "atomvåbens tidsalder" som svar på Iran-krigen
 
+## 2026-03-18 kl. 13:17
+- South Pars gasfelts petrokemiske kompleks i brand — israelske luftangreb rammer verdens største naturgasfelt (Iran/Qatar)
+- IDF varsler angreb mod Litani-flodovergange i Sydlibanon i dag — forhindre Hezbollah-forstærkning
+- Iran bruger klyngebomber mod Israel — ældre par dræbt i Ramat Gan; Israel: 70%+ af Irans ballistiske missilramper ødelagt
+
 ## 2026-03-18 kl. 12:17
 - Irans efterretningsminister Esmail Khatib bekræftet dræbt — Israels forsvarsminister Katz bekræfter "eliminering"
 - Israelske strike i hjertet af Beirut: mindst 10 dræbt, 27 sårede
