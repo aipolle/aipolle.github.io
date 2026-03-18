@@ -2009,6 +2009,12 @@ Denne fil opdateres automatisk. Undgå at gentage disse historier.
 - Ali (40'erne): "Byen ser ud som de dødes by", på antidepressiva
 - Dag 19 begynder: Hormuz blokeret, ingen de-eskalering
 
+## 2026-03-18 kl. 05:17
+- Australsk militærbase Al Minhad (UAE) ramt af iransk projektil — PM Albanese bekræfter, ingen sårede, lettere skader
+- US angriber iranske missilsteder nær Hormuzstrædet (CENTCOM bekræfter)
+- IRGC bekræfter missilbølge mod central Israel i hævn for Larijani
+- Trump 180-graders vending: USA "no longer need or desire" NATO-hjælp til Hormuz
+
 ## 2026-03-18 kl. 03:17
 - IAEA bekræfter: projektil rammer Bushehr-atomkraftværket — ingen skader eller personale kvæstet; Grossi kræver "maksimal tilbageholdenhed for at forhindre risiko for atomulykke"
 - Irans hærchef Hatami truer med "afgørende, afskrækkende og fortrydelsesfuld" gengæld; IRGC allerede affyret missilbølge mod central Israel "som hævn" for Larijani
